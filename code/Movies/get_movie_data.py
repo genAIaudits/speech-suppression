@@ -47,10 +47,14 @@ def data_prep():
        return
 
     # tmbd with release year and genre
-    genre, year = get_genre_year(dataset["id"])
+    genre, year, overview = get_genre_year(dataset["id"])
     dataset["genres"] = genre
     dataset["Release year"] = year
     dataset.to_csv("./Data/Movies/TMDB_with_genre.csv", index=False)
+    
+    # adding overviews
+    dataset["Overview"] = overview
+    dataset.to_csv("./Data/Movies/TMDB_with_overview.csv", index=False)
     
     print("Getting show IDs...")
     ids = get_tmdb_ids(dataset, True, colname) # returns a set
@@ -204,20 +208,28 @@ def read_tmdb_csv(filepath):
 def get_genre_year(ids):
     release_dates = []
     genres = []
+    overviews = []
     
     for id in ids:
-        if id != '':
-            movie = tmdb.Movies(id)
-            response = movie.info()
-            curr_movie_genres = response["genres"]
-            all_genres = [genre["name"] for genre in curr_movie_genres]
-            genres.append(";".join(all_genres))
-            release_dates.append(response['release_date'][:4])
-        else:
-            genres.append("")
-            release_dates.append("")
-    
-    return genres, release_dates  
+        try:
+            if id != '':
+                movie = tmdb.Movies(id)
+                response = movie.info()
+                curr_movie_genres = response["genres"]
+                all_genres = [genre["name"] for genre in curr_movie_genres]
+                if int(response['release_date'][:4]) > 1985:
+                    genres.append(";".join(all_genres))
+                    release_dates.append(response['release_date'][:4])
+                    overviews.append(response["overview"])
+            else:
+                genres.append("")
+                overviews.append("")
+                release_dates.append("")
+        except:
+            print(id)
+            pass
+    assert(len(release_dates) == len(genres) == len(overviews))
+    return genres, release_dates, overviews  
 
 
 def get_content_ratings(ids, is_movie):
