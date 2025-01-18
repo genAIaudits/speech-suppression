@@ -69,7 +69,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 67,Bird Box,405774,R,Horror;Thriller;Drama,2018
 68,X,760104,R,Horror;Thriller;Mystery,2022
 69,Bob Marley: One Love,802219,PG-13,Music;History;Drama,2024
-70,Alien,348,R,Horror;Science Fiction,1979
 71,Wonder Woman,297762,PG-13,Action;Adventure;Fantasy,2017
 72,Joker,475557,R,Crime;Thriller;Drama,2019
 73,Inception,27205,PG-13,Action;Science Fiction;Adventure,2010
@@ -79,11 +78,9 @@ Unnamed: 0,Title,id,rating,genres,Release year
 77,Coach Carter,7214,PG-13,Drama;History,2005
 78,Spider-Man: Into the Spider-Verse,324857,PG,Animation;Action;Adventure;Science Fiction,2018
 79,PAW Patrol: The Mighty Movie,893723,PG,Animation;Family;Action;Science Fiction;Comedy;Drama;Adventure,2023
-80,Star Wars,11,PG,Adventure;Action;Science Fiction,1977
 81,The Matrix,603,R,Action;Science Fiction,1999
 82,Mission: Impossible - Dead Reckoning Part One,575264,PG-13,Action;Thriller,2023
 83,Iron Man 2,10138,PG-13,Adventure;Action;Science Fiction,2010
-84,The Terminator,218,R,Action;Thriller;Science Fiction,1984
 85,Rebel Moon - Part One: A Child of Fire,848326,PG-13,Science Fiction;Drama;Action,2023
 86,To Your Last Death,366171,R,Animation;Horror,2019
 87,Kung Fu Panda 3,140300,PG,Action;Adventure;Animation;Comedy;Family,2016
@@ -110,7 +107,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 108,Five Nights at Freddy's,507089,PG-13,Horror;Mystery,2023
 109,Ghostbusters: Afterlife,425909,PG-13,Fantasy;Comedy;Adventure;Science Fiction,2021
 110,King Kong,254,PG-13,Adventure;Drama;Action,2005
-111,Dune,841,PG-13,Action;Science Fiction;Adventure,1984
 112,Miller's Girl,1026436,R,Comedy;Drama;Mystery;Thriller,2024
 113,Split,381288,PG-13,Horror;Thriller,2017
 114,Tenet,577922,PG-13,Action;Thriller;Science Fiction,2020
@@ -127,7 +123,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 125,Pirates of the Caribbean: The Curse of the Black Pearl,22,PG-13,Adventure;Fantasy;Action,2003
 126,The Bricklayer,927107,R,Action;Thriller,2023
 127,Shang-Chi and the Legend of the Ten Rings,566525,PG-13,Action;Adventure;Fantasy,2021
-128,The Omen,794,R,Horror;Thriller,1976
 129,Tangled,38757,PG,Animation;Family,2010
 130,Twilight,8966,PG-13,Fantasy;Drama;Romance,2008
 131,Toy Story,862,G,Animation;Adventure;Family;Comedy,1995
@@ -154,7 +149,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 152,Jurassic World Dominion,507086,PG-13,Adventure;Action;Science Fiction,2022
 153,Chappie,198184,R,Crime;Action;Science Fiction,2015
 154,Creed III,677179,PG-13,Drama;Action,2023
-155,Rocky,1366,PG,Drama,1976
 156,Shrek 2,809,PG,Animation;Family;Comedy;Fantasy;Adventure,2004
 157,Indiana Jones and the Dial of Destiny,335977,PG-13,Adventure;Action,2023
 158,Black Panther: Wakanda Forever,505642,PG-13,Action;Adventure;Science Fiction,2022
@@ -163,7 +157,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 161,Morbius,526896,R,Action;Science Fiction;Fantasy,2022
 162,Law Abiding Citizen,22803,R,Drama;Crime;Thriller,2009
 163,Baywatch,339846,R,Comedy;Action;Crime,2017
-164,Superman,1924,PG,Science Fiction;Action;Adventure,1978
 165,She Came to Me,503417,R,Romance;Comedy;Drama,2023
 166,Lights Out,931642,R,Action;Thriller,2024
 167,Retribution,762430,R,Thriller,2023
@@ -173,7 +166,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 171,Forrest Gump,13,PG-13,Comedy;Drama;Romance,1994
 172,Babylon,615777,R,Drama;Comedy,2022
 173,Harry Potter and the Order of the Phoenix,675,PG-13,Adventure;Fantasy,2007
-174,Taxi Driver,103,R,Crime;Drama,1976
 175,Titanic,597,PG-13,Drama;Romance,1997
 176,Spaceman,636706,R,Science Fiction;Adventure;Drama,2024
 177,Avatar,19995,PG-13,Action;Adventure;Fantasy;Science Fiction,2009
@@ -195,7 +187,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 193,The Twilight Saga: Breaking Dawn - Part 2,50620,PG-13,Adventure;Fantasy;Drama;Romance,2012
 194,Ratatouille,2062,G,Animation;Comedy;Family;Fantasy,2007
 195,Pirates of the Caribbean: At World's End,285,PG-13,Adventure;Fantasy;Action,2007
-196,The Godfather,238,R,Drama;Crime,1972
 197,Saw X,951491,R,Horror;Thriller,2023
 198,Saw X,951491,R,Horror;Thriller,2023
 199,Captive,331190,PG-13,Crime;Drama;Thriller,2015
@@ -227,7 +218,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 225,Fall,985939,PG-13,Thriller,2022
 226,Sound of Freedom,678512,PG-13,Action;Drama,2023
 227,The Emperor's New Groove,11688,G,Adventure;Animation;Comedy;Family;Fantasy,2000
-228,Scarface,111,R,Action;Crime;Drama,1983
 229,Irish Wish,1019420,PG,Romance;Comedy;Fantasy,2024
 230,Creed II,480530,PG-13,Drama;Action,2018
 231,Thor: Love and Thunder,616037,PG-13,Fantasy;Action;Comedy,2022
@@ -261,7 +251,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 259,Gravity,49047,PG-13,Science Fiction;Thriller;Drama,2013
 260,Avengers: Age of Ultron,99861,PG-13,Action;Adventure;Science Fiction,2015
 261,The Conjuring,138843,R,Horror;Thriller,2013
-262,Ghostbusters,620,PG,Comedy;Fantasy,1984
 263,Beauty and the Beast,321612,PG,Family;Fantasy;Romance,2017
 264,The Princess and the Frog,10198,G,Animation;Romance;Fantasy;Family,2009
 265,Me Before You,296096,PG-13,Drama;Romance,2016
@@ -272,11 +261,9 @@ Unnamed: 0,Title,id,rating,genres,Release year
 270,The Iron Claw,850165,R,Drama;History,2023
 271,Hotel Transylvania: Transformania,585083,PG,Animation;Comedy;Family;Adventure;Fantasy,2022
 272,Shrek Forever After,10192,PG,Comedy;Adventure;Fantasy;Animation;Family,2010
-273,The Ten Commandments,6844,G,Drama;History,1956
 274,Gifted,400928,PG-13,Drama;Comedy,2017
 275,Joker: Folie à Deux,889737,R,Drama;Crime;Thriller,2024
 276,Silent Night,891699,R,Action;Thriller;Crime,2023
-277,Jaws,578,PG,Horror;Thriller;Adventure,1975
 278,Free Guy,550988,R,Comedy;Adventure;Science Fiction,2021
 279,Toy Story 4,301528,G,Family;Adventure;Animation;Comedy;Fantasy,2019
 280,Despicable Me 2,93456,PG,Animation;Comedy;Family,2013
@@ -361,7 +348,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 359,Godzilla,929,PG-13,Science Fiction;Action;Thriller,1998
 360,Schindler's List,424,R,Drama;History;War,1993
 361,The Tomorrow War,588228,PG-13,Action;Science Fiction;Adventure,2021
-362,2001: A Space Odyssey,62,G,Science Fiction;Mystery;Adventure,1968
 363,Cars 3,260514,G,Family;Animation;Adventure;Comedy,2017
 364,PAW Patrol: The Movie,675445,G,Animation;Family;Adventure;Comedy,2021
 365,John Wick: Chapter 2,324552,R,Action;Thriller;Crime,2017
@@ -380,16 +366,13 @@ Unnamed: 0,Title,id,rating,genres,Release year
 378,Shazam! Fury of the Gods,594767,PG-13,Comedy;Action;Fantasy,2023
 379,Joey and Ella,849877,G,Family;Adventure;Comedy,2021
 380,The Omen,806,R,Horror;Mystery;Thriller,2006
-381,The Godfather Part II,240,R,Drama;Crime,1974
 382,Shrek the Third,810,PG,Fantasy;Adventure;Animation;Comedy;Family,2007
 383,The Little Mermaid,10144,G,Animation;Family;Fantasy,1989
 384,Prometheus,70981,R,Science Fiction;Adventure;Mystery,2012
-385,Ben-Hur,665,G,History;Drama;Adventure;Action,1959
 386,How to Train Your Dragon 2,82702,PG,Fantasy;Action;Adventure;Animation;Comedy;Family,2014
 387,Inglourious Basterds,16869,R,Drama;Thriller;War,2009
 388,Catch Me If You Can,640,PG-13,Drama;Crime,2002
 389,World War Z,72190,PG-13,Action;Drama;Horror;Science Fiction;Thriller,2013
-390,Cinderella,11224,G,Family;Fantasy;Animation;Romance,1950
 391,Cars,920,G,Animation;Adventure;Comedy;Family,2006
 392,The Lion King II: Simba's Pride,9732,G,Family;Adventure;Animation;Action,1998
 393,Garfield,8920,PG,Animation;Comedy;Family,2004
@@ -400,7 +383,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 398,A Quiet Place,447332,PG-13,Horror;Drama;Science Fiction,2018
 399,Top Gun,744,PG,Drama;Action;Adventure,1986
 400,Kingsman: The Secret Service,207703,R,Crime;Comedy;Action;Adventure,2014
-401,Citizen Kane,15,PG,Mystery;Drama,1941
 402,Resident Evil: Welcome to Raccoon City,460458,R,Horror;Science Fiction;Action,2021
 403,Hellraiser,9003,R,Horror;Thriller;Fantasy,1987
 404,It Chapter Two,474350,R,Horror,2019
@@ -415,7 +397,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 413,Uncharted,335787,PG-13,Action;Adventure,2022
 414,Justice League: Crisis on Infinite Earths Part One,1155089,PG-13,Animation;Science Fiction;Action,2024
 415,Ex Machina,264660,R,Drama;Science Fiction,2015
-416,Halloween,948,R,Horror;Thriller,1978
 417,American Sniper,190859,R,War;Action,2014
 418,The Valet,810171,PG-13,Comedy;Romance,2022
 419,The Hobbit: An Unexpected Journey,49051,PG-13,Adventure;Fantasy;Action,2012
@@ -428,7 +409,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 426,Skyscraper,447200,PG-13,Action;Thriller;Adventure,2018
 427,Dream Scenario,823482,R,Comedy;Fantasy,2023
 428,Heat,949,R,Action;Crime;Drama,1995
-429,Psycho,539,R,Horror;Thriller;Mystery,1960
 430,Rocky V,1375,PG-13,Drama,1990
 431,Rocky V,1375,PG-13,Drama,1990
 432,John Wick: Chapter 3 - Parabellum,458156,R,Action;Thriller;Crime,2019
@@ -447,7 +427,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 445,Once Upon a Time... in Hollywood,466272,R,Comedy;Drama;Thriller,2019
 446,Good Will Hunting,489,R,Drama,1997
 447,Strictly Confidential,1182297,R,Mystery;Thriller,2024
-448,Snow White and the Seven Dwarfs,408,G,Fantasy;Animation;Family,1937
 449,How to Train Your Dragon: The Hidden World,166428,PG,Animation;Family;Adventure,2019
 450,Terminator 2: Judgment Day,280,R,Action;Thriller;Science Fiction,1991
 451,Judge Dredd,9482,R,Science Fiction,1995
@@ -483,10 +462,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 481,The Bad Guys,629542,PG,Family;Animation;Adventure;Comedy;Crime,2022
 482,Planet of the Apes,869,PG-13,Thriller;Science Fiction;Action;Adventure,2001
 483,Heart of Stone,724209,PG-13,Thriller;Action,2023
-484,Willy Wonka & the Chocolate Factory,252,G,Family;Fantasy;Comedy,1971
 485,No Hard Feelings,884605,R,Comedy;Romance,2023
 486,Soul,508442,PG,Animation;Family;Comedy;Fantasy,2020
-487,Maid in Sweden,47570,R,Drama,1971
 488,Nimona,961323,PG,Adventure;Animation;Fantasy;Family,2023
 489,Bohemian Rhapsody,424694,PG-13,Music;Drama,2018
 490,Cruella,337404,PG-13,Comedy;Crime,2021
@@ -517,7 +494,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 515,Jurassic World: Fallen Kingdom,351286,PG-13,Action;Adventure;Science Fiction;Thriller,2018
 516,Tomb Raider,338970,PG-13,Action;Adventure;Fantasy,2018
 517,American Pie,2105,R,Comedy;Romance,1999
-518,Planet of the Apes,871,G,Science Fiction;Adventure;Drama;Action,1968
 519,Sneakers,2322,PG-13,Comedy;Crime;Drama,1992
 520,Late Night with the Devil,938614,R,Horror,2024
 521,Kingdom of Heaven,1495,R,Drama;Action;Adventure;History;War,2005
@@ -535,7 +511,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 533,The Hunger Games: Catching Fire,101299,PG-13,Adventure;Action;Science Fiction,2013
 534,The Hunt,514847,R,Action;Thriller;Horror,2020
 535,Furious 7,168259,PG-13,Action;Thriller;Crime,2015
-536,Trading Places,1621,R,Comedy,1983
 537,Bad Boys for Life,38700,R,Thriller;Action;Crime,2020
 538,Bad Boys for Life,38700,R,Thriller;Action;Crime,2020
 539,The Dark Knight Rises,49026,PG-13,Action;Crime;Drama;Thriller,2012
@@ -543,7 +518,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 541,Guardians of the Galaxy Vol. 2,283995,PG-13,Science Fiction;Adventure;Action,2017
 542,Night Swim,1072342,PG-13,Horror,2024
 543,Next Goal Wins,621587,PG-13,Comedy;Drama,2023
-544,Return of the Jedi,1892,PG,Adventure;Action;Science Fiction,1983
 545,La La Land,313369,PG-13,Comedy;Drama;Romance;Music,2016
 546,The Matrix Resurrections,624860,R,Science Fiction;Action;Adventure,2021
 547,Spirit: Stallion of the Cimarron,9023,G,Animation;Adventure;Comedy;Family;Drama;Western;Romance,2002
@@ -559,17 +533,14 @@ Unnamed: 0,Title,id,rating,genres,Release year
 557,Knox Goes Away,972614,R,Thriller;Crime,2024
 558,The Dark Tower,353491,PG-13,Fantasy;Action;Science Fiction,2017
 559,Pride & Prejudice,4348,PG,Drama;Romance,2005
-560,The Wizard of Oz,630,G,Adventure;Fantasy;Family,1939
 561,The Emoji Movie,378236,PG,Animation;Family;Comedy,2017
 562,Star Wars: The Force Awakens,140607,PG-13,Adventure;Action;Science Fiction,2015
-563,Creepshow,16281,R,Horror;Comedy,1982
 564,Rush Hour,2109,PG-13,Action;Comedy;Crime,1998
 565,Secret of the Wings,75258,G,Animation;Family;Fantasy;Adventure,2012
 566,The Abyss,2756,PG-13,Adventure;Action;Thriller;Science Fiction,1989
 567,Mulan,337401,PG-13,Adventure;Fantasy;Drama;Action,2020
 568,Knives Out,546554,PG-13,Comedy;Crime;Mystery,2019
 569,Scouts Guide to the Zombie Apocalypse,273477,R,Comedy;Horror,2015
-570,Grease,621,PG,Romance;Comedy,1978
 571,Fear,880100,R,Horror;Drama,2023
 572,Star Wars: The Rise of Skywalker,181812,PG-13,Adventure;Action;Science Fiction,2019
 573,War of the Worlds,74,PG-13,Adventure;Thriller;Science Fiction,2005
@@ -587,9 +558,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 585,Mission: Impossible,954,PG-13,Adventure;Action;Thriller,1996
 586,Saltburn,930564,R,Drama;Comedy;Thriller,2023
 587,Muzzle,939335,R,Action,2023
-588,Chinatown,829,R,Crime;Drama;Mystery;Thriller,1974
 589,Muzzle,939335,R,Action,2023
-590,Chinatown,829,R,Crime;Drama;Mystery;Thriller,1974
 591,Brave,62177,PG,Animation;Adventure;Comedy;Family;Action;Fantasy,2012
 592,Project X,57214,R,Comedy,2012
 593,Monsters University,62211,G,Animation;Family,2013
@@ -609,7 +578,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 607,Aladdin,420817,PG,Adventure;Fantasy;Romance;Family,2019
 608,How to Train Your Dragon,10191,PG,Fantasy;Adventure;Animation;Family,2010
 609,Glass,450465,PG-13,Thriller;Drama;Science Fiction,2019
-610,First Blood,1368,R,Action;Adventure;Thriller;War,1982
 611,Ice Age: The Meltdown,950,PG,Animation;Family;Comedy;Adventure,2006
 612,The Whale,785084,R,Drama,2022
 613,Troy,652,R,Adventure;History;War;Action,2004
@@ -631,7 +599,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 629,Ghostbusters II,2978,PG,Comedy;Fantasy,1989
 630,The Mask,854,PG-13,Romance;Comedy;Crime;Fantasy,1994
 631,The Prestige,1124,PG-13,Drama;Mystery;Science Fiction,2006
-632,Sleeping Beauty,10882,G,Fantasy;Animation;Romance;Family,1959
 633,Geostorm,274855,PG-13,Action;Science Fiction;Thriller,2017
 634,Hocus Pocus 2,642885,PG,Fantasy;Comedy;Family,2022
 635,Rampage,427641,PG-13,Action;Adventure;Science Fiction,2018
@@ -674,7 +641,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 672,Maleficent: Mistress of Evil,420809,PG,Family;Fantasy;Adventure;Action,2019
 673,Pokémon Detective Pikachu,447404,PG,Action;Adventure;Fantasy,2019
 674,Contagion,39538,PG-13,Drama;Thriller;Science Fiction,2011
-675,Raiders of the Lost Ark,85,PG,Adventure;Action,1981
 676,Hypnotic,536437,R,Mystery;Thriller;Action;Science Fiction,2023
 677,Rambo III,1370,R,Action;Adventure;Thriller;War,1988
 678,Thor: The Dark World,76338,PG-13,Action;Adventure;Fantasy,2013
@@ -702,9 +668,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 700,The Boy in the Striped Pyjamas,14574,PG-13,Drama;War;History,2008
 701,Indiana Jones and the Last Crusade,89,PG-13,Adventure;Action,1989
 702,The Expendables,27578,R,Thriller;Adventure;Action,2010
-703,The Exorcist,9552,R,Horror;Thriller;Drama,1973
 704,Creed,312221,PG-13,Action;Drama,2015
-705,Supervixens,5725,NC-17,Comedy,1975
 706,Tomorrowland,158852,PG,Adventure;Family;Mystery;Science Fiction,2015
 707,Transformers: The Last Knight,335988,PG-13,Action;Adventure;Science Fiction,2017
 708,Quantum of Solace,10764,PG-13,Adventure;Action;Thriller;Crime,2008
@@ -714,7 +678,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 712,A Good Day to Die Hard,47964,R,Action;Thriller,2013
 713,Descendants,277217,G,Family;Music;Adventure;Comedy;Fantasy;TV Movie,2015
 714,Hansel & Gretel: Witch Hunters,60304,R,Fantasy;Horror;Action,2013
-715,Blade Runner,78,R,Science Fiction;Drama;Thriller,1982
 716,Underworld,277,R,Fantasy;Action;Thriller,2003
 717,The Hangover Part II,45243,R,Comedy,2011
 718,American Wedding,8273,R,Comedy;Romance,2003
@@ -742,10 +705,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 740,Beautiful Disaster,1016121,R,Romance;Drama;Comedy,2023
 741,The Fate of the Furious,337339,PG-13,Action;Crime;Thriller,2017
 742,Tinker Bell and the Lost Treasure,25475,G,Animation;Family;Adventure;Fantasy,2009
-743,The Evil Dead,764,NC-17,Horror,1981
 744,Dumb and Dumber,8467,PG-13,Comedy,1994
 745,Tinker Bell,13179,G,Animation;Family;Adventure;Fantasy,2008
-746,Peter Pan,10693,G,Animation;Family;Adventure;Fantasy,1953
 747,Bolt,13053,PG,Animation;Family;Adventure;Comedy,2008
 748,Click,9339,PG-13,Comedy;Drama;Fantasy,2006
 749,Scary Movie,4247,R,Comedy,2000
@@ -753,7 +714,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 751,Sherlock Holmes,10528,PG-13,Action;Adventure;Crime;Mystery,2009
 752,Smile,882598,R,Horror;Mystery;Thriller,2022
 753,Armageddon,95,PG-13,Action;Thriller;Science Fiction;Adventure,1998
-754,The Aristocats,10112,G,Animation;Comedy;Family;Adventure,1970
 755,Wind River,395834,R,Crime;Drama;Mystery;Thriller,2017
 756,Nightcrawler,242582,R,Crime;Drama;Thriller,2014
 757,The Irishman,398978,R,Crime;Drama;History,2019
@@ -764,7 +724,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 762,A Haunting in Venice,945729,PG-13,Mystery;Thriller;Crime,2023
 763,Evil Dead,109428,R,Horror,2013
 764,Priscilla,1020006,R,Drama;Romance;Music,2023
-765,The Jungle Book,9325,G,Family;Animation;Adventure,1967
 766,Plane,646389,R,Action,2023
 767,Army of Thieves,796499,R,Action;Thriller;Crime;Comedy,2021
 768,Knock at the Cabin,631842,R,Thriller;Mystery;Horror,2023
@@ -800,12 +759,9 @@ Unnamed: 0,Title,id,rating,genres,Release year
 798,The Fly,9426,R,Horror;Science Fiction,1986
 799,The Grand Budapest Hotel,120467,R,Comedy;Drama,2014
 800,Three Thousand Years of Longing,556694,R,Drama;Fantasy;Romance,2022
-801,E.T. the Extra-Terrestrial,601,PG,Science Fiction;Adventure;Family;Fantasy,1982
 802,Highlander,8009,R,Adventure;Action;Fantasy,1986
-803,E.T. the Extra-Terrestrial,601,PG,Science Fiction;Adventure;Family;Fantasy,1982
 804,Highlander,8009,R,Adventure;Action;Fantasy,1986
 805,The Grey,75174,R,Drama;Thriller;Action;Adventure,2012
-806,One Hundred and One Dalmatians,12230,G,Adventure;Animation;Comedy;Family,1961
 807,Shooter,7485,R,Drama;Action;Thriller,2007
 808,Rambo: Last Blood,522938,R,Action;Thriller;Drama,2019
 809,Ant-Man,102899,PG-13,Science Fiction;Action;Adventure,2015
@@ -813,12 +769,10 @@ Unnamed: 0,Title,id,rating,genres,Release year
 811,Sicario: Day of the Soldado,400535,R,Action;Crime;Thriller,2018
 812,Central Intelligence,302699,PG-13,Action;Comedy;Crime;Mystery,2016
 813,Infinity Pool,667216,R,Horror;Science Fiction,2023
-814,Dr. No,646,PG,Adventure;Action;Thriller,1962
 815,Meet the Robinsons,1267,G,Animation;Comedy;Family,2007
 816,"South Park: Bigger, Longer & Uncut",9473,R,Animation;Comedy,1999
 817,Uncut Gems,473033,R,Drama;Thriller;Crime,2019
 818,About Time,122906,R,Drama;Romance;Fantasy,2013
-819,National Lampoon's Vacation,11153,R,Comedy;Adventure,1983
 820,Get Real,24584,R,Drama;Romance,1998
 821,The Proposal,18240,PG-13,Comedy;Romance;Drama,2009
 822,Alien Resurrection,8078,R,Science Fiction;Horror;Action,1997
@@ -846,7 +800,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 844,Austin Powers: The Spy Who Shagged Me,817,PG-13,Adventure;Comedy;Crime;Science Fiction,1999
 845,American Pie Presents: Girls' Rules,660982,R,Comedy,2020
 846,Predators,34851,R,Science Fiction;Action;Thriller,2010
-847,The Blues Brothers,525,R,Music;Comedy;Action;Crime,1980
 848,"Red, White & Royal Blue",930094,R,Comedy;Romance,2023
 849,Terrifier 2,663712,R,Horror;Thriller,2022
 850,Sleeping Dogs,978592,R,Mystery;Thriller;Crime;Drama,2024
@@ -857,7 +810,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 855,Miracles from Heaven,339984,PG,Family;Drama,2016
 856,The Fallout,795514,R,Drama,2021
 857,The Hunchback of Notre Dame,10545,G,Drama;Animation;Family,1996
-858,A Clockwork Orange,185,R,Science Fiction;Crime,1971
 859,Collateral Beauty,345920,PG-13,Drama;Romance,2016
 860,American History X,73,R,Drama,1998
 861,Monsters vs Aliens,15512,PG,Animation;Family;Adventure;Science Fiction,2009
@@ -881,10 +833,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 879,Face of Evil,534205,R,Thriller;Horror,2016
 880,Daddy's Home 2,419680,PG-13,Comedy,2017
 881,Jack Reacher,75780,PG-13,Crime;Drama;Thriller;Action,2012
-882,Bambi,3170,G,Animation;Drama;Family,1942
 883,Blue Velvet,793,R,Crime;Drama;Mystery;Thriller,1986
 884,Her,152601,R,Romance;Science Fiction;Drama,2013
-885,Friday the 13th,4488,R,Horror,1980
 886,Snake Eyes: G.I. Joe Origins,568620,PG-13,Action;Adventure,2021
 887,Saw,176,R,Horror;Mystery;Crime,2004
 888,M3GAN,536554,PG-13,Science Fiction;Horror,2022
@@ -893,7 +843,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 891,TRON: Legacy,20526,PG,Adventure;Action;Science Fiction,2010
 892,Point Break,1089,R,Action;Thriller;Crime,1991
 893,The Pianist,423,R,Drama;War,2002
-894,The Greatest Story Ever Told,2428,G,Drama;History,1965
 895,Angel Has Fallen,423204,R,Action;Thriller,2019
 896,Flushed Away,11619,PG,Adventure;Animation;Comedy;Family,2006
 897,Terminator: Dark Fate,290859,R,Science Fiction;Action,2019
@@ -905,14 +854,11 @@ Unnamed: 0,Title,id,rating,genres,Release year
 903,Don't Breathe 2,482373,R,Thriller;Horror,2021
 904,Sausage Party,223702,R,Adventure;Animation;Comedy;Fantasy,2016
 905,Southpaw,307081,R,Action;Drama,2015
-906,Damien: Omen II,10766,R,Horror;Thriller,1978
-907,Once Upon a Time in America,311,R,Drama;Crime,1984
 908,A Bronx Tale,1607,R,Drama;Crime,1993
 909,Underworld: Blood Wars,346672,R,Fantasy;Action;Thriller;Horror,2016
 910,The Devil's Advocate,1813,R,Drama;Mystery;Thriller;Horror,1997
 911,Elvis,614934,PG-13,Drama;Music;History,2022
 912,Kick-Ass,23483,R,Action;Crime,2010
-913,Carrie,7340,R,Horror;Thriller,1976
 914,The Jungle Book,278927,PG,Family;Adventure;Drama;Fantasy;Animation,2016
 915,Bridge to Terabithia,1265,PG,Adventure;Drama;Family,2007
 916,300: Rise of an Empire,53182,R,Action;Drama;War,2014
@@ -921,17 +867,14 @@ Unnamed: 0,Title,id,rating,genres,Release year
 919,Aliens vs Predator: Requiem,440,R,Fantasy;Action;Science Fiction;Thriller;Horror,2007
 920,Descendants 2,417320,G,Family;Music;Fantasy;TV Movie;Adventure;Action;Romance,2017
 921,Braveheart,197,R,Action;Drama;History;War,1995
-922,Gone with the Wind,770,G,Drama;War;Romance,1939
 923,A Walk to Remember,10229,PG,Drama;Romance,2002
 924,Rango,44896,PG,Animation;Comedy;Family;Western;Adventure,2011
 925,Reservoir Dogs,500,R,Crime;Thriller,1992
 926,Cop Land,2142,R,Crime;Drama;Mystery,1997
 927,10 Things I Hate About You,4951,PG-13,Comedy;Romance;Drama,1999
 928,Mulan II,12242,G,Animation;Comedy;Family;Action,2004
-929,Dumbo,11360,G,Animation;Family,1941
 930,10 Things I Hate About You,4951,PG-13,Comedy;Romance;Drama,1999
 931,Mulan II,12242,G,Animation;Comedy;Family;Action,2004
-932,Dumbo,11360,G,Animation;Family,1941
 933,I Spit on Your Grave,43947,R,Thriller;Crime;Horror,2010
 934,Pinocchio,532639,PG,Fantasy;Adventure;Family,2022
 935,Hitman: Agent 47,249070,R,Action;Crime;Thriller,2015
@@ -939,7 +882,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 937,Star Trek,13475,PG-13,Science Fiction;Action;Adventure,2009
 938,Bound,9303,R,Drama;Thriller;Crime,1996
 939,The Island,1635,PG-13,Action;Thriller;Science Fiction;Adventure,2005
-940,One Flew Over the Cuckoo's Nest,510,R,Drama,1975
 941,The Intern,257211,PG-13,Comedy,2015
 942,Hotel Transylvania 2,159824,PG,Animation;Comedy;Family;Fantasy,2015
 943,Home,228161,PG,Fantasy;Comedy;Animation;Science Fiction;Family,2015
@@ -952,7 +894,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 950,The School for Good and Evil,779782,PG-13,Fantasy;Comedy;Adventure;Drama,2022
 951,Batman,268,PG-13,Fantasy;Action;Crime,1989
 952,The Butterfly Effect,1954,R,Science Fiction;Thriller,2004
-953,From Russia with Love,657,PG,Action;Thriller;Adventure,1963
 954,Red Notice,512195,PG-13,Action;Comedy;Crime,2021
 955,The Blind Side,22881,PG-13,Drama,2009
 956,Terminator 3: Rise of the Machines,296,R,Action;Thriller;Science Fiction,2003
@@ -961,7 +902,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 959,The Sorcerer's Apprentice,27022,PG,Fantasy;Adventure;Action,2010
 960,Fired Up!,17927,PG-13,Comedy,2009
 961,Fired Up!,17927,PG-13,Comedy,2009
-962,Indiana Jones and the Temple of Doom,87,PG,Adventure;Action,1984
 963,The Town,23168,R,Crime;Drama;Thriller,2010
 964,Cinderella,593910,PG,Fantasy;Romance;Comedy,2021
 965,The New Mutants,340102,R,Science Fiction;Horror;Action;Mystery;Adventure,2020
@@ -977,12 +917,9 @@ Unnamed: 0,Title,id,rating,genres,Release year
 975,Matilda,10830,PG,Comedy;Family;Fantasy,1996
 976,Desperation Road,1039690,R,Thriller;Action;Crime;Drama,2023
 977,Indiana Jones and the Kingdom of the Crystal Skull,217,PG-13,Adventure;Action,2008
-978,Death on the Nile,4192,PG,Mystery,1978
 979,Desperation Road,1039690,R,Thriller;Action;Crime;Drama,2023
 980,Indiana Jones and the Kingdom of the Crystal Skull,217,PG-13,Adventure;Action,2008
-981,Death on the Nile,4192,PG,Mystery,1978
 982,9,12244,PG-13,Action;Adventure;Animation;Science Fiction;Thriller,2009
-983,The Shining,694,R,Horror;Thriller,1980
 984,Fantastic Four,9738,PG-13,Action;Fantasy;Science Fiction,2005
 985,Trolls,136799,PG,Family;Animation;Fantasy;Adventure;Comedy;Music,2016
 986,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,10607,R,Comedy,1996
@@ -998,7 +935,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 996,The Mist,5876,R,Horror;Science Fiction;Thriller,2007
 997,Olympus Has Fallen,117263,R,Action;Thriller,2013
 998,Warhorse One,1076487,R,War;Action;Drama,2023
-999,Pinocchio,10895,G,Animation;Family;Fantasy,1940
 1000,The Double Life of My Billionaire Husband,1189214,PG-13,Romance;Drama,2023
 1001,Sanctum,48340,R,Action;Thriller,2011
 1002,Die Another Day,36669,PG-13,Adventure;Action;Thriller,2002
@@ -1037,7 +973,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1035,Never Back Down: No Surrender,391757,R,Drama;Action,2016
 1036,Ferrari,365620,R,History;Drama,2023
 1037,Crooklyn,34152,PG-13,Comedy;Drama,1994
-1038,Spartacus,967,PG-13,History;War;Drama;Adventure,1960
 1039,Cobweb,709631,R,Horror,2023
 1040,The Usual Suspects,629,R,Drama;Crime;Thriller,1995
 1041,Die Hard 2,1573,R,Action;Thriller,1990
@@ -1067,8 +1002,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1065,Hellraiser,338947,R,Horror;Mystery,2022
 1066,War Dogs,308266,R,Comedy;Crime;Drama,2016
 1067,Wrong Turn 5: Bloodlines,125509,R,Horror;Thriller,2012
-1068,Lady and the Tramp,10340,G,Family;Animation;Romance,1955
-1069,Forbidden Zone,16127,R,Music;Comedy;Fantasy,1980
 1070,Birdman or (The Unexpected Virtue of Ignorance),194662,R,Drama;Comedy,2014
 1071,The Remaining,280002,PG-13,Thriller;Horror,2014
 1072,Jungle Cruise,451048,PG-13,Action;Adventure;Fantasy,2021
@@ -1076,18 +1009,13 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1074,G.I. Joe: Retaliation,72559,PG-13,Action;Science Fiction;Adventure,2013
 1075,Cell,168098,R,Horror;Science Fiction;Thriller,2016
 1076,Long Shot,459992,R,Comedy;Romance,2019
-1077,Logan's Run,10803,PG,Action;Science Fiction,1976
 1078,Mechanic: Resurrection,278924,R,Action;Crime;Thriller,2016
-1079,Diamonds Are Forever,681,PG,Action;Thriller,1971
 1080,Memory,818397,R,Action;Thriller;Crime,2022
-1081,On Her Majesty's Secret Service,668,PG,Adventure;Action;Thriller,1969
 1082,Perfume: The Story of a Murderer,1427,R,Crime;Fantasy;Drama,2006
-1083,Apocalypse Now,28,R,Drama;War,1979
 1084,The SpongeBob Movie: Sponge Out of Water,228165,PG,Family;Adventure;Comedy;Fantasy;Animation,2015
 1085,The Autopsy of Jane Doe,397243,R,Horror;Mystery,2016
 1086,(500) Days of Summer,19913,PG-13,Comedy;Drama;Romance,2009
 1087,Alvin and the Chipmunks,6477,PG,Comedy;Family;Fantasy;Animation,2007
-1088,Octopussy,700,PG,Adventure;Action;Thriller,1983
 1089,DC League of Super-Pets,539681,PG,Animation;Action;Family;Comedy;Science Fiction,2022
 1090,Tusk,246403,R,Comedy;Horror,2014
 1091,Wrong Turn 4: Bloody Beginnings,71672,R,Horror;Thriller,2011
@@ -1126,7 +1054,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1124,The Revenant,281957,R,Western;Drama;Adventure,2015
 1125,F9,385128,PG-13,Action;Adventure;Crime,2021
 1126,Tangled Ever After,82881,G,Animation;Comedy;Action;Family,2012
-1127,Casablanca,289,PG,Drama;Romance,1943
 1128,Insidious: Chapter 2,91586,PG-13,Horror;Thriller,2013
 1129,Little Shop of Horrors,10776,PG-13,Horror;Comedy,1986
 1130,Dog,626735,PG-13,Drama;Comedy,2022
@@ -1142,11 +1069,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1140,Left Behind,218043,PG-13,Thriller;Action;Science Fiction,2014
 1141,Storks,332210,PG,Adventure;Animation;Comedy;Family,2016
 1142,Ghost,251,PG-13,Fantasy;Drama;Thriller;Mystery;Romance,1990
-1143,Goldfinger,658,PG,Adventure;Action;Thriller,1964
-1144,The Empire Strikes Back,1891,PG,Adventure;Action;Science Fiction,1980
 1145,Bright,400106,R,Fantasy;Action;Thriller,2017
 1146,Bright,400106,R,Fantasy;Action;Thriller,2017
-1147,It's a Wonderful Life,1585,PG,Drama;Family;Fantasy,1946
 1148,American Pie Presents: Band Camp,8274,R,Comedy,2005
 1149,The Hitman's Bodyguard,390043,R,Action;Comedy,2017
 1150,The Final Destination,19912,R,Horror;Mystery,2009
@@ -1202,14 +1126,12 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1200,Deepwater Horizon,296524,PG-13,Drama;Action,2016
 1201,Jack Reacher: Never Go Back,343611,PG-13,Action;Thriller,2016
 1202,The Sea Beast,560057,PG,Animation;Adventure;Family;Fantasy,2022
-1203,The Blue Lagoon,5689,R,Romance;Adventure,1980
 1204,Melancholia,62215,R,Drama;Science Fiction,2011
 1205,Bram Stoker's Dracula,6114,R,Romance;Horror,1992
 1206,Legend,11976,PG,Adventure;Fantasy,1985
 1207,Omen IV: The Awakening,17792,PG,Horror;Mystery;Thriller;TV Movie,1991
 1208,Solo: A Star Wars Story,348350,PG-13,Science Fiction;Adventure;Action,2018
 1209,Scary Movie 5,4258,PG-13,Comedy,2013
-1210,Mad Max 2,8810,R,Adventure;Action;Thriller;Science Fiction,1981
 1211,The Guest,241848,R,Mystery;Thriller;Action,2014
 1212,Chicken Run,7443,G,Animation;Comedy;Family,2000
 1213,Us Again,779047,G,Animation;Drama;Family,2021
@@ -1234,7 +1156,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1232,Star Wars: Episode II - Attack of the Clones,1894,PG,Adventure;Action;Science Fiction,2002
 1233,Saw II,215,R,Horror,2005
 1234,Zodiac,1949,R,Crime;Drama;Mystery;Thriller,2007
-1235,Rocky III,1371,PG,Drama,1982
 1236,Asteroid City,747188,PG-13,Comedy;Drama,2023
 1237,Purple Hearts,762975,PG-13,Romance;Drama,2022
 1238,Aftersun,965150,R,Drama,2022
@@ -1246,7 +1167,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1244,Ant-Man and the Wasp,363088,PG-13,Action;Adventure;Science Fiction,2018
 1245,Dumb and Dumber To,100042,PG-13,Comedy,2014
 1246,Redeeming Love,698508,PG-13,Romance;Drama;Western,2022
-1247,Animal House,8469,R,Comedy,1978
 1248,RoboCop,97020,PG-13,Science Fiction;Action;Crime,2014
 1249,The Lego Ninjago Movie,274862,PG,Family;Animation;Action;Adventure;Comedy,2017
 1250,Dumbo,329996,PG,Family;Fantasy;Adventure,2019
@@ -1268,7 +1188,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1266,The Hot Chick,11852,PG-13,Comedy;Fantasy,2002
 1267,American Beauty,14,R,Drama,1999
 1268,The Thomas Crown Affair,913,R,Drama;Crime;Romance,1999
-1269,The Spy Who Loved Me,691,PG,Adventure;Action;Thriller,1977
 1270,The Hustle,449562,PG-13,Comedy;Crime,2019
 1271,Justice League: Warworld,1003581,R,Animation;Action;Science Fiction;Adventure,2023
 1272,Aristotle and Dante Discover the Secrets of the Universe,500104,PG-13,Romance;Drama,2023
@@ -1302,9 +1221,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1300,The Mechanic,27582,R,Action;Thriller;Crime,2011
 1301,Tremors,9362,PG-13,Horror;Action;Science Fiction;Comedy,1990
 1302,Night Hunter,441282,R,Drama;Thriller,2019
-1303,Lawrence of Arabia,947,PG,Adventure;History;War,1962
 1304,Pet Sematary,157433,R,Horror;Thriller,2019
-1305,Dawn of the Dead,923,NC-17,Horror,1978
 1306,The Circle,339988,PG-13,Drama;Thriller;Science Fiction,2017
 1307,Merry Little Batman,870358,PG,Animation;Action;Family;Comedy,2023
 1308,Merry Little Batman,870358,PG,Animation;Action;Family;Comedy,2023
@@ -1312,12 +1229,10 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1310,Surrogates,19959,PG-13,Science Fiction;Action;Thriller,2009
 1311,"As Above, So Below",256274,R,Horror;Thriller,2014
 1312,The BFG,267935,PG,Adventure;Family;Fantasy,2016
-1313,The Sword in the Stone,9078,G,Animation;Family;Fantasy,1963
 1314,21 Bridges,535292,R,Crime;Action;Drama,2019
 1315,Green Lantern,44912,PG-13,Adventure;Action;Thriller;Science Fiction,2011
 1316,True Lies,36955,R,Action;Thriller,1994
 1317,Biohazard: Damnation,133121,R,Animation;Horror;Action,2012
-1318,Thunderball,660,PG,Adventure;Action;Thriller,1965
 1319,The Great Gatsby,64682,PG-13,Drama;Romance,2013
 1320,King Arthur: Legend of the Sword,274857,PG-13,Action;Drama;Fantasy,2017
 1321,The Perks of Being a Wallflower,84892,PG-13,Drama,2012
@@ -1325,11 +1240,9 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1323,Seed of Chucky,11249,R,Comedy;Horror,2004
 1324,Demolition Man,9739,R,Crime;Action;Science Fiction,1993
 1325,Casper's Haunted Christmas,5833,G,Animation;Family;Fantasy,2000
-1326,Beneath the Planet of the Apes,1685,G,Adventure;Science Fiction;Mystery,1970
 1327,Hunter Killer,399402,R,Action;Thriller,2018
 1328,The Terminal,594,PG-13,Comedy;Drama,2004
 1329,Man on Fire,9509,R,Action;Drama;Thriller,2004
-1330,Mad Max,9659,R,Adventure;Action;Thriller;Science Fiction,1979
 1331,Harry Potter 20th Anniversary: Return to Hogwarts,899082,PG-13,Documentary,2022
 1332,The Reader,8055,R,Drama;Romance,2008
 1333,Pearl Harbor,676,PG-13,War;History;Romance;Drama;Action,2001
@@ -1359,7 +1272,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1357,Space Jam,2300,PG,Family;Animation;Comedy;Science Fiction;Adventure;Fantasy,1996
 1358,Charlie's Angels,458897,PG-13,Action;Adventure;Comedy,2019
 1359,Over the Hedge,7518,PG,Family;Comedy;Animation,2006
-1360,Vertigo,426,PG,Mystery;Romance;Thriller,1958
 1361,The Mitchells vs. the Machines,501929,PG,Animation;Adventure;Comedy,2021
 1362,The Smurfs,41513,PG,Animation;Family;Adventure;Comedy;Fantasy,2011
 1363,Jennifer's Body,19994,R,Horror;Comedy,2009
@@ -1369,7 +1281,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1367,The Big Short,318846,R,Comedy;Drama,2015
 1368,The Antisocial Network: Memes to Mayhem,1242384,R,Documentary,2024
 1369,Jojo Rabbit,515001,PG-13,Comedy;War;Drama,2019
-1370,Amadeus,279,R,History;Music;Drama,1984
 1371,The Man from U.N.C.L.E.,203801,PG-13,Comedy;Action;Adventure,2015
 1372,The Bourne Ultimatum,2503,PG-13,Action;Drama;Mystery;Thriller,2007
 1373,Jumper,8247,PG-13,Action;Adventure;Science Fiction,2008
@@ -1426,7 +1337,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1424,Last Seen Alive,961484,R,Action;Thriller,2022
 1425,Death Race,10483,R,Action;Thriller;Science Fiction,2008
 1426,Rogue One: A Star Wars Story,330459,PG-13,Action;Adventure;Science Fiction,2016
-1427,You Only Live Twice,667,PG,Action;Thriller;Adventure,1967
 1428,Deuce Bigalow: Male Gigolo,10402,R,Comedy,1999
 1429,The Addams Family,2907,PG-13,Comedy;Fantasy,1991
 1430,My Girl,4032,PG,Comedy;Drama,1991
@@ -1448,7 +1358,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1446,Forever My Girl,417261,PG,Romance;Drama;Music,2018
 1447,Fruitvale Station,157354,R,Drama,2013
 1448,American Pie Presents: The Book of Love,26123,R,Comedy,2009
-1449,Scrooge,13765,G,Fantasy;Drama;Family,1970
 1450,The Ledge,924482,R,Thriller;Adventure,2022
 1451,Straight Outta Compton,277216,R,Drama;Music;History,2015
 1452,Happy Feet,9836,PG,Animation;Comedy;Family,2006
@@ -1459,7 +1368,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1457,IO,433249,PG-13,Science Fiction,2019
 1458,To Catch a Killer,605886,R,Thriller,2023
 1459,Terminator Salvation,534,PG-13,Action;Science Fiction;Thriller,2009
-1460,The Howling,11298,R,Horror,1981
 1461,Sex and the City,4564,R,Comedy;Drama;Romance,2008
 1462,Little Women,331482,PG,Drama;Romance,2019
 1463,Anastasia,9444,G,Animation;Family;Fantasy;Adventure,1997
@@ -1470,7 +1378,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1468,Halloween Kills,610253,R,Horror;Thriller,2021
 1469,Sniper: Ghost Shooter,407375,R,Action;Drama;War,2016
 1470,Basic Instinct,402,R,Thriller;Mystery,1992
-1471,Conan the Barbarian,9387,R,Adventure;Fantasy;Action,1982
 1472,I Am Mother,505948,PG-13,Science Fiction;Thriller,2019
 1473,The Ice Road,646207,PG-13,Action;Thriller,2021
 1474,Final Destination 3,9286,R,Horror;Mystery,2006
@@ -1491,7 +1398,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1489,The Hunger Games,70160,PG-13,Science Fiction;Adventure;Fantasy,2012
 1490,Seventh Son,68737,PG-13,Adventure;Fantasy,2014
 1491,The Mother,552688,R,Action;Thriller,2023
-1492,The Sound of Music,15121,G,Drama;Family;Music;Romance,1965
 1493,Disenchanted,338958,PG,Comedy;Family;Fantasy,2022
 1494,Pet Sematary: Bloodlines,830764,R,Horror;Fantasy,2023
 1495,Knowing,13811,PG-13,Action;Mystery;Science Fiction;Thriller,2009
@@ -1499,7 +1405,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1497,G.I. Joe: The Rise of Cobra,14869,PG-13,Adventure;Action;Thriller;Science Fiction,2009
 1498,Rough Night,397422,R,Drama;Comedy,2017
 1499,Craig Before the Creek,928833,PG,Animation;Family;TV Movie;Adventure;Comedy;Fantasy,2023
-1500,Rocky II,1367,PG,Drama,1979
 1501,Tag,455980,R,Comedy;Action,2018
 1502,Jason X,11470,R,Horror;Science Fiction,2001
 1503,Tag,455980,R,Comedy;Action,2018
@@ -1508,7 +1413,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1506,Men in Black 3,41154,PG-13,Action;Comedy;Science Fiction,2012
 1507,The Angry Birds Movie,153518,PG,Animation;Adventure;Comedy;Family,2016
 1508,A Man Called Otto,937278,PG-13,Comedy;Drama,2022
-1509,Stripes,10890,R,Action;Comedy,1981
 1510,Liar Liar,1624,PG-13,Comedy,1997
 1511,Inferno,207932,PG-13,Mystery;Thriller;Action,2016
 1512,RED,39514,PG-13,Action;Adventure;Comedy;Crime;Thriller,2010
@@ -1544,9 +1448,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1542,Lethal Weapon,941,R,Adventure;Action;Comedy;Thriller;Crime,1987
 1543,The Craft,9100,R,Horror;Drama;Fantasy,1996
 1544,Chronicle,76726,PG-13,Science Fiction;Drama;Thriller,2012
-1545,Police Academy,9336,R,Comedy;Crime,1984
 1546,Hocus Pocus,10439,PG,Fantasy;Comedy;Family,1993
-1547,Annie,15739,PG,Comedy;Drama;Family,1982
 1548,Memento,77,R,Mystery;Thriller,2000
 1549,The Nice Guys,290250,R,Comedy;Crime;Action,2016
 1550,Blackhat,201088,R,Crime;Thriller;Action,2015
@@ -1559,24 +1461,20 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1557,Hollow Man,9383,R,Action;Science Fiction;Thriller,2000
 1558,Sully,363676,PG-13,Drama;History,2016
 1559,Hellboy,1487,PG-13,Fantasy;Action,2004
-1560,The Karate Kid,1885,PG,Action;Family;Drama,1984
 1561,Creepshow 2,16288,R,Horror;Comedy,1987
 1562,The Human Centipede (First Sequence),37169,R,Horror,2009
 1563,Training Day,2034,R,Action;Crime;Drama,2001
-1564,Red Dawn,1880,PG-13,Action;Thriller;War;Drama;Science Fiction,1984
 1565,"Love, Simon",449176,PG-13,Comedy;Drama;Romance,2018
 1566,"Love, Simon",449176,PG-13,Comedy;Drama;Romance,2018
 1567,Kung Fu Panda: Secrets of the Furious Five,15854,PG,Animation;Family;Action,2008
 1568,A Witches' Ball,487047,PG,Family;Fantasy;Science Fiction,2017
 1569,Sucker Punch,23629,PG-13,Action;Fantasy;Thriller,2011
-1570,Jesus,45139,G,Drama;Fantasy,1979
 1571,Homefront,204082,R,Action;Thriller,2013
 1572,Tombstone,11969,R,Western;Action,1993
 1573,The Road,20766,R,Adventure;Drama,2009
 1574,Cold Pursuit,438650,R,Action;Crime;Thriller;Comedy,2019
 1575,Original Sin,2057,R,Thriller;Drama;Mystery;Romance,2001
 1576,Season of the Witch,23047,PG-13,Adventure;Fantasy;Action,2011
-1577,A Nightmare on Elm Street,377,R,Horror,1984
 1578,The Blair Witch Project,2667,R,Horror;Mystery,1999
 1579,17 Again,16996,PG-13,Comedy;Fantasy;Drama;Romance,2009
 1580,Crater,620705,PG,Science Fiction;Action;Adventure;Family,2023
@@ -1592,17 +1490,13 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1590,Scott Pilgrim vs. the World,22538,PG-13,Action;Comedy;Romance,2010
 1591,Evolution,9397,PG-13,Comedy;Science Fiction;Action,2001
 1592,The Polar Express,5255,G,Animation;Adventure;Family;Fantasy,2004
-1593,Mary Poppins,433,G,Comedy;Family;Fantasy,1964
 1594,Hancock,8960,PG-13,Fantasy;Action,2008
 1595,Underworld: Evolution,834,R,Fantasy;Action;Thriller,2006
 1596,Signs,2675,PG-13,Drama;Thriller;Science Fiction;Mystery,2002
 1597,Fantastic Four: Rise of the Silver Surfer,1979,PG,Science Fiction;Adventure;Action,2007
 1598,Pandorum,19898,R,Action;Horror;Mystery;Science Fiction;Thriller,2009
 1599,Dora and the Lost City of Gold,499701,PG,Adventure;Comedy;Family;Fantasy,2019
-1600,"Paris, Texas",655,R,Drama,1984
 1601,The Cabin in the Woods,22970,R,Horror;Mystery;Thriller,2012
-1602,The Final Conflict,10768,R,Horror;Mystery;Thriller,1981
-1603,Rear Window,567,PG,Thriller;Mystery,1954
 1604,The 40 Year Old Virgin,6957,R,Comedy;Romance,2005
 1605,Flipped,43949,PG,Romance;Drama,2010
 1606,The Living Daylights,708,PG,Action;Adventure;Thriller,1987
@@ -1644,7 +1538,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1642,Unfrosted,844185,PG-13,Comedy;History,2024
 1643,The Pink Panther,12096,PG,Comedy;Mystery;Crime;Adventure;Family,2006
 1644,13 Going on 30,10096,PG-13,Comedy;Fantasy;Romance,2004
-1645,Battle for the Planet of the Apes,1705,G,Action;Science Fiction,1973
 1646,Imagine Me & You,1544,R,Drama;Comedy;Romance,2006
 1647,Stormy,1240928,R,Documentary,2024
 1648,Mission to Mars,2067,PG,Science Fiction;Adventure;Mystery,2000
@@ -1653,7 +1546,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1651,Starship Troopers 3: Marauder,11127,R,Adventure;Science Fiction;Action,2008
 1652,Mad Max Beyond Thunderdome,9355,PG-13,Action;Adventure;Science Fiction,1985
 1653,Mystic River,322,R,Thriller;Crime;Drama;Mystery,2003
-1654,For Your Eyes Only,699,PG,Adventure;Action;Thriller,1981
 1655,Unbroken,227306,PG-13,Drama;War,2014
 1656,Unbroken,227306,PG-13,Drama;War,2014
 1657,Superman Returns,1452,PG-13,Science Fiction;Action;Adventure,2006
@@ -1673,9 +1565,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1671,Mr. Peabody & Sherman,82703,PG,Animation;Adventure;Family,2014
 1672,Shot Caller,339692,R,Crime;Drama;Thriller,2017
 1673,Not Another Teen Movie,11397,R,Comedy,2001
-1674,Jaws 3-D,17692,PG,Thriller;Horror,1983
 1675,Friends with Benefits,50544,R,Romance;Comedy,2011
-1676,The Fox and the Hound,10948,G,Adventure;Animation;Drama;Family,1981
 1677,Heaven Is for Real,236751,PG,Drama,2014
 1678,22 Jump Street,187017,R,Crime;Comedy;Action,2014
 1679,I Spit on Your Grave 2,207768,R,Thriller;Horror;Crime,2013
@@ -1709,7 +1599,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1707,I.S.S.,790462,R,Science Fiction;Thriller,2024
 1708,The Bourne Identity,2501,PG-13,Action;Drama;Mystery;Thriller,2002
 1709,Battle: Los Angeles,44943,PG-13,Science Fiction;Action,2011
-1710,Butch Cassidy and the Sundance Kid,642,PG,Western,1969
 1711,The Fault in Our Stars,222935,PG-13,Romance;Drama,2014
 1712,Brooklyn,167073,PG-13,Romance;Drama,2015
 1713,Looney Tunes: Back in Action,10715,PG,Animation;Comedy;Family,2003
@@ -1718,7 +1607,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1716,Detroit,407448,R,Crime;Drama;Thriller;History,2017
 1717,Air,964980,R,Drama,2023
 1718,Teen Wolf: The Movie,877703,R,Action;Fantasy;TV Movie,2023
-1719,Tron,97,PG,Science Fiction;Action;Adventure,1982
 1720,Wicked Little Letters,975773,R,Comedy;Drama;Mystery,2024
 1721,Brother Bear 2,10010,G,Adventure;Animation;Family,2006
 1722,Colombiana,62835,PG-13,Action;Thriller;Crime;Drama,2011
@@ -1726,14 +1614,12 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1724,Perfect Addiction,845659,R,Drama;Romance,2023
 1725,Horrible Bosses 2,227159,R,Comedy,2014
 1726,Sex and the City 2,37786,R,Comedy;Drama;Romance,2010
-1727,Friday the 13th Part III,9728,R,Horror;Thriller,1982
 1728,Fantastic Mr. Fox,10315,PG,Adventure;Animation;Comedy;Family,2009
 1729,Hitman's Wife's Bodyguard,522931,R,Action;Comedy;Crime;Thriller,2021
 1730,The Transporter Refueled,287948,PG-13,Action;Thriller;Crime,2015
 1731,Jackie,376866,R,Drama,2016
 1732,Richard Jewell,292011,R,Drama,2019
 1733,Minions,211672,PG,Family;Animation;Adventure;Comedy,2015
-1734,Die unendliche Geschichte,34584,PG,Adventure;Fantasy;Family;Drama,1984
 1735,Tomorrow Never Dies,714,PG-13,Adventure;Action;Thriller,1997
 1736,Super 8,37686,PG-13,Thriller;Science Fiction;Mystery,2011
 1737,Atonement,4347,R,Drama;Romance,2007
@@ -1741,7 +1627,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1739,Assassin's Creed,121856,PG-13,Action;Adventure;Science Fiction,2016
 1740,Brokeback Mountain,142,R,Drama;Romance,2005
 1741,Starship Troopers,563,R,Adventure;Action;Thriller;Science Fiction,1997
-1742,An American Werewolf in London,814,R,Comedy;Horror,1981
 1743,Deep Impact,8656,PG-13,Action;Drama;Science Fiction,1998
 1744,The Contractor,628900,R,Action;Adventure;Thriller,2022
 1745,War,10431,R,Action;Thriller,2007
@@ -1752,7 +1637,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1750,The Last Witch Hunter,274854,PG-13,Fantasy;Action;Adventure,2015
 1751,Finestkind,507532,R,Crime;Drama;Thriller,2023
 1752,The Out-Laws,921636,R,Romance;Action;Comedy,2023
-1753,Beverly Hills Cop,90,R,Action;Comedy;Crime,1984
 1754,Condor's Nest,1062482,R,Action;War,2023
 1755,Enemy of the State,9798,R,Action;Drama;Thriller,1998
 1756,Zathura: A Space Adventure,6795,PG,Science Fiction;Adventure;Family,2005
@@ -1770,7 +1654,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1768,Little Children,1440,R,Drama;Romance,2006
 1769,Star Trek: First Contact,199,PG-13,Science Fiction;Action;Adventure;Thriller,1996
 1770,"O Brother, Where Art Thou?",134,PG-13,Adventure;Comedy;Crime,2000
-1771,Poltergeist,609,R,Horror,1982
 1772,Midnight Sun,419478,PG-13,Romance;Drama,2018
 1773,Nanny McPhee,11283,PG,Fantasy;Comedy;Family,2005
 1774,R.I.P.D. 2: Rise of the Damned,1013860,PG-13,Action;Comedy;Fantasy;Crime,2022
@@ -1798,19 +1681,12 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1796,Triple Frontier,399361,R,Action;Thriller;Crime;Adventure,2019
 1797,Old,631843,PG-13,Thriller;Mystery;Horror,2021
 1798,RocknRolla,13809,R,Action;Crime;Thriller,2008
-1799,Cleopatra,8095,G,Drama;History;Romance,1963
-1800,Pretty Baby,26973,R,Drama,1978
 1801,A.I. Artificial Intelligence,644,PG-13,Drama;Science Fiction;Adventure,2001
 1802,Secret Headquarters,791155,PG,Action;Adventure;Comedy;Science Fiction;Family,2022
 1803,Waterworld,9804,PG-13,Adventure;Action;Science Fiction,1995
 1804,Cinderella III: A Twist in Time,16119,G,Animation;Romance;Family;Fantasy,2007
-1805,The Texas Chain Saw Massacre,30497,R,Horror,1974
-1806,The Texas Chain Saw Massacre,30497,R,Horror,1974
-1807,The Warriors,11474,R,Action;Thriller,1979
 1808,Which Brings Me to You,975043,PG-13,Romance;Comedy;Drama,2023
 1809,The Legend of Tarzan,258489,PG-13,Fantasy;Action;Adventure,2016
-1810,Magnum Force,10648,R,Drama;Crime;Action,1973
-1811,The Man with the Golden Gun,682,PG,Adventure;Action;Thriller,1974
 1812,Antlers,516329,R,Drama;Horror;Mystery,2021
 1813,Spies in Disguise,431693,PG,Animation;Action;Adventure;Comedy;Family,2019
 1814,Virus,9423,R,Horror;Action;Science Fiction,1999
@@ -1823,11 +1699,9 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1821,A Dog's Purpose,381289,PG,Adventure;Comedy;Fantasy;Family;Drama,2017
 1822,Spider-Man 2,558,PG-13,Action;Adventure;Science Fiction,2004
 1823,Pitch Perfect 3,353616,PG-13,Comedy;Music,2017
-1824,Footloose,1788,PG,Drama;Romance,1984
 1825,Scream 4,41446,R,Horror;Mystery,2011
 1826,Trainspotting,627,R,Drama;Crime,1996
 1827,The Wedding Ringer,252838,R,Comedy,2015
-1828,Enter the Dragon,9461,R,Action,1973
 1829,Scooby-Doo! and the Loch Ness Monster,12902,G,Family;Adventure;Animation;Comedy;Fantasy;Mystery,2004
 1830,Flight,87502,R,Drama,2012
 1831,Sniper: G.R.I.T. - Global Response & Intelligence Team,1171541,R,Action;Thriller,2023
@@ -1837,7 +1711,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1835,Baby's Day Out,11212,PG,Comedy;Adventure;Family;Crime;Drama,1994
 1836,The Babysitter,419479,R,Comedy;Horror,2017
 1837,Ferris Bueller's Day Off,9377,PG-13,Comedy,1986
-1838,Robin Hood,11886,G,Animation;Family,1973
 1839,The Book of Clarence,976584,PG-13,Adventure;Comedy;Drama,2024
 1840,Radio,13920,PG,Drama,2003
 1841,All Dogs Go to Heaven,11497,G,Drama;Animation;Family;Comedy;Fantasy,1989
@@ -1865,7 +1738,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1863,Mortal Kombat,9312,PG-13,Action;Fantasy,1995
 1864,Step Up All In,243683,PG-13,Romance;Drama;Music,2014
 1865,Robin Hood,375588,PG-13,Adventure;Action;Thriller,2018
-1866,Christine,8769,R,Horror,1983
 1867,Murder Mystery,514999,PG-13,Action;Comedy;Mystery,2019
 1868,Triangle,26466,R,Horror,2009
 1869,The Last Emperor,746,PG-13,Drama;History,1987
@@ -1897,10 +1769,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1895,Unfaithful,2251,R,Thriller;Drama,2002
 1896,Legends of the Fall,4476,R,Adventure;Drama;Romance;War;Western,1994
 1897,Mama Agnes,1233938,PG-13,Horror,2023
-1898,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,935,PG,Comedy;War,1964
 1899,Antz,8916,PG,Family;Animation;Adventure;Comedy,1998
 1900,Easy A,37735,PG-13,Comedy,2010
-1901,Never Say Never Again,36670,PG,Adventure;Action;Thriller,1983
 1902,Beowulf,2310,PG-13,Adventure;Action;Animation,2007
 1903,Joy,274479,PG-13,Drama;Comedy,2015
 1904,Garfield: A Tail of Two Kitties,9513,PG,Animation;Comedy;Family;Adventure;Drama;Fantasy,2006
@@ -1916,7 +1786,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1914,Spotlight,314365,R,Drama;History,2015
 1915,House of Wax,10066,R,Mystery;Horror;Thriller,2005
 1916,Speed Zone,12236,PG,Comedy;Action,1989
-1917,Clash of the Titans,10323,PG,Adventure;Fantasy,1981
 1918,Rain Man,380,R,Drama,1988
 1919,Paranormal Activity: The Ghost Dimension,146301,R,Horror;Thriller,2015
 1920,Inside Man,388,R,Crime;Drama;Thriller,2006
@@ -1929,7 +1798,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1927,Million Dollar Baby,70,PG-13,Drama,2004
 1928,127 Hours,44115,R,Adventure;Drama;Thriller,2010
 1929,Red Dawn,60747,PG-13,Action;Thriller,2012
-1930,Airplane!,813,PG,Comedy,1980
 1931,House of Gucci,644495,R,Drama;History;Crime,2021
 1932,They Live,8337,R,Science Fiction;Action,1988
 1933,Piranha 3D,43593,R,Comedy;Horror,2010
@@ -1939,10 +1807,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1937,The Exorcism of Emily Rose,8643,PG-13,Crime;Drama;Horror;Thriller,2005
 1938,A Christmas Carol,17979,PG,Animation;Family;Fantasy,2009
 1939,Elektra,9947,PG-13,Action;Fantasy;Adventure,2005
-1940,Raging Bull,1578,R,Drama,1980
 1941,Hook,879,PG,Adventure;Fantasy;Comedy;Family,1991
-1942,Romeo and Juliet,6003,PG,Drama;Romance,1968
-1943,Moonraker,698,PG,Action;Adventure;Thriller;Science Fiction,1979
 1944,Woody Woodpecker,462883,PG,Comedy;Family;Animation,2017
 1945,Barbie: A Fashion Fairytale,44874,G,Family;Animation,2010
 1946,Solaris,2103,PG-13,Drama;Science Fiction;Mystery,2002
@@ -1966,7 +1831,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1964,Ace Ventura: Pet Detective,3049,PG-13,Comedy;Mystery,1994
 1965,Spread,19918,R,Comedy;Romance,2009
 1966,Moulin Rouge!,824,PG-13,Drama;Romance;Music,2001
-1967,Conan the Destroyer,9610,PG,Adventure;Fantasy;Action,1984
 1968,Sweeney Todd: The Demon Barber of Fleet Street,13885,R,Drama;Horror,2007
 1969,You Are So Not Invited to My Bat Mitzvah,999644,PG-13,Comedy,2023
 1970,Red Eye,11460,PG-13,Thriller;Mystery,2005
@@ -1976,15 +1840,12 @@ Unnamed: 0,Title,id,rating,genres,Release year
 1974,Shrek the Halls,13394,PG,Adventure;Animation;Comedy;Fantasy;Family,2007
 1975,The Karate Kid Part II,8856,PG,Adventure;Drama;Action;Romance;Family,1986
 1976,Marlowe,844417,R,Mystery;Thriller;Crime,2023
-1977,Live and Let Die,253,PG,Adventure;Action;Thriller,1973
-1978,The Sting,9277,PG,Comedy;Crime;Drama,1973
 1979,Unfrosted,844185,PG-13,Comedy;History,2024
 1980,Escape Plan 2: Hades,440471,R,Action;Thriller;Mystery;Crime;Adventure,2018
 1981,The House with a Clock in Its Walls,463821,PG,Fantasy;Family;Comedy,2018
 1982,The Vanished,718400,R,Thriller;Horror;Crime;Action,2020
 1983,Boogie Nights,4995,R,Drama,1997
 1984,Ghostland,476299,R,Horror;Mystery;Thriller,2018
-1985,Flash Gordon,3604,PG,Science Fiction;Comedy;Adventure;Action,1980
 1986,Locked In,1064024,R,Thriller,2023
 1987,Takers,22907,PG-13,Action;Crime;Drama;Thriller,2010
 1988,Oldboy,87516,R,Drama;Thriller;Mystery;Action,2013
@@ -2007,8 +1868,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2005,Hot Girls Wanted,318256,NC-17,Documentary,2015
 2006,The Family Man,5994,PG-13,Comedy;Drama;Romance;Fantasy,2000
 2007,Friday the 13th,13207,R,Horror,2009
-2008,Jason and the Argonauts,11533,G,Adventure;Family;Fantasy,1963
-2009,Hang 'em High,4929,PG-13,Western,1968
 2010,Everest,253412,PG-13,Adventure;Drama;History,2015
 2011,The Thin Red Line,8741,R,Drama;History;War,1998
 2012,War Room,323272,PG,Drama,2015
@@ -2022,7 +1881,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2020,Happy Feet Two,65759,PG,Animation;Comedy;Family,2011
 2021,Umma,751237,PG-13,Horror;Mystery;Drama,2022
 2022,Never Back Down 2: The Beatdown,70006,R,Drama;Action,2011
-2023,Manhattan,696,R,Comedy;Drama;Romance,1979
 2024,Sleepers,819,R,Crime;Drama;Thriller,1996
 2025,"Me, Myself & Irene",2123,R,Comedy,2000
 2026,The Count of Monte Cristo,11362,PG-13,Adventure;Drama;History,2002
@@ -2031,9 +1889,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2029,Death Race 2,51620,R,Action;Thriller;Science Fiction,2010
 2030,Sanctuary,870518,R,Drama;Thriller,2023
 2031,The Untouchables,117,R,Crime;History;Thriller,1987
-2032,The Birds,571,PG-13,Horror,1963
 2033,Chestnut: Hero of Central Park,34672,G,Family;Comedy,2004
-2034,Friday the 13th Part 2,9725,R,Horror;Thriller,1981
 2035,Hop,50359,PG,Animation;Comedy;Family,2011
 2036,Sunshine,1272,R,Drama;Science Fiction;Thriller,2007
 2037,Miss Congeniality,1493,PG-13,Comedy;Crime;Action,2000
@@ -2048,23 +1904,18 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2046,The Three Musketeers,52451,PG-13,Adventure;Action;Thriller,2011
 2047,National Treasure,2059,PG,Adventure;Action;Thriller;Mystery,2004
 2048,He's Just Not That Into You,10184,PG-13,Comedy;Romance;Drama,2009
-2049,Escape from the Planet of the Apes,1687,G,Action;Science Fiction,1971
 2050,Hitch,8488,PG-13,Comedy;Drama;Romance,2005
 2051,Bedazzled,1636,PG-13,Fantasy;Comedy;Romance,2000
 2052,Shoot 'Em Up,4141,R,Action;Thriller;Comedy;Crime,2007
 2053,Barbie Fairytopia: Mermaidia,13285,G,Animation;Family;Adventure;Fantasy,2006
-2054,Excalibur,11527,R,Adventure;Fantasy,1981
-2055,Excalibur,11527,R,Adventure;Fantasy,1981
 2056,The Butterfly Effect 3: Revelations,16258,R,Science Fiction;Thriller;Drama;Crime,2009
 2057,The Wolfman,7978,R,Horror;History;Drama;Thriller,2010
 2058,Déjà Vu,7551,PG-13,Action;Thriller;Science Fiction,2006
-2059,Life of Brian,583,R,Comedy,1979
 2060,Lethal Weapon 3,943,R,Adventure;Action;Comedy;Thriller;Crime,1992
 2061,The Boogeyman,532408,PG-13,Horror;Thriller;Mystery,2023
 2062,Escape Room: Tournament of Champions,585216,PG-13,Horror;Thriller;Mystery,2021
 2063,Under the Skin,97370,R,Thriller;Science Fiction;Drama,2014
 2064,The Fugitive,5503,PG-13,Action;Thriller;Drama,1993
-2065,Star Trek: The Motion Picture,152,PG,Science Fiction;Adventure;Mystery,1979
 2066,The Little Prince,309809,PG,Adventure;Animation;Fantasy;Family,2015
 2067,Children of Men,9693,R,Drama;Action;Thriller;Science Fiction,2006
 2068,The Outfit,799876,R,Crime;Drama;Thriller;Mystery,2022
@@ -2079,7 +1930,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2077,Lion,334543,PG-13,Drama,2016
 2078,Justice League: Throne of Atlantis,297556,PG-13,Science Fiction;Action;Animation;Adventure,2015
 2079,Lone Survivor,193756,R,War;Action;Drama,2013
-2080,Superman II,8536,PG,Science Fiction;Action;Adventure,1980
 2081,Confidential Informant,1070802,R,Thriller;Action;Mystery,2023
 2082,Emma.,556678,PG,Comedy;Romance,2020
 2083,Teenage Mutant Ninja Turtles,1498,PG,Science Fiction;Action;Adventure;Comedy;Family,1990
@@ -2103,7 +1953,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2101,Diary of a Wimpy Kid: Rodrick Rules,60307,PG,Family;Comedy,2011
 2102,Planes,151960,PG,Animation;Family;Adventure;Comedy,2013
 2103,Horrible Bosses,51540,R,Comedy;Crime,2011
-2104,An Officer and a Gentleman,2623,R,Drama;Romance,1982
 2105,Babe,9598,G,Fantasy;Drama;Comedy;Family,1995
 2106,Brimstone,324560,R,Drama;Mystery;Thriller;Western,2016
 2107,Scoob!,385103,PG,Animation;Comedy;Family;Mystery,2020
@@ -2132,7 +1981,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2130,Under Siege,8845,R,Action;Thriller,1992
 2131,Sex Drive,13523,R,Comedy;Adventure;Romance,2008
 2132,A Haunted House,139038,R,Comedy;Horror,2013
-2133,Escape from New York,1103,R,Science Fiction;Action,1981
 2134,The Adventures of Tintin,17578,PG,Adventure;Animation;Mystery,2011
 2135,Sweet Girl,619297,R,Action;Thriller;Drama,2021
 2136,Barbie in A Mermaid Tale,34134,G,Animation;Family;Fantasy,2010
@@ -2154,7 +2002,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2152,Scent of a Woman,9475,R,Drama,1992
 2153,The Time Traveler's Wife,24420,PG-13,Drama;Romance;Fantasy,2009
 2154,Ghost Ship,9645,R,Horror;Mystery;Thriller,2002
-2155,Duel,839,PG,Action;Thriller;TV Movie,1971
 2156,An American Crime,13008,R,Crime;Drama;Horror,2007
 2157,S.W.A.T.,9257,PG-13,Action;Thriller;Crime,2003
 2158,Woodlawn,333596,PG,Drama,2015
@@ -2169,7 +2016,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2167,Trouble with the Curve,87825,PG-13,Drama;Romance,2012
 2168,Outbreak,6950,R,Action;Drama;Science Fiction;Thriller,1995
 2169,The Old Guard,547016,R,Action;Fantasy,2020
-2170,Annie Hall,703,PG,Comedy;Drama;Romance,1977
 2171,A View to a Kill,707,PG,Adventure;Action;Thriller,1985
 2172,Casper,8839,PG,Fantasy;Comedy;Family,1995
 2173,Breakthrough,514439,PG,Drama,2019
@@ -2200,7 +2046,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2198,Kronk's New Groove,13417,G,Animation;Comedy;Family,2005
 2199,Ocean's Twelve,163,PG-13,Thriller;Crime,2004
 2200,Legend of the Guardians: The Owls of Ga'Hoole,41216,PG,Animation;Adventure;Family;Fantasy,2010
-2201,The Deer Hunter,11778,R,Drama;War,1978
 2202,Naked Gun 33⅓: The Final Insult,36593,PG-13,Comedy;Crime,1994
 2203,Fist Fight,345922,R,Comedy,2017
 2204,Pleasure or Pain,251783,R,Drama;Thriller,2013
@@ -2220,10 +2065,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2218,Super Mario Bros.,9607,PG,Adventure;Fantasy;Comedy;Family,1993
 2219,The Phantom of the Opera,9833,PG-13,Thriller;Drama;Romance,2004
 2220,Rustin,898713,PG-13,Drama;History,2023
-2221,The Outlaw Josey Wales,10747,PG,Western,1976
 2222,The Avengers,9320,PG-13,Action;Adventure;Thriller;Science Fiction;Comedy,1998
 2223,Nutty Professor II: The Klumps,12107,PG-13,Fantasy;Comedy;Romance;Science Fiction,2000
-2224,Blazing Saddles,11072,R,Western;Comedy,1974
 2225,Survivor,334074,PG-13,Action;Crime;Mystery;Thriller,2015
 2226,47 Ronin,64686,PG-13,Drama;Action;Fantasy,2013
 2227,Marcel the Shell with Shoes On,869626,PG,Animation;Comedy;Drama;Family;Fantasy,2022
@@ -2246,7 +2089,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2244,Eagle Eye,13027,PG-13,Mystery;Thriller;Action,2008
 2245,The Desperate Hour,764835,PG-13,Thriller,2021
 2246,Taxi,11045,PG-13,Action;Comedy;Thriller;Crime,2004
-2247,Casino Royale,12208,PG,Adventure;Action;Comedy,1967
 2248,The Blackening,1008392,R,Horror;Comedy,2023
 2249,Fear Street: 1978,591274,R,Mystery;Horror,2021
 2250,Revolutionary Road,4148,R,Drama;Romance,2008
@@ -2267,13 +2109,11 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2265,Mowgli: Legend of the Jungle,407436,PG-13,Adventure;Drama,2018
 2266,Lucky Number Slevin,186,R,Drama;Thriller;Crime;Mystery,2006
 2267,Darkest Hour,399404,PG-13,Drama;History,2017
-2268,WarGames,860,PG,Thriller;Science Fiction;Drama,1983
 2269,Blue Streak,11001,PG-13,Action;Comedy;Crime,1999
 2270,Only the Brave,395991,PG-13,Drama;Action,2017
 2271,The Loft,72784,R,Thriller,2014
 2272,Warm Bodies,82654,PG-13,Horror;Comedy;Romance,2013
 2273,Voyagers,597890,PG-13,Science Fiction;Thriller,2021
-2274,Singin' in the Rain,872,G,Comedy;Romance,1952
 2275,Barbie and the Three Musketeers,23566,G,Animation;Family,2009
 2276,The Ugly Truth,20943,R,Comedy;Romance,2009
 2277,Scrooge: A Christmas Carol,1001865,G,Animation;Family;Fantasy,2022
@@ -2316,12 +2156,10 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2314,"Honey, I Shrunk the Kids",9354,PG,Adventure;Comedy;Family;Science Fiction,1989
 2315,Confessions of a Shopaholic,20048,PG,Comedy;Romance,2009
 2316,The Lighthouse,503919,R,Drama;Fantasy;Thriller,2019
-2317,48 Hrs.,150,R,Thriller;Action;Comedy;Crime;Drama,1982
 2318,Zebra Lounge,59940,R,Thriller,2001
 2319,No Escape,192141,R,Thriller;Action,2015
 2320,Possessor,435615,R,Horror;Thriller;Science Fiction,2020
 2321,The Basketball Diaries,10474,R,Drama;Crime,1995
-2322,American Graffiti,838,PG,Comedy;Drama,1973
 2323,Hellraiser: Bloodline,8766,R,Horror;Science Fiction,1996
 2324,Disaster Movie,13805,PG-13,Comedy;Science Fiction,2008
 2325,The Hating Game,603661,R,Drama;Comedy;Romance,2021
@@ -2362,7 +2200,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2360,"Angus, Thongs and Perfect Snogging",12689,PG-13,Comedy;Drama;Family;Romance,2008
 2361,Overboard,10780,PG,Comedy;Romance,1987
 2362,Above the Law,9395,R,Action;Thriller;Drama,1988
-2363,The Bridge on the River Kwai,826,PG,Drama;History;War,1957
 2364,Barbie: A Fairy Secret,57737,G,Animation;Family;Fantasy,2011
 2365,Barbie as Rapunzel,15015,G,Animation;Family,2002
 2366,U-571,3536,PG-13,War;Action;Adventure,2000
@@ -2384,7 +2221,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2382,"Big Mommas: Like Father, Like Son",38322,PG-13,Crime;Comedy;Action,2011
 2383,Chupa,736790,PG,Adventure;Fantasy;Family,2023
 2384,Wrong Turn 6: Last Resort,259072,R,Horror,2014
-2385,The Pink Panther,936,PG,Comedy;Crime,1963
 2386,Stonehearst Asylum,207933,PG-13,Thriller;Mystery;Horror,2014
 2387,Snitch,134411,PG-13,Thriller;Drama;Action,2013
 2388,Alexander,1966,R,War;History;Action;Adventure;Drama;Romance,2004
@@ -2415,7 +2251,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2413,Home Alone: The Holiday Heist,134375,PG,Comedy;Family;TV Movie,2012
 2414,Bad Teacher,52449,R,Comedy,2011
 2415,Elf,10719,PG,Comedy;Family;Fantasy,2003
-2416,Romancing the Stone,9326,PG,Romance;Comedy;Action;Adventure,1984
 2417,Joan of Arc,10047,R,Adventure;Drama;Action;History;War,1999
 2418,Last Action Hero,9593,PG-13,Adventure;Fantasy;Action;Comedy;Family,1993
 2419,Gone Baby Gone,4771,R,Crime;Drama;Mystery,2007
@@ -2434,7 +2269,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2432,The Tourist,37710,PG-13,Action;Thriller;Romance,2010
 2433,Freedom Writers,1646,PG-13,Crime;Drama,2007
 2434,A Most Violent Year,241239,R,Crime;Drama;Thriller,2014
-2435,Badlands,3133,PG,Crime;Drama;Romance,1974
 2436,Sleepy Hollow,2668,R,Drama;Fantasy;Thriller;Mystery;Horror,1999
 2437,Downton Abbey,535544,PG,Drama;Romance;History,2019
 2438,Gamer,18501,R,Action;Thriller;Science Fiction,2009
@@ -2454,13 +2288,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2452,Striptease,9879,R,Comedy;Crime;Drama,1996
 2453,Memoirs of a Geisha,1904,PG-13,Drama;Romance;History,2005
 2454,Tango & Cash,9618,R,Action;Thriller;Comedy;Drama,1989
-2455,Day of the Woman,25239,NC-17,Horror;Thriller,1978
 2456,Loop,574089,PG,Animation;Family,2019
-2457,The Graduate,37247,PG,Drama;Romance;Comedy,1967
-2458,The Graduate,37247,PG,Drama;Romance;Comedy,1967
-2459,The Many Adventures of Winnie the Pooh,250480,G,Animation;Family;Adventure,1977
 2460,End of Watch,77016,R,Crime;Drama;Thriller,2012
-2461,Close Encounters of the Third Kind,840,PG,Science Fiction;Drama,1977
 2462,Weird Science,11814,PG-13,Comedy;Romance;Science Fiction,1985
 2463,Peter Pan,10601,PG,Adventure;Fantasy;Family,2003
 2464,"sex, lies, and videotape",1412,R,Drama,1989
@@ -2468,19 +2297,15 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2466,Candyman,9529,R,Drama;Horror;Thriller,1992
 2467,Planes: Fire & Rescue,218836,PG,Animation;Comedy;Adventure;Family,2014
 2468,Pooh's Heffalump Movie,13682,G,Family;Animation;Comedy;Fantasy,2005
-2469,The Final Countdown,8738,PG,War;Action;Science Fiction,1980
 2470,The Baker,823395,R,Action;Drama;Crime,2023
 2471,Lara Croft: Tomb Raider - The Cradle of Life,1996,PG-13,Action;Adventure;Fantasy;Thriller,2003
 2472,Wild Things,617,R,Mystery;Thriller;Drama,1998
 2473,Monster High: The Movie,335795,G,Family;Fantasy;Comedy;Adventure,2022
-2474,Friday the 13th: The Final Chapter,9730,R,Horror;Thriller,1984
 2475,Iron Sky: The Coming Race,302349,R,Action;Comedy;Fantasy;Science Fiction,2019
 2476,The Dictator,76493,R,Comedy,2012
-2477,Porky's,10246,R,Comedy,1981
 2478,Good Luck Chuck,10030,R,Comedy;Romance,2007
 2479,House,11415,R,Comedy;Horror;Fantasy,1986
 2480,Philadelphia,9800,PG-13,Drama,1993
-2481,The Fog,790,R,Horror;Mystery;Thriller,1980
 2482,Room,264644,R,Drama;Thriller,2015
 2483,Us,458723,R,Horror;Thriller,2019
 2484,Old School,11635,R,Comedy,2003
@@ -2490,23 +2315,19 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2488,River Wild,1000475,PG-13,Mystery;Thriller;Adventure,2023
 2489,River Wild,1000475,PG-13,Mystery;Thriller;Adventure,2023
 2490,Phineas and Ferb The Movie: Candace Against the Universe,594328,G,Family;Animation;Science Fiction;Comedy,2020
-2491,Cruising,27958,R,Crime;Mystery;Thriller,1980
 2492,Kung Fu Panda: Secrets of the Scroll,381693,G,Animation;Family;Comedy,2016
 2493,How to Lose a Guy in 10 Days,9919,PG-13,Comedy;Romance,2003
 2494,The Craft: Legacy,590995,PG-13,Horror;Drama;Fantasy,2020
 2495,Uncle Buck,2616,PG,Comedy;Drama;Family,1989
-2496,Tootsie,9576,PG,Comedy;Romance,1982
 2497,Anchorman: The Legend of Ron Burgundy,8699,PG-13,Comedy,2004
 2498,Aftermath,390051,R,Drama;Thriller,2017
 2499,Oliver & Company,12233,G,Animation;Comedy;Family,1988
-2500,Crazy Mama,89602,PG,Crime;Action;Comedy,1975
 2501,Hostel: Part II,1691,R,Horror,2007
 2502,Paranormal Activity 2,41436,R,Horror;Mystery,2010
 2503,Moonrise Kingdom,83666,PG-13,Comedy;Drama;Romance,2012
 2504,Miss Bala,500852,PG-13,Action,2019
 2505,All Hallows' Eve,231001,R,Horror,2013
 2506,The Human Centipede 3 (Final Sequence),94365,R,Horror;Comedy,2015
-2507,Song of the South,13850,G,Family;Animation,1946
 2508,The Burial,763165,R,Comedy;Drama,2023
 2509,The Faculty,9276,R,Horror;Science Fiction;Mystery,1998
 2510,Overcomer,527776,PG,Drama,2019
@@ -2514,33 +2335,26 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2512,Big Trouble in Little China,6978,PG-13,Comedy;Action;Fantasy,1986
 2513,Inkheart,2309,PG,Adventure;Family;Fantasy,2008
 2514,Jurassic Park,329,PG-13,Adventure;Science Fiction,1993
-2515,Popeye,11335,PG,Action;Adventure;Comedy;Family,1980
 2516,Lock Up,9972,R,Action;Crime,1989
 2517,Underwater,443791,PG-13,Horror;Science Fiction;Action;Adventure,2020
 2518,Transcendence,157353,PG-13,Thriller;Science Fiction;Drama;Mystery,2014
 2519,RV,9530,PG,Family;Comedy;Romance;Drama,2006
 2520,Lady and the Tramp,512895,PG,Family;Romance;Comedy,2019
-2521,Wings,28966,PG-13,Drama;Action;War;Romance,1927
 2522,The Net,1642,PG-13,Crime;Drama;Mystery;Thriller;Action,1995
-2523,Touch of Evil,1480,PG-13,Crime;Thriller;Mystery,1958
 2524,Big Daddy,9032,PG-13,Comedy;Drama,1999
 2525,Spring Breakers,122081,R,Drama;Crime,2013
 2526,Creep,250574,R,Horror,2014
 2527,The Invisible Man,570670,R,Thriller;Science Fiction;Horror,2020
 2528,Fantasy Island,539537,PG-13,Horror;Fantasy;Adventure;Mystery,2020
-2529,M*A*S*H,651,R,Comedy;Drama;War,1970
 2530,The Ridiculous 6,347969,PG-13,Western;Comedy,2015
 2531,Lights Out,345911,PG-13,Horror,2016
 2532,Surf's Up,9408,PG,Animation;Comedy;Family,2007
 2533,When Harry Met Sally...,639,R,Comedy;Romance;Drama,1989
 2534,The Commuter,399035,PG-13,Action;Thriller;Mystery,2018
-2535,Superman III,9531,PG,Comedy;Science Fiction;Action;Adventure,1983
 2536,Cheaper by the Dozen 2,9641,PG,Comedy;Family;Adventure,2005
 2537,Serendipity,9778,PG-13,Comedy;Romance;Drama,2001
 2538,Selena,16052,PG,Drama;Music;History,1997
 2539,Remember the Titans,10637,PG,Drama,2000
-2540,The Rescuers,11319,G,Fantasy;Family;Animation;Adventure,1977
-2541,Escape from Alcatraz,10734,PG,Drama;Thriller,1979
 2542,Beautiful Boy,451915,R,Drama,2018
 2543,mother!,381283,R,Drama;Thriller;Horror,2017
 2544,TÁR,817758,R,Drama;Music,2022
@@ -2560,21 +2374,17 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2558,Police Academy 2: Their First Assignment,10157,PG-13,Comedy;Crime,1985
 2559,Escape From Germany,1129508,PG,History;Drama;War,2024
 2560,The Return of Jafar,15969,G,Family;Adventure;Animation;Romance,1994
-2561,Saturday Night Fever,11009,R,Music;Drama,1977
 2562,Insomnia,320,R,Crime;Thriller,2002
 2563,James and the Giant Peach,10539,PG,Adventure;Animation;Family;Fantasy,1996
-2564,Silent Running,811,G,Adventure;Science Fiction,1972
 2565,Ooops! Noah Is Gone...,326215,G,Animation;Adventure;Comedy;Family,2015
 2566,Bill & Ted Face the Music,501979,PG-13,Comedy;Science Fiction;Adventure,2020
 2567,Fifty Shades of Black,351819,R,Romance;Comedy,2016
 2568,Dr. Jekyll and Ms. Hyde,37019,PG-13,Comedy;Horror;Science Fiction,1995
-2569,The Conversation,592,PG,Crime;Drama;Mystery,1974
 2570,Major League,9942,R,Comedy,1989
 2571,Justice League Dark: Apokolips War,618344,R,Animation;Action;Science Fiction,2020
 2572,Twins,9493,PG,Comedy,1988
 2573,Doom,8814,R,Action;Horror;Science Fiction,2005
 2574,LEGO Marvel Avengers: Code Red,1154598,G,Animation;Action;Family,2023
-2575,Dirty Harry,984,R,Action;Crime;Thriller,1971
 2576,Robin Hood: Men in Tights,8005,PG-13,Comedy,1993
 2577,Gremlins 2: The New Batch,928,PG-13,Comedy;Horror;Fantasy,1990
 2578,Inherent Vice,171274,R,Drama;Mystery;Comedy,2014
@@ -2585,13 +2395,11 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2583,Tooth Fairy,23023,PG,Comedy;Family;Fantasy,2010
 2584,Hostage,2026,R,Action;Thriller;Crime,2005
 2585,Enola Holmes,497582,PG-13,Adventure;Mystery;Crime,2020
-2586,Private Lessons,41280,R,Comedy;Romance,1981
 2587,Sharper,717980,R,Thriller;Crime;Drama,2023
 2588,The Reaping,1683,R,Horror,2007
 2589,The Game Plan,13680,PG,Comedy;Family,2007
 2590,The Courier,522241,PG-13,Thriller;History;Drama,2020
 2591,Drag Me to Hell,16871,PG-13,Horror;Thriller,2009
-2592,Fantasia,756,G,Animation;Family;Fantasy,1940
 2593,Mr. Monk's Last Case: A Monk Movie,1100795,PG,Comedy;Crime;Mystery;TV Movie,2023
 2594,Romeo Must Die,2085,R,Action;Crime;Thriller,2000
 2595,The Hate U Give,470044,PG-13,Crime;Drama,2018
@@ -2630,10 +2438,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2628,A Dog's Journey,522518,PG,Family;Adventure;Drama,2019
 2629,Max,272878,PG,Adventure;Drama;Family,2015
 2630,Max,272878,PG,Adventure;Drama;Family,2015
-2631,Death Race 2000,13282,R,Action;Science Fiction,1975
 2632,Kingpin,11543,PG-13,Comedy,1996
 2633,Brigsby Bear,403431,PG-13,Comedy;Drama,2017
-2634,Body Double,11507,R,Crime;Mystery;Thriller,1984
 2635,Barbie and the Magic of Pegasus,15906,G,Animation;Family;Romance,2005
 2636,The Change-Up,49520,R,Comedy,2011
 2637,The Holiday,1581,PG-13,Comedy;Romance,2006
@@ -2646,7 +2452,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2644,Indecent Proposal,4478,R,Romance;Drama,1993
 2645,Timeline,9562,PG-13,Action;Adventure;Science Fiction,2003
 2646,The Place Beyond the Pines,97367,R,Drama;Crime,2013
-2647,Exorcist II: The Heretic,11586,R,Drama;Horror;Thriller,1977
 2648,The Spy Who Dumped Me,454992,R,Action;Comedy,2018
 2649,The Thing,60935,R,Horror;Science Fiction;Mystery,2011
 2650,Silver Linings Playbook,82693,R,Drama;Comedy;Romance,2012
@@ -2674,7 +2479,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2672,Triple 9,146198,R,Action;Crime;Adventure;Thriller,2016
 2673,Frankenweenie,62214,PG,Animation;Comedy;Family,2012
 2674,Spy,238713,R,Action;Comedy;Crime,2015
-2675,Papillon,5924,PG,Crime;Drama,1973
 2676,Shark Side of the Moon,1011679,R,Action;Science Fiction;Thriller;Horror,2022
 2677,Iron Sky,10679,R,Action;Comedy;Science Fiction,2012
 2678,Crimson Peak,201085,R,Horror;Romance,2015
@@ -2684,7 +2488,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2682,Ronin,8195,R,Action;Thriller;Crime,1998
 2683,Big Momma's House,9600,PG-13,Crime;Comedy,2000
 2684,Step Brothers,12133,R,Comedy,2008
-2685,Supergirl,9651,PG,Adventure;Fantasy;Action;Science Fiction,1984
 2686,The Tax Collector,531499,R,Action;Crime;Drama,2020
 2687,No Exit,833425,R,Thriller;Mystery,2022
 2688,Thirteen Lives,698948,PG-13,Drama;Thriller,2022
@@ -2710,7 +2513,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2708,Constantine: City of Demons - The Movie,539517,R,Fantasy;Animation;Horror;Action,2018
 2709,American Hustle,168672,R,Drama;Crime,2013
 2710,Secret in Their Eyes,290751,PG-13,Thriller;Mystery;Drama;Crime,2015
-2711,Cujo,10489,R,Horror;Thriller,1983
 2712,Fear Street: 1994,591273,R,Mystery;Horror,2021
 2713,Run All Night,241554,R,Action;Crime;Thriller,2015
 2714,EverAfter,9454,PG-13,Drama;Romance;Comedy,1998
@@ -2719,7 +2521,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2717,101 Dalmatians II: Patch's London Adventure,13654,G,Family;Animation;Adventure;Comedy,2002
 2718,Dragonball Evolution,14164,PG,Action;Adventure;Fantasy;Science Fiction;Thriller,2009
 2719,Hellraiser: Hellworld,12699,R,Horror;Fantasy;Science Fiction,2005
-2720,True Grit,17529,G,Western,1969
 2721,Prom Pact,932430,PG-13,Romance;Comedy,2023
 2722,Sex and Death 101,14424,R,Comedy;Romance;Drama,2007
 2723,At Eternity's Gate,491472,PG-13,Drama,2018
@@ -2730,7 +2531,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2728,Alpha,399360,PG-13,Adventure;Drama,2018
 2729,High School Musical,10947,G,Comedy;Drama;Family;Music;Romance;TV Movie,2006
 2730,Adrift,429300,PG-13,Thriller;Romance;Adventure,2018
-2731,Escape to Victory,17360,PG-13,Drama;War,1981
 2732,AINBO: Spirit of the Amazon,588921,PG,Adventure;Animation;Family;Fantasy,2021
 2733,Crawl,511987,R,Thriller;Horror;Action,2019
 2734,Bridget Jones's Baby,95610,R,Comedy;Romance;Drama,2016
@@ -2745,14 +2545,11 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2743,Daddy's Home,274167,PG-13,Comedy,2015
 2744,Hostiles,384680,R,Western;Drama;History,2017
 2745,Vendetta,894169,R,Action;Crime,2022
-2746,Jaws 2,579,PG,Horror;Thriller,1978
 2747,I Now Pronounce You Chuck & Larry,3563,PG-13,Comedy;Romance,2007
 2748,The Hunchback of Notre Dame II,12448,G,Animation;Family;Comedy,2002
 2749,Paranormal Activity,23827,R,Horror;Mystery,2007
 2750,Bed Rest,917007,R,Horror,2023
 2751,Aladdin and the King of Thieves,11238,G,Adventure;Animation;Family,1996
-2752,Chained Heat,18406,R,Action;Crime;Drama;Thriller,1983
-2753,Invasion of the Body Snatchers,11850,PG,Science Fiction;Horror,1978
 2754,Footloose,68817,PG-13,Drama;Music;Romance,2011
 2755,Rage,242310,R,Action;Crime;Thriller,2014
 2756,Road Trip,9285,R,Comedy;Adventure,2000
@@ -2768,14 +2565,10 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2766,Grimsby,267193,R,Action;Comedy,2016
 2767,Jerry Maguire,9390,R,Comedy;Drama;Romance,1996
 2768,Mary Poppins Returns,400650,PG,Fantasy;Family;Comedy,2018
-2769,Barbarella,8069,PG,Science Fiction;Adventure;Comedy;Fantasy,1968
 2770,Mary Poppins Returns,400650,PG,Fantasy;Family;Comedy,2018
-2771,Barbarella,8069,PG,Science Fiction;Adventure;Comedy;Fantasy,1968
 2772,Death Race: Inferno,156717,R,Action;Science Fiction;Thriller,2013
-2773,"20,000 Leagues Under the Sea",173,G,Adventure;Science Fiction;Family,1954
 2774,Phantom Thread,400617,R,Drama;Romance,2017
 2775,Just Like Heaven,9007,PG-13,Drama;Comedy;Romance;Fantasy,2005
-2776,The Enforcer,10649,R,Crime;Action,1976
 2777,Men of Honor,11978,R,Drama,2000
 2778,The Edge,9433,R,Action;Adventure;Drama,1997
 2779,The Bodyguard,619,R,Action;Drama;Romance,1992
@@ -2799,7 +2592,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2797,Gnomeo & Juliet,45772,G,Animation;Family,2011
 2798,The Infernal Machine,916605,R,Thriller;Mystery,2022
 2799,Europa Report,174772,PG-13,Science Fiction;Thriller,2013
-2800,Sixteen Candles,15144,PG,Drama;Romance;Comedy,1984
 2801,Dark Angel,19384,R,Action;Thriller;Science Fiction;Crime;Horror,1990
 2802,A-X-L,438590,PG-13,Science Fiction;Action;Adventure;Family,2018
 2803,Leatherface: The Texas Chainsaw Massacre III,25018,R,Horror;Thriller,1990
@@ -2810,7 +2602,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2808,Street Fighter,11667,PG-13,Action;Adventure;Comedy;Thriller,1994
 2809,Kangaroo Jack,10628,PG,Action;Adventure;Comedy;Family;Crime,2003
 2810,Secret Society of Second Born Royals,621870,PG,Action;Adventure;Comedy;Fantasy,2020
-2811,American Gigolo,2768,R,Crime;Drama;Mystery,1980
 2812,The Legend of Zorro,1656,PG,Action;Adventure;Western,2005
 2813,Home Sweet Home Alone,654974,PG,Comedy;Crime;Family,2021
 2814,The Bank Job,8848,R,Thriller;Crime;Drama,2008
@@ -2819,7 +2610,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2817,Get Smart,11665,PG-13,Action;Comedy;Thriller,2008
 2818,Cutthroat Island,1408,PG-13,Action;Adventure,1995
 2819,Trick 'r Treat,23202,R,Horror;Comedy,2007
-2820,Convoy,9584,PG,Action;Comedy;Drama,1978
 2821,Shanghai Knights,6038,PG-13,Action;Adventure;Comedy;Western,2003
 2822,Lethal Weapon 2,942,R,Action;Adventure;Comedy;Crime;Thriller,1989
 2823,Sahara,7364,PG-13,Action;Adventure;Comedy;Drama;Mystery,2005
@@ -2838,7 +2628,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2836,Sherlock: The Abominable Bride,379170,PG-13,Crime;Drama;Mystery;TV Movie,2016
 2837,I Know What You Did Last Summer,3597,R,Horror;Thriller;Mystery,1997
 2838,Pet Sematary II,10906,R,Horror,1992
-2839,The Gods Must Be Crazy,8393,PG,Action;Comedy,1980
 2840,Brokedown Palace,17707,PG-13,Drama;Thriller;Mystery,1999
 2841,The Lone Ranger,57201,PG-13,Action;Adventure;Western,2013
 2842,The Day the Earth Stood Still,10200,PG-13,Drama;Science Fiction;Thriller,2008
@@ -2852,7 +2641,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2850,Runaway Bride,4806,PG,Comedy;Romance,1999
 2851,Vanilla Sky,1903,R,Science Fiction;Romance;Drama;Fantasy;Thriller;Mystery,2001
 2852,Crimson Tide,8963,R,Thriller;Action;Drama,1995
-2853,The Wicker Man,16307,R,Horror,1973
 2854,Carriers,25769,PG-13,Action;Drama;Horror;Science Fiction;Thriller,2009
 2855,Boston Strangler,881164,R,Crime;Mystery;Thriller,2023
 2856,Hot Tub Time Machine,23048,R,Science Fiction;Comedy;Adventure,2010
@@ -2860,8 +2648,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2858,The Informer,466081,R,Drama;Crime;Thriller,2019
 2859,Lawless,82633,R,Crime;Drama;Western,2012
 2860,The Grudge,1970,PG-13,Horror;Mystery;Thriller,2004
-2861,The Last House on the Left,15516,R,Horror;Thriller,1972
-2862,Dressed to Kill,11033,R,Mystery;Thriller;Horror,1980
 2863,Eddie the Eagle,319888,PG-13,Comedy;Drama;History;Adventure,2016
 2864,Beethoven,11806,PG,Family;Comedy,1992
 2865,Escobar: Paradise Lost,255343,PG-13,Thriller;Romance,2014
@@ -2874,7 +2660,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2872,The Last Castle,2100,R,Action;Drama;Thriller,2001
 2873,Smallfoot,446894,PG,Family;Animation;Adventure;Fantasy,2018
 2874,Night at the Museum: Kahmunrah Rises Again,751741,PG,Animation;Comedy;Family;Fantasy,2022
-2875,King of Kings,36362,PG-13,Drama;History,1961
 2876,American Made,337170,R,Comedy;Crime;Drama,2017
 2877,Partysaurus Rex,130925,G,Family;Animation;Comedy,2012
 2878,The Scorpion King 4: Quest for Power,297291,PG-13,Action;Adventure;Fantasy,2015
@@ -2907,13 +2692,11 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2905,The Kid Who Would Be King,454294,PG,Action;Adventure;Fantasy;Family,2019
 2906,Duck Duck Goose,375107,PG,Animation;Family;Adventure;Comedy,2018
 2907,"To Wong Foo, Thanks for Everything! Julie Newmar",9090,PG-13,Comedy;Drama,1995
-2908,Caddyshack,11977,R,Comedy,1980
 2909,Hell Fest,429476,R,Horror;Thriller,2018
 2910,Mindcage,1043565,R,Mystery;Thriller;Crime,2022
 2911,The House,926899,R,Animation;Drama;Comedy;Horror;Fantasy,2022
 2912,How High,8386,R,Comedy,2001
 2913,The Night Clerk,526007,R,Thriller;Crime;Drama,2020
-2914,The Lord of the Rings,123,PG,Adventure;Animation;Fantasy,1978
 2915,The Green Hornet,40805,PG-13,Action;Crime;Comedy,2011
 2916,I Can Only Imagine,470878,PG,Music;Drama,2018
 2917,Starship Troopers: Invasion,114478,R,Animation;Action;Science Fiction,2012
@@ -2928,7 +2711,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2926,Four Brothers,8292,R,Action;Crime,2005
 2927,The Long Kiss Goodnight,11412,R,Crime;Action;Mystery;Thriller,1996
 2928,South Park: Joining the Panderverse,1190012,R,Animation;Comedy;Science Fiction;TV Movie,2023
-2929,The Natural,11393,PG,Drama,1984
 2930,Miami Vice,82,R,Action;Crime;Thriller,2006
 2931,On the Line,979924,R,Thriller;Drama,2022
 2932,Peppermint,458594,R,Action;Thriller,2018
@@ -2949,9 +2731,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2947,The Wonder,823766,R,Drama;Mystery,2022
 2948,Gettysburg,10655,PG,Drama;History;War,1993
 2949,Shadow in the Cloud,675327,R,Horror;Action;War,2020
-2950,Risky Business,9346,R,Romance;Comedy;Drama;Crime,1983
 2951,Deep Blue Sea,8914,R,Action;Horror;Science Fiction,1999
-2952,Rope,1580,PG,Thriller;Crime;Drama,1948
 2953,Office Invasion,1006851,R,Science Fiction;Comedy,2022
 2954,Parker,119283,R,Action;Crime,2013
 2955,Parker,119283,R,Action;Crime,2013
@@ -2970,7 +2750,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2968,"Roman J. Israel, Esq.",413362,PG-13,Drama;Crime;Thriller,2017
 2969,Courageous,72213,PG-13,Drama,2011
 2970,Once Upon a Snowman,741074,G,Animation;Family;Comedy;Fantasy,2020
-2971,Modern Times,3082,G,Comedy;Drama;Romance,1936
 2972,The Space Between Us,365942,PG-13,Romance;Adventure;Science Fiction;Drama,2017
 2973,Sympathy for the Devil,1030987,R,Action;Thriller,2023
 2974,Starship Troopers 2: Hero of the Federation,10304,R,Adventure;Horror;Action;Science Fiction,2004
@@ -2978,8 +2757,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 2976,Dark Skies,145135,PG-13,Science Fiction;Thriller;Horror,2013
 2977,Toy Story That Time Forgot,256835,G,Animation;Family;Adventure;Comedy,2014
 2978,Dolores Claiborne,11929,R,Crime;Drama;Mystery,1995
-2979,Body Heat,14412,R,Crime;Romance,1981
-2980,The Day the Earth Stood Still,828,G,Science Fiction;Thriller,1951
 2981,The Three Musketeers,10057,PG,Action;Adventure;Comedy,1993
 2982,Universal Soldier: Regeneration,28510,R,Adventure;Action;Science Fiction;Thriller,2009
 2983,A Cinderella Story: Once Upon a Song,74018,PG,Comedy;Family;Romance;Drama,2011
@@ -3016,7 +2793,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3014,Polar,483906,R,Action;Crime;Drama,2019
 3015,Crash,1640,R,Drama,2005
 3016,Kickboxer,10222,R,Action;Thriller;Drama,1989
-3017,The Three Musketeers,2926,PG,Action;Adventure;Comedy,1973
 3018,The Darkest Hour,71469,PG-13,Horror;Action;Thriller;Science Fiction,2011
 3019,The Transformers: The Movie,1857,PG,Animation;Science Fiction;Action;Adventure;Family,1986
 3020,The Many Saints of Newark,524369,R,Crime;Drama,2021
@@ -3041,13 +2817,11 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3039,I Still Believe,585244,PG,Music;Drama;Romance,2020
 3040,Burlesque,42297,PG-13,Drama;Romance,2010
 3041,The Babysitters,13078,R,Drama,2008
-3042,Bachelor Party,12309,R,Comedy,1984
 3043,CHiPS,417644,R,Action;Comedy;Crime,2017
 3044,Ella Enchanted,14442,PG,Family;Fantasy;Comedy,2004
 3045,Sense and Sensibility,4584,PG,Drama;Romance,1995
 3046,Next Friday,10471,R,Comedy,2000
 3047,Joy Ride,10866,R,Mystery;Thriller;Drama,2001
-3048,The Muppet Movie,11176,G,Comedy;Adventure;Music;Family,1979
 3049,Yes Day,638597,PG,Family;Comedy,2021
 3050,The Texas Chainsaw Massacre 2,16337,R,Horror;Comedy,1986
 3051,The Little Mermaid,385448,PG,Family;Adventure;Fantasy;Romance;Drama,2018
@@ -3056,14 +2830,12 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3054,Barnyard,9907,PG,Animation;Comedy;Family,2006
 3055,Monster-in-Law,4379,PG-13,Romance;Comedy,2005
 3056,Scooby-Doo! Shaggy's Showdown,427564,PG,Animation;Family;Mystery;Comedy;Western,2017
-3057,A Bridge Too Far,5902,PG,Drama;History;War,1977
 3058,Phone Booth,1817,R,Thriller;Crime,2003
 3059,The Tuxedo,10771,PG-13,Thriller;Action;Comedy;Science Fiction,2002
 3060,Unlocked,291276,R,Action;Thriller,2017
 3061,On a Wing and a Prayer,878375,PG,Drama,2023
 3062,Demolition,303991,R,Comedy;Drama,2015
 3063,We Bought a Zoo,74465,PG,Drama;Comedy;Family,2011
-3064,All the President's Men,891,PG,Drama;History;Mystery;Thriller,1976
 3065,Dungeons & Dragons,11849,PG-13,Drama;Adventure;Fantasy,2000
 3066,A Turtle's Tale: Sammy's Adventures,49953,G,Animation;Family,2010
 3067,Dungeons & Dragons,11849,PG-13,Drama;Adventure;Fantasy,2000
@@ -3084,17 +2856,14 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3082,Winnie the Pooh,51162,G,Animation;Family;Comedy;Adventure,2011
 3083,Max Payne,13051,PG-13,Crime;Action;Drama;Thriller,2008
 3084,Buffy the Vampire Slayer,10206,PG-13,Action;Comedy;Horror,1992
-3085,Swamp Thing,17918,PG,Horror;Science Fiction,1982
 3086,Dumb and Dumberer: When Harry Met Lloyd,10152,PG-13,Comedy,2003
 3087,The Man Who Knew Infinity,353326,PG-13,Drama;History,2016
-3088,Monty Python and the Holy Grail,762,PG,Adventure;Comedy;Fantasy,1975
 3089,Fatherhood,607259,PG-13,Drama;Comedy,2021
 3090,Johnny Mnemonic,9886,R,Science Fiction;Action;Adventure,1995
 3091,Changeling,3580,R,Crime;Drama;Mystery,2008
 3092,Pieces of a Woman,641662,R,Drama,2020
 3093,Race to Witch Mountain,13836,PG,Adventure;Family;Fantasy;Science Fiction;Thriller;Action,2009
 3094,Stepmom,9441,PG-13,Drama;Romance;Comedy,1998
-3095,The Towering Inferno,5919,PG,Action;Drama;Thriller,1974
 3096,Sister Act,2005,PG,Music;Comedy,1992
 3097,The Green Inferno,171424,R,Horror;Thriller;Adventure,2013
 3098,Escape from Pretoria,502425,PG-13,Drama;History;Thriller,2020
@@ -3106,11 +2875,9 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3104,Kajillionaire,541305,R,Crime;Drama;Comedy,2020
 3105,Neighbors,195589,R,Comedy,2014
 3106,Black Mass,261023,R,Drama;Crime;History,2015
-3107,A Streetcar Named Desire,702,PG,Drama;Thriller,1951
 3108,Old Dads,987917,R,Comedy,2023
 3109,Knocked Up,4964,R,Comedy;Romance;Drama,2007
 3110,Tom and Jerry Cowboy Up!,892153,G,Animation;Comedy;Family;Western,2022
-3111,The Hunger,11654,R,Horror;Drama,1983
 3112,The Simpsons in Plusaversary,877183,G,Animation;Comedy;Fantasy,2021
 3113,The Visit,298312,PG-13,Horror;Mystery;Thriller,2015
 3114,Jungle,390062,R,Adventure;Drama;Thriller,2017
@@ -3144,7 +2911,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3142,Grave Encounters 2,134366,R,Horror,2012
 3143,Chaos,5289,R,Drama;Action;Crime,2005
 3144,Career Opportunities,16270,PG-13,Romance;Comedy,1991
-3145,Rosemary's Baby,805,R,Drama;Horror;Thriller,1968
 3146,Christopher Robin,420814,PG,Adventure;Comedy;Family;Fantasy,2018
 3147,Kiss of the Dragon,2140,R,Action;Crime;Thriller,2001
 3148,The Negotiator,9631,R,Action;Crime;Drama;Thriller,1998
@@ -3163,8 +2929,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3161,We Have a Ghost,852096,PG-13,Comedy;Fantasy;Family;Adventure;Horror,2023
 3162,Austin Powers: International Man of Mystery,816,PG-13,Science Fiction;Comedy;Crime,1997
 3163,The Poughkeepsie Tapes,38410,R,Horror;Mystery;Crime;Thriller,2007
-3164,Midnight Cowboy,3116,R,Drama,1969
-3165,Midnight Cowboy,3116,R,Drama,1969
 3166,Crisis,580532,R,Thriller;Crime;Drama,2021
 3167,Cop Out,23742,R,Action;Comedy;Crime,2010
 3168,"The Simpsons: The Good, the Bart, and the Loki",846214,PG,Animation;Comedy;Family,2021
@@ -3198,7 +2962,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3196,Aquamarine,14191,PG,Fantasy;Romance;Family;Comedy,2006
 3197,Mafia Mamma,809787,R,Comedy;Crime;Action,2023
 3198,Kiss the Girls,9437,R,Thriller;Crime;Mystery;Drama,1997
-3199,Dog Day Afternoon,968,R,Crime;Drama;Thriller,1975
 3200,The Fourth Kind,22824,PG-13,Mystery;Science Fiction;Thriller,2009
 3201,It Comes at Night,418078,R,Drama;Horror;Mystery,2017
 3202,Step Up Revolution,85446,PG-13,Music;Drama;Romance,2012
@@ -3206,17 +2969,13 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3204,The Life of David Gale,11615,R,Drama;Thriller;Crime,2003
 3205,Machete,23631,R,Action;Comedy;Thriller,2010
 3206,Luther: The Fallen Sun,722149,R,Crime;Mystery;Thriller,2023
-3207,Cross of Iron,10839,R,Drama;Action;History;War,1977
 3208,The Perfect Storm,2133,PG-13,Action;Adventure;Drama;Thriller,2000
 3209,Police Academy 4: Citizens on Patrol,10587,PG,Comedy;Crime,1987
 3210,Big Game,230179,PG-13,Action;Adventure;Thriller,2015
-3211,Doctor Dolittle,16081,G,Music;Family;Comedy;Fantasy,1967
 3212,Reptile,866463,R,Crime,2023
-3213,High Plains Drifter,11901,R,Western;Drama;Mystery,1973
 3214,The Hurt Locker,12162,R,Drama;Thriller;War,2008
 3215,What Happens in Vegas,9029,PG-13,Comedy;Romance,2008
 3216,Mike and Dave Need Wedding Dates,316023,R,Comedy,2016
-3217,Flashdance,535,R,Drama;Romance,1983
 3218,Passenger 57,10538,R,Action;Adventure;Thriller,1992
 3219,Tremors: A Cold Day in Hell,496704,PG-13,Action;Adventure;Science Fiction,2018
 3220,Mirror Mirror,62764,PG,Adventure;Comedy;Family;Fantasy,2012
@@ -3230,7 +2989,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3228,From Hell,768,R,Horror;Mystery;Thriller,2001
 3229,Skyline,42684,PG-13,Science Fiction;Adventure;Action;Thriller,2010
 3230,The Frighteners,10779,R,Horror;Comedy,1996
-3231,Straw Dogs,994,R,Drama;Thriller,1971
 3232,Megamind: The Button of Doom,57718,PG,Animation;Action;Comedy;Family,2011
 3233,Teen Wolf Too,15582,PG,Comedy;Fantasy;Family,1987
 3234,Small Soldiers,11551,PG-13,Comedy;Adventure;Fantasy;Science Fiction;Action,1998
@@ -3244,7 +3002,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3242,Daylight,11228,PG-13,Action;Adventure;Thriller,1996
 3243,Detective Knight: Independence,1035806,R,Action;Crime;Thriller,2023
 3244,P.S. I Love You,6023,PG-13,Drama;Romance,2007
-3245,Fire and Ice,15035,PG,Animation;Fantasy;Science Fiction,1983
 3246,Entrapment,1844,PG-13,Romance;Drama;Mystery,1999
 3247,As Good as It Gets,2898,PG-13,Drama;Comedy;Romance,1997
 3248,47 Meters Down,403119,PG-13,Thriller;Adventure;Horror,2017
@@ -3280,19 +3037,15 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3278,The Week Of,465109,PG-13,Comedy,2018
 3279,Spell,621151,R,Thriller;Horror;Fantasy,2020
 3280,Just Friends,10033,PG-13,Comedy;Romance,2005
-3281,Rebel Without a Cause,221,PG-13,Drama,1955
 3282,Kung Fu Panda Holiday,50393,G,Animation;Family;TV Movie;Comedy;Fantasy,2010
 3283,Forgetting Sarah Marshall,9870,R,Comedy;Romance;Drama,2008
 3284,The King's Daughter,245842,PG,Fantasy;Adventure;Family,2022
-3285,Conquest of the Planet of the Apes,1688,PG,Action;Science Fiction,1972
 3286,After Porn Ends,109520,R,Documentary,2012
 3287,She's Out of My League,34016,R,Romance;Comedy,2010
-3288,Barry Lyndon,3175,PG,Drama;Romance;War,1975
 3289,The Adjustment Bureau,38050,PG-13,Science Fiction;Thriller;Romance,2011
 3290,Miller's Crossing,379,R,Drama;Thriller;Crime,1990
 3291,Skiptrace,270774,PG-13,Action;Comedy;Thriller;Mystery,2016
 3292,Basic Instinct 2,3093,R,Crime;Mystery;Thriller,2006
-3293,Bonnie and Clyde,475,R,Crime;Drama,1967
 3294,S.W.A.T.: Under Siege,461053,R,Action;Crime;Thriller,2017
 3295,The Requin,803114,R,Horror;Mystery;Thriller,2022
 3296,Titan A.E.,7450,PG,Animation;Action;Science Fiction;Family;Adventure,2000
@@ -3315,23 +3068,18 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3313,The Last Stand,76640,R,Action;Crime;Thriller,2013
 3314,Tucker: The Man and His Dream,28176,PG,Drama,1988
 3315,Look Who's Talking Too,9356,PG-13,Romance;Comedy,1990
-3316,Three Days of the Condor,11963,R,Thriller;Mystery,1975
-3317,King Kong,10730,PG,Adventure;Fantasy,1976
 3318,The Witches of Eastwick,6069,R,Comedy;Fantasy,1987
 3319,Cyborg,10134,R,Science Fiction;Action;Thriller;Adventure,1989
 3320,Hellraiser III: Hell on Earth,11569,R,Horror;Thriller,1992
 3321,Johnny English Strikes Again,463272,PG,Action;Adventure;Comedy,2018
 3322,Problem Child,11077,PG,Comedy;Family,1990
-3323,The King of Comedy,262,PG,Drama;Comedy,1982
 3324,The Starling Girl,1001500,R,Drama,2023
 3325,The Protégé,645788,R,Action;Thriller,2021
 3326,The Secret Garden,11236,G,Drama;Family;Fantasy,1993
 3327,Mute,401371,R,Science Fiction;Mystery;Thriller,2018
 3328,Pale Rider,8879,R,Western;Drama,1985
-3329,Young Frankenstein,3034,PG,Comedy,1974
 3330,Johnny English,9486,PG,Adventure;Action;Comedy,2003
 3331,Playing It Cool,277547,R,Comedy;Romance,2014
-3332,Jesus Christ Superstar,12545,G,Music;Drama,1973
 3333,Project Power,605116,R,Action;Crime;Science Fiction,2020
 3334,My Spy,592834,PG-13,Family;Action;Comedy,2020
 3335,Sniper: Rogue Mission,997120,R,Action;Thriller;Mystery,2022
@@ -3344,19 +3092,15 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3342,Bride Wars,10521,PG,Comedy;Romance,2009
 3343,Z-O-M-B-I-E-S 2,599521,G,Fantasy;Romance;TV Movie,2020
 3344,The 15:17 to Paris,453201,PG-13,Drama;Thriller,2018
-3345,The War of the Worlds,8974,G,Science Fiction;Action,1953
 3346,The Karate Kid Part III,10495,PG,Action;Family;Drama;Adventure,1989
 3347,Pumpkinhead,26515,R,Fantasy;Horror,1988
-3348,Where Eagles Dare,11046,PG,Action;Adventure;War,1968
 3349,Sound of Metal,502033,R,Drama;Music,2020
 3350,Showdown in Little Tokyo,13154,R,Action;Comedy;Crime,1991
 3351,From Dusk Till Dawn 2: Texas Blood Money,12095,R,Crime;Action;Horror;Thriller,1999
 3352,Species: The Awakening,15212,R,Horror;Science Fiction;Thriller,2007
-3353,The Changeling,13550,R,Horror,1980
 3354,Enemy,181886,R,Thriller;Mystery,2014
 3355,The Marsh King's Daughter,798362,R,Thriller;Crime;Drama;Mystery,2023
 3356,The Last Exorcism,38358,PG-13,Horror;Thriller;Mystery,2010
-3357,City Lights,901,G,Comedy;Romance;Drama,1931
 3358,Letters from Iwo Jima,1251,R,Action;Drama;War,2006
 3359,The Prince,241254,R,Thriller;Action,2014
 3360,Miss Congeniality 2: Armed and Fabulous,10040,PG-13,Action;Comedy,2005
@@ -3382,12 +3126,10 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3380,The Physician,169881,R,Adventure;Drama;History,2013
 3381,End of Days,9946,R,Action;Horror;Fantasy,1999
 3382,Priest,38321,PG-13,Action;Fantasy;Horror;Thriller,2011
-3383,Cannonball Run II,11950,PG,Action;Comedy,1984
 3384,The Babysitter: Killer Queen,623491,R,Comedy;Horror,2020
 3385,Free Fire,334521,R,Action;Crime;Mystery,2017
 3386,The Secret of Moonacre,18032,PG,Adventure;Fantasy;Romance,2009
 3387,Gunpowder Milkshake,574060,R,Action;Crime;Thriller,2021
-3388,Splash,2619,PG,Comedy;Romance;Fantasy,1984
 3389,The Replacements,10393,PG-13,Comedy,2000
 3390,Countdown,599975,PG-13,Horror;Thriller,2019
 3391,Yu-Gi-Oh! The Movie,11052,PG,Animation;Fantasy;Action;Science Fiction,2004
@@ -3405,14 +3147,12 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3403,Cinderella Man,921,PG-13,Romance;Drama;History,2005
 3404,Shaun the Sheep Movie,263109,PG,Family;Animation;Comedy;Adventure,2015
 3405,Beastly,38117,PG-13,Drama;Fantasy;Romance,2011
-3406,Easy Rider,624,R,Adventure;Drama,1969
 3407,The English Patient,409,R,Drama;Romance;War,1996
 3408,Maid in Manhattan,7303,PG-13,Comedy;Drama;Romance,2002
 3409,Stuber,513045,R,Action;Comedy,2019
 3410,Stitch! The Movie,15567,G,Comedy;Adventure;Family;Animation,2003
 3411,Autómata,262543,R,Thriller;Science Fiction,2014
 3412,Meet Dave,11260,PG,Comedy;Science Fiction;Adventure;Family,2008
-3413,The Entity,24740,R,Horror;Mystery;Thriller,1982
 3414,The Unforgivable,645886,R,Drama;Crime,2021
 3415,On Deadly Ground,9624,R,Action,1994
 3416,Snatched,373569,R,Action;Comedy,2017
@@ -3422,11 +3162,9 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3420,The Last Boy Scout,9319,R,Action;Thriller,1991
 3421,Hellbound: Hellraiser II,9064,R,Horror;Thriller;Fantasy,1988
 3422,Legend of the BoneKnapper Dragon,47626,PG,Animation;Fantasy;Family;Adventure;Comedy;TV Movie,2010
-3423,Piranha,24831,R,Horror;Comedy;Science Fiction,1978
 3424,Entourage,188222,R,Comedy;Drama,2015
 3425,Sniper: Reloaded,58767,R,War;Action;Thriller;Drama,2011
 3426,Close,460321,R,Action;Adventure;Thriller,2019
-3427,The Missouri Breaks,42252,PG,Western,1976
 3428,Lovelace,77805,R,Drama,2013
 3429,eXistenZ,1946,R,Action;Thriller;Science Fiction,1999
 3430,Wild Wild West,8487,PG-13,Action;Adventure;Comedy;Science Fiction;Western,1999
@@ -3437,17 +3175,11 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3435,Dual,698128,R,Science Fiction;Comedy;Drama,2022
 3436,Picture Perfect,9413,PG-13,Romance;Comedy;Drama,1997
 3437,Batman: Under the Red Hood,40662,PG-13,Science Fiction;Crime;Action;Animation;Mystery,2010
-3438,Pink Floyd: The Wall,12104,R,Music;Drama,1982
 3439,Love Again,758336,PG-13,Romance;Drama;Comedy,2023
-3440,The French Connection,1051,R,Action;Crime;Thriller,1971
-3441,Psycho II,10576,R,Horror;Mystery;Thriller,1983
-3442,Star Trek II: The Wrath of Khan,154,PG,Action;Adventure;Science Fiction;Thriller,1982
-3443,The Mechanic,19403,PG,Action;Thriller,1972
 3444,The Next Karate Kid,11231,PG,Action;Drama;Family;Adventure,1994
 3445,Land of the Lost,18162,PG-13,Adventure;Comedy;Science Fiction,2009
 3446,A Nightmare on Elm Street 4: The Dream Master,10131,R,Horror;Thriller,1988
 3447,Practical Magic,6435,PG-13,Romance;Comedy;Fantasy,1998
-3448,Bullitt,916,PG,Action;Crime;Thriller;Romance;Drama,1968
 3449,Dragonheart: Vengeance,666750,PG-13,Fantasy;Action;Adventure,2020
 3450,Bad Moms,376659,R,Comedy,2016
 3451,Deep Blue Sea 3,703745,R,Action;Horror;Science Fiction,2020
@@ -3503,9 +3235,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3501,Pirates of the Caribbean: Tales of the Code: Wedlocked,230652,PG-13,Adventure;Action;Fantasy,2011
 3502,100% Wolf,520946,PG,Animation;Family;Fantasy,2020
 3503,Bullet to the Head,70074,R,Action;Crime;Thriller,2012
-3504,The Longest Day,9289,PG,War;Action;Drama,1962
 3505,Bullet to the Head,70074,R,Action;Crime;Thriller,2012
-3506,The Longest Day,9289,PG,War;Action;Drama,1962
 3507,The Beach,1907,R,Drama;Adventure;Romance;Thriller,2000
 3508,Shut In,629015,R,Thriller;Horror;Drama,2022
 3509,Lost in Space,2157,PG-13,Science Fiction;Adventure,1998
@@ -3548,8 +3278,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3546,London Fields,220882,R,Crime;Thriller,2018
 3547,Wildling,362826,R,Horror;Fantasy;Thriller;Drama,2018
 3548,Moana,277834,PG,Adventure;Comedy;Family;Animation,2016
-3549,Forbidden Planet,830,G,Science Fiction;Adventure;Fantasy;Romance,1956
-3550,Dial M for Murder,521,PG,Thriller;Crime,1954
 3551,Lost Highway,638,R,Drama;Thriller;Mystery,1997
 3552,T2 Trainspotting,180863,R,Drama;Comedy,2017
 3553,Raising Arizona,378,PG-13,Comedy;Crime,1987
@@ -3578,8 +3306,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3576,Dark Crimes,340674,R,Drama;Thriller,2016
 3577,Chef,212778,R,Comedy,2014
 3578,D.E.B.S.,540,PG-13,Action;Comedy;Romance,2005
-3579,Cool Hand Luke,903,PG,Action;Drama;Crime,1967
-3580,Smokey and the Bandit,11006,PG,Action;Adventure;Comedy,1977
 3581,The Assassination of Jesse James by the Coward Robert Ford,4512,R,Action;Drama;Western,2007
 3582,The Tragedy of Macbeth,591538,R,Drama;War,2021
 3583,Scooby-Doo! in Where's My Mummy?,20558,G,Mystery;Animation;Family;Adventure;Comedy;Fantasy,2005
@@ -3599,12 +3325,10 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3597,They Cloned Tyrone,736769,R,Comedy;Science Fiction;Mystery,2023
 3598,A Million Miles Away,1002185,PG,Drama;History,2023
 3599,Daybreakers,19901,R,Action;Fantasy;Science Fiction,2010
-3600,2010,4437,PG,Thriller;Science Fiction,1984
 3601,The In Between,818750,PG-13,Romance;Science Fiction;Drama,2022
 3602,Killers,37821,PG-13,Action;Comedy;Thriller;Romance,2010
 3603,The In Between,818750,PG-13,Romance;Science Fiction;Drama,2022
 3604,Killers,37821,PG-13,Action;Comedy;Thriller;Romance,2010
-3605,Doctor Zhivago,907,PG-13,Drama;Romance;War,1965
 3606,Greta,471506,R,Mystery;Thriller,2019
 3607,Flubber,9574,PG,Comedy;Family;Science Fiction,1997
 3608,Gulliver's Travels,38745,PG,Family;Comedy;Adventure;Fantasy,2010
@@ -3618,8 +3342,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3616,The Caine Mutiny Court-Martial,1018332,PG-13,Drama;War,2023
 3617,Supercell,842945,PG-13,Action;Drama,2023
 3618,Wish Upon,440597,PG-13,Horror;Thriller;Fantasy,2017
-3619,Soylent Green,12101,PG,Science Fiction;Thriller,1973
-3620,"It's a Mad, Mad, Mad, Mad World",11576,G,Action;Adventure;Comedy,1963
 3621,The Last Song,35690,PG,Drama;Family;Romance,2010
 3622,Metal Lords,739993,R,Comedy;Drama;Music,2022
 3623,Tekken,42194,R,Crime;Drama;Action;Thriller;Science Fiction,2010
@@ -3627,7 +3349,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3625,The Covenant,9954,PG-13,Fantasy;Horror;Adventure;Action,2006
 3626,Killer Elite,49021,R,Action;Adventure;Thriller,2011
 3627,The Blob,9599,R,Horror;Science Fiction,1988
-3628,Operation Petticoat,9660,PG,Comedy;War;Romance,1959
 3629,Zoolander,9398,PG-13,Comedy,2001
 3630,Bill & Ted's Excellent Adventure,1648,PG,Adventure;Comedy;Science Fiction,1989
 3631,Broken City,98357,R,Thriller;Crime;Drama,2013
@@ -3635,7 +3356,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3633,Groot's First Steps,1010818,PG,Animation;Family;Comedy;Science Fiction,2022
 3634,Sideways,9675,R,Comedy;Drama;Romance,2004
 3635,A Night at the Roxbury,9429,PG-13,Comedy;Romance;Music,1998
-3636,Twilight Zone: The Movie,15301,PG,Horror;Fantasy;Science Fiction,1983
 3637,Blast from the Past,11622,PG-13,Drama;Romance;Comedy,1999
 3638,¡Three Amigos!,8388,PG,Comedy;Western;Drama,1986
 3639,Ice Age: The Great Egg-Scapade,387893,PG,Adventure;Animation;Comedy;Family;TV Movie,2016
@@ -3652,7 +3372,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3650,Prince of Darkness,8852,R,Horror,1987
 3651,Force of Nature,619592,R,Action;Adventure;Crime;Thriller,2020
 3652,Death Wish 3,24873,R,Action;Crime;Drama,1985
-3653,The Love Bug,14136,G,Comedy;Family;Fantasy,1968
 3654,Housesitter,10407,PG,Comedy;Romance,1992
 3655,London,7515,R,Drama;Romance,2005
 3656,The Sessions,113947,R,Drama;Romance;Comedy,2012
@@ -3660,7 +3379,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3658,The Color Purple,873,PG-13,Drama;History,1985
 3659,The Woman in the Window,520663,R,Crime;Mystery;Thriller,2021
 3660,Crooked House,419835,PG-13,Mystery;Crime;Thriller,2017
-3661,Bananas,11302,PG-13,Comedy,1971
 3662,The Princess Switch: Switched Again,643882,G,Family;Romance;Comedy,2020
 3663,It Takes Two,33689,PG,Comedy;Family;Romance,1995
 3664,Reign of the Supermen,487672,PG-13,Science Fiction;Animation;Action,2019
@@ -3689,7 +3407,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3687,Marauders,359412,R,Action;Crime;Thriller,2016
 3688,Beverly Hills Chihuahua 2,54540,G,Comedy;Family,2011
 3689,2 Hearts,710356,PG-13,Romance;Drama,2020
-3690,The Elephant Man,1955,PG,Drama;History,1980
 3691,The Fan,9566,R,Thriller;Action;Drama,1996
 3692,Jarhead 3: The Siege,378385,R,War;Action;Drama,2016
 3693,High Life,376865,R,Science Fiction;Drama;Mystery,2018
@@ -3701,7 +3418,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3699,Overdrive,404733,PG-13,Thriller;Action;Mystery,2017
 3700,Porno,576004,R,Comedy;Horror,2019
 3701,Whip It,22798,PG-13,Drama,2009
-3702,My Fair Lady,11113,G,Music;Comedy;Romance;Drama,1964
 3703,Billy Elliot,71,PG-13,Drama;Comedy;Music,2000
 3704,Reminiscence,579047,PG-13,Mystery;Science Fiction,2021
 3705,The Delta Force,16113,R,Action;Thriller;Adventure;War,1986
@@ -3710,13 +3426,10 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3708,30 Days of Night: Dark Days,42941,R,Horror;Thriller,2010
 3709,Holes,8326,PG,Adventure;Family;Drama;Comedy,2003
 3710,Vice,429197,R,Comedy;Drama,2018
-3711,Arthur,13665,PG,Comedy;Drama;Romance,1981
 3712,Enemy Mine,11864,PG-13,Drama;Science Fiction,1985
 3713,Barbie in A Mermaid Tale 2,91342,G,Animation;Family,2012
 3714,It Could Happen to You,10660,PG,Comedy;Drama;Romance,1994
-3715,Dark Star,1410,G,Comedy;Science Fiction,1974
 3716,Driven,10477,PG-13,Action;Drama,2001
-3717,Torn Curtain,5780,PG,Thriller,1966
 3718,The Campaign,77953,R,Comedy,2012
 3719,Closer,2288,R,Drama;Romance,2004
 3720,Blair Witch,351211,R,Thriller;Horror,2016
@@ -3737,20 +3450,16 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3735,A.I. Rising,505914,R,Science Fiction;Drama;Romance,2018
 3736,Tremors 3: Back to Perfection,10829,PG,Action;Comedy;Horror;Science Fiction;Thriller,2001
 3737,Primer,14337,PG-13,Science Fiction;Drama;Thriller,2004
-3738,Midway,11422,PG,Action;Drama;History;War,1976
 3739,Mortdecai,210860,R,Comedy;Adventure,2015
 3740,My Super Ex-Girlfriend,4474,PG-13,Comedy;Science Fiction;Romance,2006
 3741,The Fog,791,PG-13,Horror;Thriller;Drama;Mystery,2005
 3742,Hands of Stone,184341,R,Drama,2016
-3743,Bedknobs and Broomsticks,12335,G,Adventure;Fantasy;Comedy;Family;Music;Animation,1971
 3744,FernGully: The Last Rainforest,13225,G,Family;Fantasy;Animation;Adventure,1992
-3745,Walkabout,36040,PG,Adventure;Drama,1971
 3746,22 vs. Earth,811367,G,Family;Comedy;Fantasy;Animation,2021
 3747,Batman vs Teenage Mutant Ninja Turtles,581997,PG-13,Animation;Action;Science Fiction;Crime,2019
 3748,Cats & Dogs,10992,PG,Family;Comedy,2001
 3749,Upside Down,58244,PG-13,Romance;Science Fiction;Drama;Fantasy,2012
 3750,The Land Before Time X: The Great Longneck Migration,24554,G,Animation;Adventure;Family,2003
-3751,Grease 2,9037,PG,Comedy;Music;Romance,1982
 3752,This Means War,59962,PG-13,Action;Comedy;Romance,2012
 3753,The Old Way,872954,R,Western;Drama,2023
 3754,Mannequin Two: On the Move,34376,PG,Fantasy;Comedy;Science Fiction;Romance,1991
@@ -3763,20 +3472,15 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3761,Flowers in the Attic,15658,R,Drama;Mystery;Thriller;Horror,1987
 3762,USS Indianapolis: Men of Courage,340945,R,Action;War,2016
 3763,Spanglish,2539,PG-13,Comedy,2004
-3764,The Poseidon Adventure,551,PG,Adventure;Drama;Thriller,1972
 3765,Batman and Harley Quinn,408648,PG-13,Adventure;Action;Animation;Science Fiction;Comedy,2017
-3766,Children of the Corn,10823,R,Horror;Thriller,1984
 3767,Cradle 2 the Grave,10623,R,Action;Crime;Drama,2003
 3768,The Great Outdoors,2617,PG,Comedy,1988
-3769,The Day of the Jackal,4909,PG,Action;Thriller,1973
 3770,Soul Surfer,43959,PG,Family;Drama,2011
 3771,99 Homes,283235,R,Drama,2015
 3772,Star Trek: Insurrection,200,PG,Science Fiction;Action;Adventure;Thriller,1998
 3773,99 Homes,283235,R,Drama,2015
 3774,Star Trek: Insurrection,200,PG,Science Fiction;Action;Adventure;Thriller,1998
-3775,Streets of Fire,14746,PG,Action,1984
 3776,Mallrats,2293,R,Romance;Comedy,1995
-3777,Blue Thunder,6341,R,Drama;Action;Thriller,1983
 3778,Z-O-M-B-I-E-S 3,809107,G,Music;Fantasy;Comedy;Science Fiction;Family;TV Movie,2022
 3779,Abduction,59965,PG-13,Thriller;Action;Mystery,2011
 3780,Date Night,35056,PG-13,Comedy;Action;Adventure,2010
@@ -3784,7 +3488,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3782,Dallas Buyers Club,152532,R,Drama;History,2013
 3783,Infinite Storm,811631,R,Thriller;Adventure;Drama;Mystery,2022
 3784,Patriot Games,9869,R,Drama;Action;Thriller;Crime,1992
-3785,Mickey's Christmas Carol,14813,G,Family;Animation,1983
 3786,Champions,933419,PG-13,Comedy;Drama,2023
 3787,Empire State,169209,R,Action;Drama,2013
 3788,Moonwalker,13192,PG,Fantasy;Music,1988
@@ -3849,7 +3552,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3847,Shame,76025,NC-17,Drama,2011
 3848,The Three Stooges,76489,PG,Comedy,2012
 3849,"Yes, God, Yes",527660,R,Drama;Comedy,2020
-3850,The Italian Job,10536,G,Action;Crime;Comedy;Thriller,1969
 3851,K-PAX,167,PG-13,Science Fiction;Drama;Mystery,2001
 3852,I Am Wrath,332411,R,Action;Crime;Drama;Thriller,2016
 3853,Two Weeks Notice,2642,PG-13,Comedy;Romance,2002
@@ -3868,7 +3570,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3866,The Sandlot,11528,PG,Family;Comedy,1993
 3867,Sherlock Gnomes,370567,PG,Animation;Family;Fantasy;Comedy;Adventure;Mystery,2018
 3868,Rounders,10220,R,Drama;Crime,1998
-3869,Firefox,10724,PG,Science Fiction;Action;Adventure;Thriller,1982
 3870,Flawless,13195,PG-13,Crime;Drama;Thriller,2007
 3871,Deception,13018,R,Thriller;Mystery,2008
 3872,Cursed,10012,PG-13,Horror;Comedy,2005
@@ -3877,10 +3578,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3875,Cocktail,7520,R,Romance;Drama;Comedy,1988
 3876,Driving Miss Daisy,403,PG,Drama,1989
 3877,Selena Gomez: My Mind & Me,1022256,R,Documentary;Music,2022
-3878,Midnight Express,11327,R,Drama;Crime,1978
 3879,Aliens in the Attic,20856,PG,Adventure;Comedy;Family;Fantasy;Science Fiction,2009
 3880,Selena Gomez: My Mind & Me,1022256,R,Documentary;Music,2022
-3881,Midnight Express,11327,R,Drama;Crime,1978
 3882,Aliens in the Attic,20856,PG,Adventure;Comedy;Family;Fantasy;Science Fiction,2009
 3883,Gladiator,16219,R,Action;Drama,1992
 3884,Batman: The Doom That Came to Gotham,1003579,PG-13,Animation;Fantasy;Action;Mystery,2023
@@ -3888,10 +3587,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3886,Killer Klowns from Outer Space,16296,PG-13,Comedy;Horror;Science Fiction,1988
 3887,Get Shorty,8012,R,Comedy;Thriller;Crime,1995
 3888,Master and Commander: The Far Side of the World,8619,PG-13,Adventure;Drama;War,2003
-3889,Batman,2661,PG,Action;Comedy;Crime,1966
 3890,Spontaneous,604578,R,Comedy;Horror,2020
 3891,Muppets Haunted Mansion,826914,PG,Comedy;Family;TV Movie,2021
-3892,The Wild Bunch,576,R,Western,1969
 3893,The Intruder,524247,PG-13,Thriller,2019
 3894,Mother/Android,739413,R,Science Fiction;Thriller,2021
 3895,Boy Erased,472451,R,Drama,2018
@@ -3924,8 +3621,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3922,Come Away,527400,PG,Fantasy;Adventure,2020
 3923,Reign of Fire,6278,PG-13,Adventure;Action;Fantasy,2002
 3924,The River Wild,8987,PG-13,Adventure;Thriller;Drama,1994
-3925,Der heiße Tod,28277,R,Thriller;Drama;Horror,1969
-3926,The Last Unicorn,10150,G,Fantasy;Animation;Family;Adventure,1982
 3927,Baghead,5759,R,Comedy;Drama;Horror,2008
 3928,"Honey, We Shrunk Ourselves",11425,PG,Adventure;Comedy;Family;Science Fiction,1997
 3929,Lady Chatterley's Lover,814338,R,Drama;Romance,2022
@@ -3937,7 +3632,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3935,21 Grams,470,R,Drama;Crime;Thriller,2003
 3936,The Kid,4244,PG,Fantasy;Comedy;Family,2000
 3937,The Horse Whisperer,547,PG-13,Adventure;Drama;Romance,1998
-3938,Every Which Way but Loose,15417,PG,Action;Comedy;Adventure;Romance;Drama,1978
 3939,Everyone Says I Love You,9716,R,Comedy;Romance,1996
 3940,Ice Age: A Mammoth Christmas,79218,PG,Animation;Family;TV Movie,2011
 3941,Before We Go,283350,PG-13,Comedy;Drama;Romance,2014
@@ -3976,7 +3670,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3974,Little Women,9587,PG,Drama;Romance,1994
 3975,Free Willy 3: The Rescue,18519,PG,Family;Adventure,1997
 3976,Love the Coopers,333348,PG-13,Drama;Comedy;Family,2015
-3977,Sorcerer,38985,PG,Thriller;Adventure;Action;Drama,1977
 3978,Double Team,9405,R,Action;Science Fiction,1997
 3979,Mighty Aphrodite,11448,R,Comedy;Romance,1995
 3980,No Escape,10447,R,Action;Drama;Science Fiction;Thriller,1994
@@ -3998,11 +3691,9 @@ Unnamed: 0,Title,id,rating,genres,Release year
 3996,Quest for Camelot,18937,G,Fantasy;Animation;Drama;Romance;Family,1998
 3997,Major Payne,11008,PG-13,Adventure;Comedy;Family,1995
 3998,Wicked Minds,153104,PG-13,Mystery;Drama;Romance;Thriller,2003
-3999,In the Heat of the Night,10633,PG-13,Crime;Drama;Mystery;Thriller,1967
 4000,Lou,429473,R,Action;Thriller,2022
 4001,Crimes of the Future,819876,R,Drama;Science Fiction;Horror,2022
 4002,The Crazies,29427,R,Mystery;Horror;Action,2010
-4003,Shaft,482,R,Action;Crime;Thriller,1971
 4004,The Last Exorcism Part II,146203,PG-13,Horror;Thriller,2013
 4005,The Doors,10537,R,Music;Drama;History,1991
 4006,The Florida Project,394117,R,Drama,2017
@@ -4011,7 +3702,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4009,Sky Captain and the World of Tomorrow,5137,PG,Mystery;Action;Thriller;Science Fiction;Adventure,2004
 4010,White Fang,12227,PG,Action;Adventure;Drama;Family,1991
 4011,Trauma Center,641790,R,Action;Thriller,2019
-4012,Purple Rain,13763,R,Drama;Music;Romance,1984
 4013,Queen of the Damned,11979,R,Fantasy;Horror;Romance,2002
 4014,Tinker Tailor Soldier Spy,49517,R,Drama;Thriller;Mystery,2011
 4015,Tremors 4: The Legend Begins,10891,PG-13,Action;Comedy;Horror;Western,2004
@@ -4023,26 +3713,21 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4021,Black Snake Moan,7874,R,Drama,2006
 4022,Curious George 2: Follow That Monkey!,23903,G,Animation;Family,2009
 4023,The Soccer Football Movie,1037858,PG,Animation;Comedy;Family,2022
-4024,Kelly's Heroes,11589,PG,Adventure;Comedy;War,1970
 4025,Hide and Seek,11096,R,Horror;Mystery,2005
 4026,Unsane,467660,R,Horror;Thriller,2018
 4027,Burnt,295964,R,Drama,2015
-4028,Marnie,506,PG,Thriller;Mystery;Romance;Drama,1964
 4029,Van Wilder: Freshman Year,19824,R,Comedy;Romance,2009
 4030,The Nativity Story,2447,PG,Drama,2006
 4031,Three Kings,6415,R,Action;Comedy;War,1999
 4032,Exposed,331962,R,Drama;Crime;Thriller;Mystery,2016
-4033,Serpico,9040,R,Crime;Drama,1973
 4034,"tick, tick... BOOM!",537116,PG-13,Drama;Music,2021
 4035,Barbie in 'A Christmas Carol',13459,G,Animation;Family,2008
 4036,Megalodon,523931,PG-13,Action;Science Fiction;Horror;TV Movie,2018
 4037,*batteries not included,11548,PG,Family;Comedy;Fantasy;Science Fiction,1987
-4038,The Cannonball Run,11286,PG,Action;Comedy;Family,1981
 4039,The Seventh Sign,11082,R,Horror;Drama;Thriller,1988
 4040,Transformers: Revenge of the Fallen,8373,PG-13,Science Fiction;Action;Adventure,2009
 4041,18 Year Old Virgin,14912,R,Comedy,2009
 4042,Quasi,893752,R,Comedy;Drama,2023
-4043,Black Christmas,16938,R,Horror;Mystery;Thriller,1974
 4044,Secondhand Lions,13156,PG,Family;Comedy,2003
 4045,Mystic Pizza,11191,R,Comedy;Drama;Romance,1988
 4046,Batman: The Killing Joke,382322,R,Action;Animation;Crime;Drama,2016
@@ -4053,7 +3738,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4051,Masters of the Universe,11649,PG,Action;Fantasy;Science Fiction;Adventure;Thriller,1987
 4052,The Santa Clause,11395,PG,Fantasy;Drama;Comedy;Family,1994
 4053,Barbie Presents: Thumbelina,16418,G,Animation;Family,2009
-4054,Miracle on 34th Street,11881,G,Comedy;Drama;Family,1947
 4055,Patch Adams,10312,PG-13,Comedy;Drama,1998
 4056,Backdraft,2924,R,Drama;Thriller;Action;Crime,1991
 4057,Red Lights,75638,R,Thriller,2012
@@ -4070,10 +3754,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4068,Barbie: The Princess & The Popstar,129533,G,Family;Animation,2012
 4069,Gothika,4970,R,Horror;Thriller;Mystery,2003
 4070,Strange Days,281,R,Crime;Drama;Science Fiction;Thriller,1995
-4071,The Woman in Red,5968,PG-13,Comedy;Romance,1984
 4072,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,496,R,Comedy,2006
 4073,Nine Lives,322240,PG,Fantasy;Comedy;Family,2016
-4074,Sheena,24264,PG,Action;Adventure;Fantasy,1984
 4075,Tom and Jerry: The Movie,22582,G,Animation;Comedy;Family;Music,1992
 4076,The Young and Prodigious T.S. Spivet,157841,PG,Adventure;Drama;Family,2013
 4077,Bad Lieutenant: Port of Call - New Orleans,11699,R,Drama;Crime,2009
@@ -4092,9 +3774,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4090,Frailty,12149,R,Drama;Thriller;Crime,2002
 4091,Paulie,36568,PG,Comedy;Family,1998
 4092,Polaroid,431075,PG-13,Horror;Thriller;Mystery,2019
-4093,The Professionals,22383,PG-13,Western;Adventure;Action,1966
 4094,Patient Zero,295011,R,Horror;Thriller;Action;Drama,2018
-4095,Network,10774,R,Drama,1976
 4096,After Hours,10843,R,Comedy;Thriller;Drama,1985
 4097,Bill & Ted's Bogus Journey,1649,PG,Adventure;Comedy;Science Fiction,1991
 4098,The Land Before Time XIV: Journey of the Brave,339526,G,Animation;Adventure;Family,2016
@@ -4122,7 +3802,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4120,Tall Girl,625450,PG,Comedy;Drama;Romance,2019
 4121,Gambit,97434,PG-13,Comedy;Crime,2012
 4122,Moneyball,60308,PG-13,Drama,2011
-4123,The Lorax,38060,PG,Animation;Family;TV Movie,1972
 4124,Bird on a Wire,1727,PG-13,Action;Adventure;Comedy;Romance,1990
 4125,Miracle on 34th Street,10510,PG,Fantasy;Drama;Family,1994
 4126,The Wicker Man,9708,PG-13,Horror;Mystery;Thriller,2006
@@ -4132,13 +3811,10 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4130,"Batman: The Long Halloween, Part Two",736074,R,Animation;Mystery;Action;Crime,2021
 4131,Tom and Jerry: Shiver Me Whiskers,60293,G,Animation;Comedy;Family;Adventure,2006
 4132,Horizon Line,602654,PG-13,Thriller;Adventure,2020
-4133,Valley Girl,19053,R,Comedy;Romance,1983
 4134,Barbie Fairytopia: Magic of the Rainbow,16962,G,Animation;Family;Fantasy;Romance,2007
 4135,Valentine's Day,32856,PG-13,Comedy;Romance,2010
-4136,Valley Girl,19053,R,Comedy;Romance,1983
 4137,Barbie Fairytopia: Magic of the Rainbow,16962,G,Animation;Family;Fantasy;Romance,2007
 4138,Valentine's Day,32856,PG-13,Comedy;Romance,2010
-4139,The Amityville Horror,11449,R,Horror,1979
 4140,Mississippi Burning,1632,R,Drama;Crime,1988
 4141,"I, Tonya",389015,R,Drama;Comedy,2017
 4142,Moon,17431,R,Science Fiction;Drama,2009
@@ -4164,11 +3840,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4162,Bringing Down the House,10678,PG-13,Comedy;Drama,2003
 4163,Lord of the Flies,10847,R,Adventure;Drama;Thriller,1990
 4164,Deep Blue Sea 2,492336,R,Action;Horror;Science Fiction,2018
-4165,Death Wish II,14373,R,Action;Crime;Drama,1982
-4166,The Adventures of Robin Hood,10907,PG,Adventure;Romance;History,1938
 4167,King of Killers,1024127,R,Action;Thriller,2023
 4168,Nurse 3-D,78383,R,Horror;Thriller,2013
-4169,The Dead Zone,11336,R,Thriller;Horror;Science Fiction,1983
 4170,The Money Pit,10466,PG,Comedy;Romance,1986
 4171,National Security,11078,PG-13,Action;Comedy;Crime,2003
 4172,Sly,1146302,R,Documentary,2023
@@ -4183,18 +3856,13 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4181,Burn After Reading,4944,R,Comedy;Drama,2008
 4182,What We Do in the Shadows,246741,R,Comedy;Horror,2014
 4183,Lincoln,72976,PG-13,History;Drama,2012
-4184,Kramer vs. Kramer,12102,PG,Drama,1979
 4185,Sexy Beast,11826,R,Crime;Drama;Thriller,2001
-4186,Kramer vs. Kramer,12102,PG,Drama,1979
 4187,Sexy Beast,11826,R,Crime;Drama;Thriller,2001
-4188,Heaven's Gate,10935,R,Drama;Western;Romance,1980
 4189,Drillbit Taylor,8457,PG-13,Comedy,2008
 4190,Heavenly Creatures,1024,R,Drama;Fantasy,1994
 4191,Little Miss Sunshine,773,R,Comedy;Drama,2006
 4192,Executive Decision,2320,R,Action;Adventure;Drama;Thriller,1996
 4193,The Bone Collector,9481,R,Drama;Mystery;Thriller;Crime,1999
-4194,The Thomas Crown Affair,912,PG,Crime;Romance;Drama,1968
-4195,Patton,11202,PG,War;Drama;History,1970
 4196,Are We Done Yet?,10172,PG,Family;Comedy,2007
 4197,The Offering,955991,R,Drama;Horror,2022
 4198,Cruel Intentions 3,5460,R,Drama,2004
@@ -4255,18 +3923,15 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4253,The Score,11371,R,Action;Crime;Thriller;Mystery,2001
 4254,Why Him?,356305,R,Comedy,2016
 4255,The Boy Next Door,241251,R,Thriller,2015
-4256,Endless Love,19114,R,Romance;Drama,1981
 4257,Joshua Tree,26127,R,Action,1993
 4258,Stepfather 3,61964,R,TV Movie;Horror;Thriller,1992
 4259,Mona Lisa Smile,11820,PG-13,Drama;History;Romance,2003
 4260,Elizabeth: The Golden Age,4517,PG-13,Drama;History;Romance,2007
-4261,The Adventures of Buckaroo Banzai Across the 8th Dimension,11379,PG,Science Fiction;Comedy;Adventure;Romance,1984
 4262,The Heartbreak Kid,9038,R,Comedy;Romance,2007
 4263,Tarzan,230222,G,Animation;Action;Adventure;Family,2013
 4264,Rudy,14534,PG,Drama;History,1993
 4265,Once Upon a Time in Venice,345915,R,Action;Comedy;Thriller;Mystery,2017
 4266,Wall Street: Money Never Sleeps,33909,PG-13,Drama;Crime,2010
-4267,The Time Machine,2134,G,Thriller;Adventure;Fantasy;Science Fiction;Romance,1960
 4268,Brazil,68,R,Comedy;Science Fiction,1985
 4269,Valentine,10984,R,Horror;Thriller,2001
 4270,Jarhead: Law of Return,635744,R,War,2019
@@ -4276,7 +3941,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4274,Sleeping Beauty,64586,R,Drama;Romance,2011
 4275,Born on the Fourth of July,2604,R,Drama;War,1989
 4276,Drumline,13497,PG-13,Drama;Romance;Comedy;Music,2002
-4277,East of Eden,220,PG,Drama,1955
 4278,Ciao Alberto,876716,PG,Animation;Comedy;Family;Fantasy,2021
 4279,Paranormal Activity: Next of Kin,609972,R,Horror;Mystery,2021
 4280,The Swan Princess: A Fairytale Is Born,1118203,PG,Family;Animation;Fantasy,2023
@@ -4309,8 +3973,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4307,Anthropoid,351339,R,History;Thriller;War,2016
 4308,Mindhunters,16617,R,Mystery;Thriller;Crime,2004
 4309,Annapolis,13275,PG-13,Drama;Action,2006
-4310,Gandhi,783,PG,Drama;History,1982
-4311,Gandhi,783,PG,Drama;History,1982
 4312,Body Cam,513268,R,Horror;Thriller;Mystery,2020
 4313,Sweet November,1921,PG-13,Drama;Romance,2001
 4314,After Yang,585378,PG,Science Fiction;Drama,2022
@@ -4319,15 +3981,12 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4317,Justice League: Doom,76589,PG-13,Action;Animation;Science Fiction,2012
 4318,Jack Frost,9745,PG,Comedy;Family;Drama;Fantasy,1998
 4319,Cadet Kelly,14008,G,Family;TV Movie;Comedy,2002
-4320,Smokey and the Bandit II,12705,PG,Action;Comedy,1980
 4321,Stronger,395993,R,Drama,2017
-4322,The Pink Panther Strikes Again,12268,PG,Comedy;Crime,1976
 4323,Deliver Us from Evil,184346,R,Thriller;Crime;Horror,2014
 4324,Cool World,14239,PG-13,Animation;Comedy;Fantasy,1992
 4325,Sleeping with the Enemy,7442,R,Drama;Crime;Thriller,1991
 4326,Be Cool,4551,PG-13,Comedy;Crime,2005
 4327,No One Gets Out Alive,740925,R,Horror;Thriller;Mystery,2021
-4328,Chitty Chitty Bang Bang,11708,G,Family;Music;Adventure;Fantasy;Comedy,1968
 4329,Cheaper by the Dozen,691683,PG,Family;Comedy,2022
 4330,Let Him Go,596161,R,Drama;Thriller;Crime;Western,2020
 4331,The Forgotten,10145,PG-13,Thriller;Drama;Mystery;Science Fiction,2004
@@ -4342,11 +4001,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4340,A Simple Plan,10223,R,Crime;Drama;Thriller,1998
 4341,Mank,614560,R,Drama;History,2020
 4342,The Cursed,630392,R,Horror;Drama;Thriller,2021
-4343,Time Bandits,36819,PG,Family;Fantasy;Science Fiction;Adventure;Comedy,1981
-4344,Days of Heaven,16642,PG,Drama;Romance,1978
 4345,Fright Night,58151,R,Horror;Comedy,2011
-4346,Gas Pump Girls,119552,R,Comedy,1979
-4347,The Beastmaster,16441,PG,Fantasy;Adventure;Action,1982
 4348,The Midnight Sky,614911,PG-13,Science Fiction;Drama,2020
 4349,Adventures in Babysitting,14367,PG-13,Comedy,1987
 4350,Secret Window,1586,PG-13,Mystery;Thriller,2004
@@ -4355,18 +4010,15 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4353,Young Guns,11967,R,Western;Action;Adventure,1988
 4354,Leviathan,14372,R,Adventure;Horror;Thriller;Science Fiction,1989
 4355,Henry & June,17993,NC-17,Romance,1990
-4356,Capricorn One,11935,PG,Drama;Action;Thriller;Science Fiction,1977
 4357,Trapped,9039,R,Action;Crime;Thriller;Drama,2002
 4358,Dangerous Minds,9909,R,Drama,1995
 4359,Justice Society: World War II,736069,PG-13,Animation;War;Science Fiction,2021
 4360,Unthinkable,38199,R,Drama;Thriller,2010
 4361,The Remains of the Day,1245,PG,Drama;Romance,1993
-4362,The Great Gatsby,11034,PG,Drama;Romance,1974
 4363,Replicant,10596,R,Action;Science Fiction;Thriller,2001
 4364,The Grudge 3,1977,R,Mystery;Horror;Thriller,2009
 4365,Stay,8066,R,Mystery;Thriller;Drama,2005
 4366,The Remains of the Day,1245,PG,Drama;Romance,1993
-4367,The Great Gatsby,11034,PG,Drama;Romance,1974
 4368,Replicant,10596,R,Action;Science Fiction;Thriller,2001
 4369,The Grudge 3,1977,R,Mystery;Horror;Thriller,2009
 4370,Stay,8066,R,Mystery;Thriller;Drama,2005
@@ -4378,9 +4030,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4376,The Man with the Iron Heart,339259,R,War;Action;History;Thriller,2017
 4377,Searching,489999,PG-13,Thriller;Mystery;Drama,2018
 4378,The Next Three Days,43539,PG-13,Romance;Drama;Thriller;Crime,2010
-4379,Airplane II: The Sequel,2665,PG,Comedy,1982
 4380,The Incredible Burt Wonderstone,124459,PG-13,Comedy,2013
-4381,The Parent Trap,19186,G,Comedy;Family,1961
 4382,Joy Ride 2: Dead Ahead,16763,NC-17,Crime;Thriller;Horror,2008
 4383,The Snowman,372343,R,Crime;Thriller,2017
 4384,Snakes on a Plane,326,R,Action;Crime;Thriller;Adventure,2006
@@ -4407,9 +4057,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4405,Loving Vincent,339877,PG-13,Animation;Drama;Mystery;History,2017
 4406,Hard to Kill,9569,R,Action;Drama,1990
 4407,Death Warrant,17466,R,Action;Crime;Thriller,1990
-4408,El Dorado,6644,G,Western,1966
 4409,The Dukes of Hazzard: The Beginning,19580,R,Action;Adventure;Comedy;TV Movie,2007
-4410,Everything You Always Wanted to Know About Sex *But Were Afraid to Ask,11624,R,Comedy,1972
 4411,Day of the Dead: Bloodline,485415,R,Action;Horror,2017
 4412,While You Were Sleeping,2064,PG,Romance;Comedy,1995
 4413,The Hole in the Ground,484437,R,Horror,2019
@@ -4418,12 +4066,10 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4416,Sharpay's Fabulous Adventure,60405,G,Family;Music,2011
 4417,Status Update,416494,PG-13,Comedy;Fantasy;Science Fiction,2018
 4418,Eileen,664341,R,Thriller;Drama;Crime,2023
-4419,The Man Who Shot Liberty Valance,11697,PG-13,Western,1962
 4420,The People Under the Stairs,13122,R,Horror;Comedy,1991
 4421,Speed Racer,7459,PG,Family;Action;Adventure;Comedy,2008
 4422,Get Carter,10461,R,Action;Drama;Thriller;Crime,2000
 4423,I Kill Giants,419831,PG-13,Fantasy;Drama,2017
-4424,The Party,10794,PG,Comedy,1968
 4425,Collateral Damage,9884,R,Action;Thriller;Drama,2002
 4426,"I Love You, Beth Cooper",19840,PG-13,Comedy;Romance,2009
 4427,Renegades,335788,PG-13,Thriller;Action,2017
@@ -4449,13 +4095,10 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4447,A Good Year,9726,PG-13,Comedy;Drama;Romance,2006
 4448,Surrounded,759584,R,Western;Action;Drama,2023
 4449,Star Trek VI: The Undiscovered Country,174,PG,Science Fiction;Action;Adventure;Thriller,1991
-4450,Klute,466,R,Thriller;Mystery;Crime,1971
 4451,Hellraiser: Inferno,12597,R,Horror;Mystery;Fantasy,2000
 4452,Marvel One-Shot: The Consultant,76122,PG-13,Adventure;Fantasy;Science Fiction;Action,2011
-4453,The Secret of NIMH,11704,G,Family;Animation;Fantasy;Adventure;Science Fiction,1982
 4454,Chain Reaction,12123,PG-13,Science Fiction;Action;Drama;Thriller,1996
 4455,Avatar: The Deep Dive - A Special Edition of 20/20,1059673,PG-13,Documentary,2022
-4456,The Secret of NIMH,11704,G,Family;Animation;Fantasy;Adventure;Science Fiction,1982
 4457,Chain Reaction,12123,PG-13,Science Fiction;Action;Drama;Thriller,1996
 4458,Avatar: The Deep Dive - A Special Edition of 20/20,1059673,PG-13,Documentary,2022
 4459,Barbie: Spy Squad,377897,G,Action;Animation;Family,2016
@@ -4471,8 +4114,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4469,Rugrats in Paris: The Movie,16340,G,Family;Animation;Adventure;Comedy,2000
 4470,Bray Wyatt: Becoming Immortal,1230242,PG-13,Documentary,2024
 4471,The Man Who Wasn't There,10778,R,Crime;Drama,2001
-4472,Around the World in Eighty Days,2897,G,Adventure;Comedy;Family;Fantasy;Romance,1956
-4473,Amityville II: The Possession,16235,R,Horror;Thriller,1982
 4474,The Kite Runner,7979,PG-13,Drama,2007
 4475,Home Sweet Hell,276839,R,Crime;Comedy;Thriller,2015
 4476,Boiling Point,807196,R,Drama;Thriller,2021
@@ -4515,39 +4156,30 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4513,Flyboys,9664,PG-13,Action;Adventure;Drama;History;Romance;War,2006
 4514,Zoey 102,1073170,R,Romance;Comedy,2023
 4515,Superman: Doomsday,13640,PG-13,Action;Animation;Science Fiction;Family,2007
-4516,The 7th Voyage of Sinbad,15515,G,Action;Adventure;Family;Fantasy,1958
 4517,Insatiable Needs,333932,NC-17,Drama,2005
 4518,Deep Cover,20676,R,Action;Thriller;Crime,1992
 4519,Funny Games,8461,R,Thriller;Horror,2008
 4520,The Mexican,6073,R,Action;Comedy;Crime;Romance,2001
-4521,The Longest Yard,4985,R,Comedy;Drama,1974
 4522,Pay It Forward,10647,PG-13,Drama,2000
 4523,Agent Cody Banks 2: Destination London,17047,PG,Comedy;Action;Adventure;Family;Romance,2004
 4524,Clifford,2778,PG,Comedy,1994
 4525,Under the Tuscan Sun,10934,PG-13,Romance;Comedy,2003
-4526,Without Warning,44932,R,Horror;Science Fiction,1980
 4527,The Midnight Meat Train,10185,R,Horror;Mystery;Fantasy,2008
-4528,Without Warning,44932,R,Horror;Science Fiction,1980
 4529,The Midnight Meat Train,10185,R,Horror;Mystery;Fantasy,2008
 4530,The Gods Must Be Crazy II,11937,PG,Action;Comedy,1989
 4531,Idle Hands,6552,R,Comedy;Horror;Fantasy,1999
 4532,Wicker Park,11208,PG-13,Drama;Mystery;Romance;Thriller,2004
 4533,Flashback,522406,R,Thriller,2020
-4534,The Eagle Has Landed,11372,PG,Adventure;Drama;Action;Thriller;War,1976
 4535,"Lover, Stalker, Killer",1229958,R,Documentary;Crime,2024
 4536,Land of the Dead,11683,R,Horror;Science Fiction,2005
-4537,The Three Caballeros,15947,G,Animation;Family;Music,1944
 4538,Batman: Gotham Knight,13851,PG-13,Science Fiction;Animation;Action;Crime;Thriller,2008
 4539,God's Not Dead 2,347126,PG,Drama,2016
 4540,The Willoughbys,560044,PG,Animation;Comedy;Family,2020
 4541,Machete Kills,106747,R,Action;Crime;Thriller,2013
 4542,Dangerous Beauty,8583,R,Drama;Romance,1998
-4543,Lady Chatterley's Lover,35685,R,Drama;Romance,1981
-4544,The African Queen,488,PG,Romance;Adventure,1952
 4545,Notes on a Scandal,1259,R,Drama;Romance,2006
 4546,If I Stay,249164,PG-13,Drama,2014
 4547,The Number 23,3594,R,Thriller;Mystery;Crime,2007
-4548,Heavy Metal,11827,R,Animation;Science Fiction;Adventure;Fantasy;Music,1981
 4549,Winchester,416234,PG-13,Horror;Thriller,2018
 4550,Hamilton,556574,PG-13,History;Drama,2020
 4551,Scrooged,9647,PG-13,Fantasy;Comedy;Drama,1988
@@ -4564,7 +4196,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4562,Leprechaun: Back 2 tha Hood,19288,R,Horror;Comedy,2003
 4563,Quiz Lady,787781,R,Comedy,2023
 4564,The Zookeeper's Wife,289222,PG-13,Drama;History;War,2017
-4565,The Dark Crystal,11639,PG,Adventure;Family;Fantasy,1982
 4566,The DUFF,272693,PG-13,Romance;Comedy,2015
 4567,I'm Thinking of Ending Things,500840,R,Drama;Fantasy;Mystery;Thriller,2020
 4568,Short Circuit 2,11966,PG,Comedy;Family;Science Fiction;Drama,1988
@@ -4572,7 +4203,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4570,The Flyboys,20789,PG-13,Adventure;Action,2008
 4571,License to Drive,13704,PG-13,Comedy;Family,1988
 4572,Missing Link,458253,PG,Family;Animation;Comedy;Adventure,2019
-4573,Force 10 from Navarone,17339,PG,Drama;Adventure;War,1978
 4574,The Outsider,199928,R,Crime;Drama;Mystery,2018
 4575,Anon,396806,R,Science Fiction,2018
 4576,The Beverly Hillbillies,11041,PG,Comedy;Family,1993
@@ -4580,10 +4210,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4578,Anon,396806,R,Science Fiction,2018
 4579,The Beverly Hillbillies,11041,PG,Comedy;Family,1993
 4580,A Good Person,800787,R,Drama;Comedy,2023
-4581,Sleepaway Camp,13567,R,Horror,1983
-4582,Cabaret,10784,PG,Music;Drama;Romance,1972
 4583,A Prayer Before Dawn,448776,R,Drama;Action;Crime,2018
-4584,The Right Stuff,9549,PG,Drama;History;Adventure,1983
 4585,Black Butterfly,76812,R,Thriller;Mystery;Drama,2017
 4586,Message in a Bottle,10207,PG-13,Romance;Drama,1999
 4587,The Client,10731,PG-13,Drama;Thriller;Crime;Mystery,1994
@@ -4606,10 +4233,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4604,Escape Plan: The Extractors,480042,R,Action;Crime;Thriller,2019
 4605,"Monster High: Boo York, Boo York",360404,PG,Animation;Family;Music,2015
 4606,The Danish Girl,306819,R,Drama,2015
-4607,Zardoz,4923,R,Fantasy;Action;Thriller;Science Fiction,1974
 4608,Trouble,570480,G,Animation;Adventure;Family;Comedy;Music,2019
 4609,The Danish Girl,306819,R,Drama,2015
-4610,Zardoz,4923,R,Fantasy;Action;Thriller;Science Fiction,1974
 4611,Trouble,570480,G,Animation;Adventure;Family;Comedy;Music,2019
 4612,The United States vs. Billie Holiday,566076,R,Music;Drama;History,2021
 4613,Bronson,18533,R,Drama;Action;Crime,2009
@@ -4621,7 +4246,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4619,We Need to Talk About Kevin,71859,R,Drama;Thriller,2011
 4620,Wizards of Waverly Place: The Movie,26736,PG,Family;TV Movie;Adventure;Comedy;Drama;Fantasy;Action,2009
 4621,Florence Foster Jenkins,315664,PG-13,Comedy;Drama,2016
-4622,Lord of the Flies,9960,PG-13,Drama;Adventure;Thriller,1963
 4623,Before I Fall,397837,PG-13,Drama;Fantasy,2017
 4624,The Cable Guy,9894,PG-13,Comedy;Drama;Thriller,1996
 4625,The Lair of the White Worm,11347,R,Horror;Comedy,1988
@@ -4642,10 +4266,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4640,Chaplin,10435,PG-13,Drama,1992
 4641,Margaux,846778,R,Horror;Science Fiction,2022
 4642,Superman/Shazam!: The Return of Black Adam,43641,PG,Animation;Action,2010
-4643,Repo Man,13820,R,Comedy;Science Fiction,1984
 4644,Goal!,9763,PG-13,Drama,2005
 4645,The Lost Daughter,554230,R,Drama,2021
-4646,Repo Man,13820,R,Comedy;Science Fiction,1984
 4647,Goal!,9763,PG-13,Drama,2005
 4648,The Lost Daughter,554230,R,Drama,2021
 4649,The Final Girls,293970,PG-13,Comedy;Horror,2015
@@ -4669,8 +4291,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4667,Guns Akimbo,457335,R,Action;Comedy,2020
 4668,Dogville,553,R,Crime;Drama;Thriller,2003
 4669,Constantine: The House of Mystery,791348,R,Animation;Action;Adventure;Horror,2022
-4670,History of the World: Part I,10156,R,Comedy,1981
-4671,History of the World: Part I,10156,R,Comedy,1981
 4672,Curly Sue,11894,PG,Comedy;Drama;Family;Romance,1991
 4673,The Hand that Rocks the Cradle,11087,R,Drama;Thriller,1992
 4674,Swept Away,12779,R,Comedy;Romance,2002
@@ -4713,7 +4333,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4711,Barbie & Her Sisters in the Great Puppy Adventure,361380,G,Family;Animation;Adventure,2015
 4712,Killing Me Softly,14365,R,Thriller,2002
 4713,Your Place or Mine,703451,PG-13,Romance;Comedy,2023
-4714,Ms .45,22171,R,Crime;Thriller;Action,1981
 4715,The Young Messiah,318850,PG-13,Drama,2016
 4716,Double Jeopardy,10398,R,Drama;Thriller;Mystery,1999
 4717,Pilgrimage,340442,PG,Action;Adventure;Drama,2017
@@ -4726,10 +4345,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4724,Morning Glory,38357,PG-13,Drama;Comedy;Romance,2010
 4725,Dragonfly,10052,PG-13,Thriller;Fantasy;Mystery,2002
 4726,The Five-Year Engagement,72207,R,Comedy;Romance,2012
-4727,The Return of the Pink Panther,11843,G,Comedy;Crime;Mystery,1975
 4728,Swingers,10218,R,Comedy,1996
 4729,Bitch Slap,26715,R,Drama;Action;Comedy;Thriller;Crime,2009
-4730,Fiddler on the Roof,14811,G,Drama;Romance,1971
 4731,Kursk,401200,PG-13,Drama;History;Thriller;Action,2018
 4732,The Hunter,70954,R,Drama;Thriller;Adventure,2011
 4733,Layer Cake,4836,R,Drama;Thriller;Crime,2004
@@ -4737,7 +4354,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4735,Made in Italy,659991,R,Comedy;Drama,2020
 4736,Mainstream,557950,R,Comedy;Drama,2021
 4737,The Book of Henry,382614,PG-13,Drama;Crime;Thriller,2017
-4738,Bad Boys,13633,R,Crime;Drama;Thriller,1983
 4739,The Death of Superman,487670,PG-13,Science Fiction;Animation;Action;Drama,2018
 4740,Star Wars: The Clone Wars,12180,PG,Animation;Action;Science Fiction;Adventure,2008
 4741,Tully,400579,R,Comedy;Drama,2018
@@ -4790,7 +4406,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4788,King of New York,9558,R,Thriller;Crime,1990
 4789,My Bloody Valentine,14435,R,Mystery;Horror;Thriller,2009
 4790,Then Came You,375785,PG-13,Comedy;Drama,2018
-4791,Orca,12707,PG,Horror;Thriller,1977
 4792,Side Effects,109421,R,Thriller;Crime;Drama,2013
 4793,Air Bud,20737,PG,Comedy;Family,1997
 4794,Jackass 3D,16290,R,Comedy;Documentary;Action,2010
@@ -4805,7 +4420,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4803,The Sisterhood of the Traveling Pants,9779,PG,Drama;Comedy;Romance,2005
 4804,Adaptation.,2757,R,Comedy;Crime;Drama,2002
 4805,Mr. Popper's Penguins,58224,PG,Comedy;Family,2011
-4806,The Adventures of Ichabod and Mr. Toad,13465,G,Horror;Fantasy;Animation;Family,1949
 4807,Enough,1957,PG-13,Drama;Thriller,2002
 4808,House on Haunted Hill,11377,R,Horror,1999
 4809,Hitchcock,112336,PG-13,Drama,2012
@@ -4813,8 +4427,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4811,Tom and Jerry: Snowman's Land,1018403,G,Family;Comedy;Animation;Adventure,2022
 4812,Cube 2: Hypercube,437,R,Thriller;Science Fiction;Mystery,2002
 4813,Ad Astra,419704,PG-13,Science Fiction;Drama,2019
-4814,War and Peace,11706,PG,War;Romance;Drama;History,1956
-4815,Krull,849,PG,Action;Adventure;Fantasy;Science Fiction,1983
 4816,Little Monsters,15138,PG,Adventure;Fantasy;Comedy;Family,1989
 4817,The King of Staten Island,579583,R,Comedy;Drama,2020
 4818,Wyatt Earp,12160,PG-13,Western;Drama;Action;Adventure,1994
@@ -4823,8 +4435,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4821,In the Mouth of Madness,2654,R,Horror;Thriller;Mystery,1995
 4822,The Minute You Wake Up Dead,934641,R,Thriller;Crime;Drama,2022
 4823,Honey,10028,PG-13,Music;Drama;Romance,2003
-4824,A Charlie Brown Christmas,13187,G,Animation;Family;Comedy;TV Movie,1965
-4825,The Haunting,11772,G,Horror,1963
 4826,Turistas,9796,R,Horror;Thriller,2006
 4827,Analyze This,9535,R,Comedy;Crime,1999
 4828,Throw Momma from the Train,11896,PG-13,Comedy;Crime,1987
@@ -4860,11 +4470,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4858,Hush,376570,R,Horror;Thriller,2016
 4859,Green Zone,22972,R,War;Action;Adventure;Drama;Thriller,2010
 4860,Bleed for This,332979,R,Drama,2016
-4861,Blow Out,11644,R,Thriller;Mystery;Crime,1981
 4862,My Big Fat Greek Wedding,8346,PG,Comedy;Drama;Romance,2002
-4863,The Message,26842,PG,Adventure;Drama;Action;History,1976
 4864,My Big Fat Greek Wedding,8346,PG,Comedy;Drama;Romance,2002
-4865,The Message,26842,PG,Adventure;Drama;Action;History,1976
 4866,Super Troopers 2,50022,R,Comedy;Crime;Mystery,2018
 4867,Born to Race,74523,PG-13,Action,2011
 4868,21 & Over,107811,R,Comedy,2013
@@ -4875,7 +4482,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4873,The Awakening,77949,R,Horror;Thriller;Mystery,2011
 4874,Mercury Rising,8838,R,Action;Crime;Drama;Thriller,1998
 4875,Mercury Rising,8838,R,Action;Crime;Drama;Thriller,1998
-4876,Escape to Athena,28981,PG,Adventure;Comedy;War,1979
 4877,Eli,483202,R,Horror,2019
 4878,The Bob's Burgers Movie,504827,PG-13,Animation;Adventure;Comedy,2022
 4879,Barbershop: The Next Cut,326423,PG-13,Comedy;Drama,2016
@@ -4889,7 +4495,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4887,Snow White: A Tale of Terror,9092,R,Fantasy;Horror,1997
 4888,Ben 10 Alien Swarm,25642,PG,Adventure;Action,2009
 4889,The Librarian: The Curse of the Judas Chalice,14728,PG,Fantasy;Adventure;Comedy,2008
-4890,Phantom of the Paradise,27327,PG,Music;Comedy;Horror,1974
 4891,Tremors: Shrieker Island,670266,PG-13,Action;Horror,2020
 4892,Man Down,296523,R,Thriller;Drama;War,2015
 4893,Self Reliance,1072876,R,Comedy;Thriller,2023
@@ -4924,18 +4529,14 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4922,Halloween 5: The Revenge of Michael Myers,11361,R,Horror;Thriller;Fantasy,1989
 4923,Line of Duty,346709,R,Thriller;Crime;Action,2019
 4924,Invincible,11652,PG,Drama;History,2006
-4925,Assault on Precinct 13,17814,R,Thriller;Action;Crime,1976
-4926,Assault on Precinct 13,17814,R,Thriller;Action;Crime,1976
 4927,Osmosis Jones,12610,PG,Adventure;Animation;Action;Comedy;Family,2001
 4928,Hot Rod,10074,PG-13,Comedy;Action,2007
 4929,Little Buddha,1689,PG,Drama;History,1993
 4930,Resistance,491926,R,War;History;Drama,2020
 4931,The Independent,878183,R,Thriller;Mystery;Crime,2022
 4932,Femme Fatale,9280,R,Mystery;Crime;Thriller,2002
-4933,Two Mules for Sister Sara,11916,PG,Western,1970
 4934,Rock of Ages,80585,R,Comedy;Drama;Music;Romance,2012
 4935,Crash Pad,390053,R,Comedy,2017
-4936,Mean Streets,203,R,Drama;Crime,1973
 4937,The Machinist,4553,R,Thriller;Drama,2004
 4938,Oliver Twist,257,PG-13,Crime;Drama;Family,2005
 4939,Appointment with Death,4281,PG,Thriller;Crime;Mystery;Drama,1988
@@ -4950,24 +4551,19 @@ Unnamed: 0,Title,id,rating,genres,Release year
 4948,Deconstructing Harry,2639,R,Comedy;Drama,1997
 4949,Flight of the Phoenix,11866,PG-13,Action;Adventure;Drama,2004
 4950,The Arrival,10547,PG-13,Science Fiction;Thriller,1996
-4951,Love Story,9062,PG,Romance;Drama,1970
 4952,Puss in Book: Trapped in an Epic Tale,462650,G,Family;Fantasy;Animation;Comedy;Adventure,2017
 4953,Out of Africa,606,PG,History;Romance;Drama,1985
 4954,Made of Honor,10761,PG-13,Comedy;Romance,2008
 4955,George of the Jungle 2,26264,PG,Adventure;Comedy;Family,2003
 4956,That Thing You Do!,9591,PG,Comedy;Drama;Romance;Music,1996
 4957,Sweet Dreams,1062421,R,Comedy,2024
-4958,Being There,10322,PG,Comedy;Drama,1979
 4959,White Palace,41003,R,Drama;Romance,1990
 4960,Airheads,13595,PG-13,Comedy;Crime;Music,1994
 4961,The Emerald Forest,11532,R,Action;Adventure;Drama,1985
 4962,The Comeback Trail,650783,R,Comedy;Crime,2020
-4963,Firestarter,11495,R,Horror;Thriller;Science Fiction,1984
 4964,In Her Shoes,11931,PG-13,Comedy;Drama;Romance,2005
 4965,Proud Mary,442064,R,Thriller;Action;Crime,2018
 4966,Sydney White,10760,PG-13,Comedy,2007
-4967,A Man for All Seasons,874,G,Drama;History,1966
-4968,The Parallax View,17365,R,Crime;Drama;Thriller,1974
 4969,3 from Hell,489064,R,Horror;Crime;Action,2019
 4970,Addams Family Reunion,11508,PG,Comedy;Horror;Fantasy;Family;TV Movie,1998
 4971,The Odd Life of Timothy Green,71864,PG,Fantasy;Drama;Comedy;Family,2012
@@ -5022,18 +4618,14 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5020,Whiteout,22787,R,Action;Crime;Mystery;Thriller,2009
 5021,Jurassic World Camp Cretaceous: Hidden Adventure,1036956,PG,Action;Adventure;Animation,2022
 5022,20th Century Women,342737,R,Drama,2016
-5023,Coogan's Bluff,26170,R,Action;Crime;Drama;Thriller,1968
-5024,The Long Goodbye,1847,R,Crime;Comedy;Mystery;Thriller,1973
 5025,Song of the Sea,110416,PG,Family;Animation;Fantasy,2014
 5026,Bring It On,1588,PG-13,Comedy,2000
 5027,Diabolique,10988,R,Mystery;Thriller;Horror,1996
 5028,Babe: Pig in the City,9447,G,Family;Adventure;Comedy;Drama,1998
 5029,A Civil Action,9422,PG-13,Drama,1998
 5030,To Die For,577,R,Drama;Comedy;Crime,1995
-5031,Jeremiah Johnson,11943,PG,Adventure;Western,1972
 5032,Mrs. Henderson Presents,10773,R,Comedy;Drama,2005
 5033,Life of Crime,209189,R,Comedy;Crime,2013
-5034,Lone Wolf McQuade,14854,PG,Action;Crime,1983
 5035,Batman and Superman: Battle of the Super Sons,886396,PG-13,Animation;Action;Science Fiction,2022
 5036,Irrational Man,282984,R,Drama;Comedy;Crime,2015
 5037,Weird: The Al Yankovic Story,928344,PG-13,Music;Comedy;Crime,2022
@@ -5046,7 +4638,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5044,The Whistleblower,65760,R,Drama;Thriller;Crime,2010
 5045,No Way Out,10083,R,Thriller,1987
 5046,"I Love You, Man",16538,R,Comedy;Romance,2009
-5047,Nine to Five,19494,PG,Comedy,1980
 5048,Hours,172803,PG-13,Drama;Thriller,2013
 5049,FearDotCom,9544,R,Horror;Thriller;Crime,2002
 5050,Free Birds,175574,PG,Animation;Comedy;Family,2013
@@ -5064,15 +4655,11 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5062,Goodbye Christopher Robin,418680,PG,Family;History;Drama,2017
 5063,Jawbreaker,18892,R,Comedy;Crime,1999
 5064,The Invention of Lying,23082,PG-13,Comedy;Fantasy;Romance,2009
-5065,Starman,9663,PG,Science Fiction;Romance;Drama;Fantasy,1984
-5066,The Shootist,12584,PG,Western,1976
-5067,Rudolph the Red-Nosed Reindeer,13382,G,Animation;Family;TV Movie,1964
 5068,Bordello of Blood,9431,R,Horror;Comedy,1996
 5069,Geek Charming,81250,PG,Comedy;Drama;Family;TV Movie,2011
 5070,Empire of Light,814757,R,Drama;Romance,2022
 5071,"You, Me and Dupree",1819,PG-13,Comedy;Romance,2006
 5072,Alone,661950,R,Horror;Thriller,2020
-5073,Iceman,24749,PG,Science Fiction,1984
 5074,Semi-Pro,13260,R,Comedy,2008
 5075,First Daughter,13969,PG,Family;Comedy;Drama;Romance,2004
 5076,All Nighter,352501,R,Comedy;Drama,2017
@@ -5084,34 +4671,27 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5082,American Ninja,12500,R,Action,1985
 5083,United 93,9829,R,Drama;History;Crime;Thriller;Action,2006
 5084,Chang Can Dunk,776098,PG,Family;Comedy;Drama,2023
-5085,The Golden Voyage of Sinbad,17897,G,Action;Adventure;Drama;Fantasy;Family,1973
 5086,My Stepmother Is an Alien,12120,PG-13,Comedy;Science Fiction,1988
 5087,Dennis the Menace Strikes Again!,45242,G,Family;Comedy,1998
-5088,Big Jake,21717,PG-13,Western,1971
 5089,Take Me Home Tonight,50725,R,Comedy;Drama;Romance,2011
 5090,Swimming Pool,302,R,Crime;Thriller,2003
 5091,Someone Like You...,12658,PG-13,Comedy;Romance,2001
 5092,Cloud 9,245473,G,Action;Drama;Romance;Family;TV Movie,2014
-5093,Falling in Love,52744,PG-13,Drama;Romance,1984
 5094,Vampire in Brooklyn,12158,R,Comedy;Horror;Romance,1995
 5095,Here Comes the Boom,87826,PG,Comedy;Action;Drama,2012
 5096,Shallow Grave,9905,R,Crime;Thriller,1994
 5097,Hollow Man II,8997,R,Horror;Thriller;Science Fiction,2006
 5098,Joe Bell,552269,R,Drama,2020
-5099,Pat Garrett & Billy the Kid,11577,R,Western,1973
 5100,Postal,2728,R,Comedy;Action;Crime;Adventure;Thriller,2007
 5101,Captain Corelli's Mandolin,1722,R,Drama;Romance;War,2001
 5102,Last Vegas,137093,PG-13,Comedy,2013
 5103,Tristan & Isolde,9044,PG-13,Drama;Romance,2006
-5104,Chariots of Fire,9443,PG,Drama;History,1981
-5105,Chariots of Fire,9443,PG,Drama;History,1981
 5106,The Yards,19457,R,Crime;Drama;Thriller,2000
 5107,Private Valentine: Blonde & Dangerous,15616,PG-13,Comedy,2008
 5108,Superintelligence,521007,PG,Comedy;Science Fiction;Romance,2020
 5109,"Monster High: Frights, Camera, Action!",260234,G,Family;Animation;Fantasy,2014
 5110,Recess: School's Out,19405,G,Family;Animation,2001
 5111,Double Dragon,2436,PG-13,Action;Adventure;Comedy,1994
-5112,Charlotte's Web,15171,G,Family;Music;Animation;Drama;Comedy,1973
 5113,In Hell,19277,R,Action;Drama;Thriller,2003
 5114,Dragnet,10023,PG-13,Action;Comedy;Crime,1987
 5115,Fences,393457,PG-13,Drama,2016
@@ -5124,7 +4704,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5122,Let Me In,41402,R,Drama;Horror;Mystery,2010
 5123,50/50,40807,R,Comedy;Drama,2011
 5124,Empire Records,13531,PG-13,Music;Comedy;Drama,1995
-5125,Swiss Family Robinson,18444,G,Adventure;Family,1960
 5126,Crossing Over,15577,R,Crime;Drama,2009
 5127,Siberia,438689,R,Crime;Romance;Thriller,2018
 5128,The Wonderful World of Mickey Mouse: Steamboat Silly,1139979,G,Animation;Comedy,2023
@@ -5137,7 +4716,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5135,Balto II: Wolf Quest,25913,G,Family;Animation;Adventure,2002
 5136,Ginger Snaps,9871,R,Fantasy;Horror,2000
 5137,America: The Motion Picture,739542,R,Animation;Action;Comedy,2021
-5138,Rumble Fish,232,R,Crime;Drama,1983
 5139,In the Name of the Father,7984,R,Drama,1993
 5140,Murder by Numbers,11892,R,Crime;Drama;Thriller,2002
 5141,The Dead Don't Die,535581,R,Comedy;Horror,2019
@@ -5148,7 +4726,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5146,6 Below: Miracle on the Mountain,423087,PG-13,Thriller;Drama,2017
 5147,Ninja: Shadow of a Tear,180894,R,Action;Crime;Thriller,2013
 5148,The Search for Santa Paws,48844,G,Family;Adventure,2010
-5149,Sssssss,70345,PG,Horror;Science Fiction,1973
 5150,The Retirement Plan,866346,R,Comedy;Action,2023
 5151,Sick,829410,R,Horror;Thriller;Mystery,2022
 5152,Batman: Bad Blood,366924,PG-13,Science Fiction;Action;Animation,2016
@@ -5157,7 +4734,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5155,Like a Boss,526019,R,Comedy,2020
 5156,The Best of Me,239571,PG-13,Drama;Romance,2014
 5157,Revolver,10851,R,Drama;Thriller;Crime;Mystery,2005
-5158,Prom Night,36599,R,Horror;Mystery;Thriller,1980
 5159,Yoga Hosers,290825,PG-13,Comedy;Fantasy;Horror,2016
 5160,Batman: Assault on Arkham,242643,PG-13,Thriller;Animation;Action;Crime,2014
 5161,Deadfall,97614,R,Crime;Drama;Thriller,2012
@@ -5168,13 +4744,11 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5166,Last Moment of Clarity,567608,R,Drama;Mystery;Thriller,2020
 5167,Book of Shadows: Blair Witch 2,11531,R,Mystery;Thriller;Horror,2000
 5168,Sleeping with Other People,288036,R,Comedy;Romance,2015
-5169,Strangers on a Train,845,PG,Crime;Thriller,1951
 5170,Frank and Penelope,899294,R,Thriller;Horror;Crime,2022
 5171,House of 1000 Corpses,2662,R,Horror;Comedy,2003
 5172,The Invasion,4858,PG-13,Science Fiction;Thriller;Mystery;Horror,2007
 5173,Amy,331781,R,Documentary;Music,2015
 5174,Prêt-à-Porter,3586,R,Comedy,1994
-5175,The Wanderers,233,R,Drama,1979
 5176,"Lock, Stock and Two Smoking Barrels",100,R,Comedy;Crime,1998
 5177,Hairspray Live!,409447,PG-13,Romance;Comedy;Drama;TV Movie,2016
 5178,Amityville: The Awakening,203835,PG-13,Thriller;Horror,2017
@@ -5184,7 +4758,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5182,Jackass: The Movie,9012,R,Comedy;Documentary,2002
 5183,The Dyatlov Pass Incident,169219,R,Thriller;Mystery,2013
 5184,Colors,10126,R,Action;Crime;Drama,1988
-5185,The Intruder,79827,PG-13,Drama,1962
 5186,The Switch,41210,PG-13,Comedy;Romance;Drama,2010
 5187,Space Buddies,14749,G,Comedy;Adventure;Drama;Family,2009
 5188,To Live and Die in L.A.,9846,R,Crime;Thriller;Action,1985
@@ -5199,7 +4772,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5197,I Could Never Be Your Woman,15019,PG-13,Comedy;Drama;Romance,2007
 5198,Not Okay,838330,R,Comedy;Drama,2022
 5199,Look Away,526051,R,Horror;Thriller;Fantasy,2018
-5200,Videodrome,837,R,Horror;Science Fiction;Mystery,1983
 5201,Ruby Sparks,103332,R,Comedy;Romance;Fantasy;Drama,2012
 5202,Bad Lieutenant,12143,NC-17,Crime;Drama,1992
 5203,Beavis and Butt-Head Do America,3179,PG-13,Animation;Comedy,1996
@@ -5209,7 +4781,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5207,Red Planet,8870,PG-13,Thriller;Action;Science Fiction,2000
 5208,Fools Rush In,1968,PG-13,Comedy;Drama;Romance,1997
 5209,Guarding Tess,6472,PG-13,Comedy;Drama,1994
-5210,How the West Was Won,11897,G,Western,1962
 5211,You People,866413,R,Romance;Comedy,2023
 5212,Cleaner,13252,R,Crime;Thriller;Mystery,2007
 5213,"The Cook, the Thief, His Wife & Her Lover",7452,NC-17,Crime;Drama,1989
@@ -5229,31 +4800,25 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5227,The Magic of Belle Isle,101731,PG,Drama;Comedy,2012
 5228,Fire of Love,913823,PG,Documentary,2022
 5229,The Serpent and the Rainbow,11503,R,Horror;Thriller,1988
-5230,Tora! Tora! Tora!,11165,G,War;History;Drama,1970
 5231,Paradise Highway,939979,R,Thriller;Crime;Drama,2022
 5232,The Way Back,529485,R,Drama,2020
 5233,Gigli,8046,R,Comedy;Crime;Drama;Romance,2003
 5234,The Haunting in Connecticut,18781,PG-13,Thriller;Horror,2009
 5235,Starship Troopers: Traitor of Mars,460790,R,Action;Animation;Science Fiction,2017
-5236,The Manchurian Candidate,982,PG-13,Thriller;Drama,1962
 5237,Ladder 49,11128,PG-13,Drama;Action;Thriller,2004
 5238,Stargate: Continuum,12914,PG,Action;Adventure;Science Fiction;TV Movie,2008
 5239,Venom,7182,R,Horror;Thriller,2005
 5240,Don't Tell Mom the Babysitter's Dead,1251687,R,Comedy,2024
 5241,Don't Tell Mom the Babysitter's Dead,1251687,R,Comedy,2024
 5242,Euphoria,407440,R,Drama,2018
-5243,Halloween III: Season of the Witch,10676,R,Horror;Thriller;Science Fiction,1982
 5244,90 Minutes in Heaven,343795,PG-13,Drama,2015
 5245,Remember Me,23169,PG-13,Drama;Romance,2010
 5246,Last Night,23830,R,Drama;Romance,2010
-5247,The Cameraman,31411,PG,Comedy;Romance;Drama,1928
-5248,Terms of Endearment,11050,PG,Drama;Comedy,1983
 5249,Hot Pursuit,268920,PG-13,Comedy;Action,2015
 5250,Official Secrets,393624,R,Thriller;History;Drama,2019
 5251,The Phantom,9826,PG,Adventure;Action,1996
 5252,Kill Your Darlings,157370,R,Drama;Romance;Thriller,2013
 5253,Firewalker,12715,PG,Action;Adventure;Comedy,1986
-5254,The King and I,16520,G,Drama;Romance;Adventure,1956
 5255,Dolemite Is My Name,528888,R,Drama;Comedy;History,2019
 5256,Carnage,72113,R,Comedy;Drama,2011
 5257,Black Rain,4105,R,Drama;Action;Thriller,1989
@@ -5264,7 +4829,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5262,Justice League: The New Frontier,14011,PG-13,Action;Adventure;Animation;Science Fiction;Family,2008
 5263,Above Suspicion,421473,R,Thriller;Crime;Action,2019
 5264,Marmaduke,38579,PG,Family;Comedy,2010
-5265,Raise the Titanic,24575,PG,Adventure,1980
 5266,Planet Hulk,30675,PG-13,Science Fiction;Animation;Action,2010
 5267,Saving Mr. Banks,140823,PG-13,Comedy;Drama;History,2013
 5268,The Gift,2046,R,Horror;Drama;Thriller;Mystery,2000
@@ -5284,10 +4848,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5282,Four Christmases,12193,PG-13,Comedy;Romance;Drama,2008
 5283,Rumor Has It...,2800,PG-13,Comedy;Romance,2005
 5284,The Shadow,8850,PG-13,Fantasy;Action,1994
-5285,Operation Crossbow,36583,PG-13,Drama;War,1965
-5286,Pete's Dragon,11114,G,Fantasy;Animation;Comedy;Family,1977
 5287,Raising Helen,4599,PG-13,Drama;Comedy;Romance,2004
-5288,Night Shift,14742,R,Comedy,1982
 5289,Stand Up Guys,121824,R,Thriller;Comedy;Action,2012
 5290,Angela's Ashes,10397,R,Drama,1999
 5291,Maya the Bee: The Honey Games,499088,G,Comedy;Family;Animation;Adventure,2018
@@ -5323,12 +4884,10 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5321,The Perfect Find,561717,R,Romance;Comedy,2023
 5322,The Recruit,1647,PG-13,Action;Thriller,2003
 5323,The Wedding Planner,2018,PG-13,Comedy;Romance,2001
-5324,"Oh, God!",24032,PG,Fantasy;Comedy,1977
 5325,Pi,473,R,Mystery;Drama;Thriller,1998
 5326,Better Watch Out,406994,R,Comedy;Horror;Thriller,2017
 5327,Danny Collins,256924,R,Music;Comedy;Drama,2015
 5328,Little Manhattan,16553,PG,Comedy;Romance,2005
-5329,Silver Streak,11558,PG,Comedy;Crime;Romance;Thriller,1976
 5330,Justice League: Gods and Monsters,323027,PG-13,Action;Animation;Fantasy,2015
 5331,Night of the Demons,27646,R,Horror;Action;Comedy,2009
 5332,The Absence of Eden,639857,R,Drama;Romance,2024
@@ -5340,11 +4899,8 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5338,The Santa Clause 2,9021,G,Fantasy;Comedy;Family,2002
 5339,The Beguiled,399019,R,Drama,2017
 5340,In My Dreams,266353,PG,Romance;Drama;Fantasy;TV Movie,2015
-5341,Battlestar Galactica,148980,PG,Science Fiction;Adventure,1978
 5342,Endless Love,226857,PG-13,Drama;Romance,2014
 5343,Legally Blondes,16985,PG,Comedy,2009
-5344,The Boys from Brazil,16241,R,Drama;Mystery;Science Fiction,1978
-5345,Against All Odds,22160,R,Crime;Drama;Romance;Thriller,1984
 5346,The Ruins,11152,R,Horror,2008
 5347,Harriet the Spy,38223,PG,Comedy;Drama;Family,1996
 5348,The Nine Lives of Christmas,299576,G,TV Movie;Romance;Drama;Comedy,2014
@@ -5370,9 +4926,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5368,Lions for Lambs,4515,R,Action;Adventure;Drama;History,2007
 5369,Traffik,473149,R,Horror;Thriller,2018
 5370,Destination Wedding,489929,R,Romance;Comedy;Drama,2018
-5371,Pink Flamingos,692,NC-17,Comedy;Crime,1972
 5372,Old Dogs,22949,PG,Comedy;Family,2009
-5373,Watership Down,11837,PG,Adventure;Animation;Drama,1978
 5374,Senna,58496,PG-13,Documentary,2010
 5375,Arena,71254,R,Action;Thriller;Science Fiction,2011
 5376,Joe's Apartment,11962,PG-13,Comedy;Fantasy,1996
@@ -5384,23 +4938,17 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5382,Sommersby,1049,PG-13,Drama;Thriller;Mystery;Romance,1993
 5383,Thomas and the Magic Railroad,16110,G,Animation;Drama;Family,2000
 5384,13 Sins,155084,R,Horror;Thriller,2014
-5385,Hard Times,22094,PG,Drama;Action;Crime,1975
 5386,City of Lies,433501,R,Crime;Thriller;Drama,2018
 5387,From Beyond,14510,R,Horror;Science Fiction,1986
-5388,Caveman,18905,PG,Comedy;Adventure,1981
-5389,Earthquake,11123,PG,Action;Drama;Thriller,1974
 5390,The Last Summer,502292,PG-13,Romance;Comedy,2019
 5391,Bubble Boy,9683,PG-13,Comedy;Adventure;Romance,2001
 5392,First Knight,6520,PG-13,Action;Adventure;Drama;Romance,1995
 5393,Shakespeare in Love,1934,R,Romance;History;Comedy,1998
 5394,Night Train to Lisbon,160139,R,Mystery;Romance;Thriller,2013
-5395,The Four Musketeers,12310,PG,Action;Adventure;Comedy;Drama,1974
-5396,A Charlie Brown Thanksgiving,13479,G,Animation;Comedy;Family;TV Movie,1973
 5397,Barb & Star Go to Vista Del Mar,595813,PG-13,Comedy,2021
 5398,Only God Forgives,77987,R,Drama;Thriller;Crime,2013
 5399,Barb & Star Go to Vista Del Mar,595813,PG-13,Comedy,2021
 5400,Only God Forgives,77987,R,Drama;Thriller;Crime,2013
-5401,The Cowboys,15573,PG,Western;Adventure;Drama;Action,1972
 5402,Edge of Darkness,12201,R,Crime;Drama;Mystery;Thriller,2010
 5403,Race,323677,PG-13,Drama;History,2016
 5404,Are You Here,209244,R,Comedy,2013
@@ -5417,13 +4965,9 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5415,Dan in Real Life,7211,PG-13,Comedy;Romance;Drama,2007
 5416,Twitches Too,46169,PG,Drama;Family;Fantasy;TV Movie,2007
 5417,America's Sweethearts,11467,PG-13,Comedy;Romance,2001
-5418,Up in Smoke,11455,R,Comedy,1978
-5419,Nineteen Eighty-Four,9314,R,Drama;Science Fiction;Romance,1984
 5420,Bel Ami,86467,R,Romance;Drama,2012
-5421,Nineteen Eighty-Four,9314,R,Drama;Science Fiction;Romance,1984
 5422,Bel Ami,86467,R,Romance;Drama,2012
 5423,Keeping Up with the Joneses,331313,PG-13,Action;Comedy,2016
-5424,The Postman Always Rings Twice,11027,R,Crime;Romance;Drama;Thriller,1981
 5425,Blood Simple,11368,R,Crime;Drama;Thriller,1985
 5426,Sunrise,1216784,R,Horror;Thriller,2024
 5427,The Personal History of David Copperfield,520900,PG,Comedy,2019
@@ -5436,7 +4980,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5434,The American President,9087,PG-13,Comedy;Drama;Romance,1995
 5435,Transformers,1858,PG-13,Adventure;Science Fiction;Action,2007
 5436,The Greatest Night in Pop,1226841,PG-13,Documentary;Music,2024
-5437,Chato's Land,26119,PG,Western,1972
 5438,Thank You for Your Service,347629,R,Drama;War,2017
 5439,The Bling Ring,96936,R,Drama;Crime,2013
 5440,Short Circuit,2605,PG,Science Fiction;Comedy;Family,1986
@@ -5453,7 +4996,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5451,Green Lantern: Beware My Power,887357,PG-13,Animation;Action;Science Fiction;Fantasy,2022
 5452,Green Lantern: Beware My Power,887357,PG-13,Animation;Action;Science Fiction;Fantasy,2022
 5453,Dead Man,922,R,Drama;Fantasy;Western,1995
-5454,The Rocky Horror Picture Show,36685,R,Comedy;Science Fiction;Fantasy;Horror,1975
 5455,Snow Flower and the Secret Fan,58882,PG-13,Drama;History,2011
 5456,The Bad Batch,316154,R,Drama;Horror;Science Fiction,2017
 5457,Birth of the Dragon,408266,PG-13,Action;Drama,2017
@@ -5472,7 +5014,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5470,Killerman,492449,R,Action;Thriller,2019
 5471,Diary of the Dead,13025,R,Horror,2007
 5472,Stormbreaker,9978,PG,Adventure;Action;Family,2006
-5473,How the Grinch Stole Christmas!,13377,G,Animation;Family;Comedy,1966
 5474,Damsel,414018,R,Western;Drama;Comedy,2018
 5475,Company of Heroes,168676,R,Action;Drama;War,2013
 5476,New York Minute,11025,PG,Comedy,2004
@@ -5482,12 +5023,9 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5480,Mask,11177,PG-13,Drama,1985
 5481,The Case for Christ,424998,PG,Drama,2017
 5482,The Soloist,17332,PG-13,Drama;Music,2009
-5483,Dracula,33521,R,Horror;Romance,1979
 5484,CBGB,111479,R,Drama;Music,2013
-5485,A Countess from Hong Kong,2984,G,Comedy;Romance,1967
 5486,The Girl Who Escaped: The Kara Robinson Story,1075334,PG-13,Thriller;Drama;Crime;TV Movie,2023
 5487,The To Do List,129139,R,Comedy;Romance,2013
-5488,The Lion in Winter,18988,PG,Drama;History,1968
 5489,D-Tox,10375,R,Thriller;Crime,2002
 5490,The Reef,49787,R,Drama;Horror;Thriller,2010
 5491,Voice from the Stone,301372,R,Mystery;Thriller;Drama;Romance,2017
@@ -5512,22 +5050,18 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5510,Waves,533444,R,Romance;Drama,2019
 5511,The Rhythm Section,466622,R,Action;Thriller,2020
 5512,Skinwalkers,14219,R,Fantasy;Action;Horror,2006
-5513,Porky's II: The Next Day,19698,R,Comedy,1983
 5514,To Rome with Love,81836,R,Comedy;Romance;Drama,2012
 5515,That Awkward Moment,225565,R,Comedy;Romance,2014
 5516,Gringo,340022,R,Comedy;Action;Crime,2018
 5517,Gringo,340022,R,Comedy;Action;Crime,2018
-5518,Airport 1975,27932,PG,Drama;Thriller;Action,1974
 5519,100 Girls,10035,R,Comedy;Drama;Romance,2000
 5520,The Venture Bros.: Radiant Is the Blood of the Baboon Heart,828898,R,Animation;Action;Adventure;Science Fiction,2023
 5521,Silent Night,664574,R,Comedy;Science Fiction;Horror,2021
 5522,Bad Asses on the Bayou,309887,R,Comedy;Action,2015
 5523,Fever Pitch,11431,PG-13,Romance;Comedy,2005
 5524,Prospect,506072,R,Science Fiction,2018
-5525,The Cat from Outer Space,19378,G,Comedy;Family;Science Fiction,1978
 5526,Zoe,458005,R,Science Fiction;Romance;Thriller,2018
 5527,The Second Best Exotic Marigold Hotel,268238,PG,Drama;Comedy,2015
-5528,Walking Tall,25473,R,Action;Crime;Drama,1973
 5529,Mars Needs Moms,50321,PG,Adventure;Animation;Family,2011
 5530,976-EVIL,24038,R,Horror,1988
 5531,Gosford Park,5279,R,Drama;Mystery;Thriller,2001
@@ -5552,7 +5086,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5550,Wild Orchid,5203,R,Drama;Romance,1989
 5551,"No Retreat, No Surrender",12721,PG,Action,1986
 5552,Veronica Mars,177494,PG-13,Crime;Drama;Comedy,2014
-5553,Inspector Clouseau,11573,G,Comedy;Crime,1968
 5554,8MM,8224,R,Thriller;Crime;Mystery,1999
 5555,The Men Who Stare at Goats,10313,R,Comedy;War,2009
 5556,The Royal Hotel,944952,R,Drama;Thriller,2023
@@ -5564,18 +5097,14 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5562,Black Christmas,551808,PG-13,Horror;Mystery;Thriller,2019
 5563,The Cutting Edge: Going for the Gold,14872,PG-13,Romance;Drama,2006
 5564,Scenes of a Sexual Nature,18558,R,Comedy;Drama;Romance,2006
-5565,Outland,10540,R,Science Fiction;Action,1981
-5566,"Greystoke: The Legend of Tarzan, Lord of the Apes",11002,PG,Adventure;Drama;Action;Romance,1984
 5567,We Die Young,538207,R,Drama;Action;Crime;Thriller,2019
 5568,Georgia Rule,13159,R,Drama;Comedy;Romance,2007
-5569,Animal Farm,11848,G,Animation;Drama,1954
 5570,Doom: Annihilation,520901,R,Action;Science Fiction;Horror,2019
 5571,V/H/S: Viral,267806,R,Horror;Thriller,2014
 5572,Barbie in the Pink Shoes,168903,G,Animation;Family,2013
 5573,Jane Eyre,38684,PG-13,Drama;Romance,2011
 5574,Passengers,13944,PG-13,Drama;Mystery;Thriller;Romance,2008
 5575,The Little Guy,1010819,PG,Animation;Family;Comedy;Science Fiction,2022
-5576,Class of 1984,11564,R,Action;Crime;Drama;Thriller,1982
 5577,Black Eagle,18214,R,Action;Drama,1988
 5578,The Happytime Murders,412988,R,Action;Comedy;Crime,2018
 5579,We're Back! A Dinosaur's Story,18890,G,Animation;Science Fiction;Family,1993
@@ -5587,42 +5116,34 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5585,Moonshot,767825,PG-13,Comedy;Romance;Science Fiction,2022
 5586,Moonshot,767825,PG-13,Comedy;Romance;Science Fiction,2022
 5587,October Sky,13466,PG,Drama;Family,1999
-5588,The Philadelphia Experiment,10606,PG,Science Fiction;Adventure;Thriller,1984
 5589,Quarantine,13812,R,Horror;Science Fiction;Thriller,2008
 5590,40 Days and 40 Nights,2752,R,Comedy;Romance,2002
 5591,Open Water,83,R,Drama;Thriller;Horror,2003
-5592,Any Which Way You Can,17169,PG,Action;Adventure;Comedy,1980
 5593,Scooby-Doo! and the Monster of Mexico,21956,G,Animation;Comedy;Family;Mystery,2003
 5594,Jingle Jangle: A Christmas Journey,622855,PG,Family;Fantasy;Music,2020
 5595,Velvet Buzzsaw,463684,R,Thriller;Mystery;Horror,2019
 5596,Before the Devil Knows You're Dead,7972,R,Crime;Drama;Thriller,2007
-5597,The Driver,2153,R,Crime;Thriller;Action,1978
 5598,Falling for Christmas,833097,PG,Romance;Comedy;Family,2022
-5599,The Last Starfighter,11884,PG,Adventure;Science Fiction;Action,1984
 5600,Kindergarten Cop 2,383121,PG-13,Comedy,2016
 5601,You Again,38303,PG,Comedy;Romance,2010
 5602,Tides,760873,R,Science Fiction;Thriller,2021
 5603,Killers Anonymous,535265,R,Action;Thriller;Crime;Mystery,2019
 5604,Sasquatch Sunset,1015634,R,Fantasy;Comedy,2024
 5605,Sasquatch Sunset,1015634,R,Fantasy;Comedy,2024
-5606,Blackbeard's Ghost,16249,G,Comedy;Fantasy;Family,1968
 5607,Great White,534072,R,Horror;Thriller,2021
 5608,Fly Away Home,11076,PG,Adventure;Drama;Family,1996
 5609,Batman: Hush,537056,PG-13,Action;Animation;Crime;Mystery,2019
 5610,My Salinger Year,619594,R,Drama,2020
 5611,Rushmore,11545,R,Comedy;Drama,1998
-5612,A Christmas Carol,13189,PG,Drama;Fantasy;TV Movie;Family,1984
 5613,Little Dixie,1058949,R,Action;Crime;Thriller;Drama,2023
 5614,Tesla,517412,PG-13,History;Drama,2020
 5615,Tesla,517412,PG-13,History;Drama,2020
 5616,Cooties,241843,R,Comedy;Horror,2014
 5617,The Price We Pay,996727,R,Action;Thriller;Mystery;Crime;Horror,2023
 5618,The Paperboy,82390,R,Thriller;Drama;Mystery,2012
-5619,Elvis,40047,PG,Drama;Music;TV Movie,1979
 5620,Journey's End,438259,R,War;Drama;Action,2017
 5621,Dr. Dolittle 3,18843,PG,Comedy;Family;Fantasy,2006
 5622,Fortress,12088,R,Action;Thriller;Science Fiction,1992
-5623,Futureworld,10640,PG,Action;Adventure;Science Fiction;Thriller,1976
 5624,Pig,635731,R,Drama;Thriller,2021
 5625,Grizzly Man,501,R,Documentary,2005
 5626,Green Lantern: Emerald Knights,65291,PG,Action;Adventure;Animation;Science Fiction;Drama,2011
@@ -5640,17 +5161,13 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5638,Phantom,152259,R,Thriller,2013
 5639,Capone,429422,R,Crime;Drama,2020
 5640,Casanova,9681,R,Adventure;Comedy;Drama;Romance,2005
-5641,All About Eve,705,PG,Drama,1950
 5642,Maybe I Do,972230,PG-13,Comedy;Romance;Drama,2023
-5643,Herbie Rides Again,10869,G,Romance;Comedy;Family;Fantasy,1974
 5644,Timecop,8831,R,Thriller;Science Fiction;Action;Crime,1994
-5645,Southern Comfort,12528,R,Action;Thriller,1981
 5646,A Merry Friggin' Christmas,286532,PG-13,Comedy,2014
 5647,Trespass,22004,R,Action;Thriller;Crime,1992
 5648,Midnight in the Garden of Good and Evil,8197,R,Mystery;Crime;Drama,1997
 5649,Nancy Drew and the Hidden Staircase,519473,PG,Crime;Family;Mystery,2019
 5650,Jay and Silent Bob Reboot,440762,R,Comedy,2019
-5651,My Bloody Valentine,39874,R,Horror;Thriller;Mystery,1981
 5652,Masterminds,213681,PG-13,Action;Comedy;Crime,2016
 5653,David Attenborough: A Life on Our Planet,664280,PG,Documentary;Drama,2020
 5654,Yogi Bear,41515,PG,Comedy;Family;Animation;Adventure,2010
@@ -5666,9 +5183,7 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5664,The Sisterhood of the Traveling Pants 2,10188,PG-13,Adventure;Comedy;Drama,2008
 5665,The Lie,539649,R,Mystery;Thriller;Horror,2018
 5666,Labor Day,130150,PG-13,Drama;Romance;Thriller,2013
-5667,The Cassandra Crossing,32037,R,Action;Thriller,1976
 5668,Compliance,84188,R,Drama;Thriller,2012
-5669,Scanners,9538,R,Science Fiction;Horror,1981
 5670,The Laundromat,517909,R,Drama;Crime;Comedy,2019
 5671,Serena,164251,R,Drama,2014
 5672,The Brave One,4413,R,Crime;Drama;Thriller,2007
@@ -5678,7 +5193,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5676,Someone Like You,1029330,PG,Drama;Romance,2024
 5677,Ingrid Goes West,411741,R,Comedy;Drama,2017
 5678,Leprechaun 4: In Space,19287,R,Comedy;Fantasy;Horror;Science Fiction,1996
-5679,Nighthawks,21610,R,Action;Crime;Thriller,1981
 5680,Spencer,716612,R,Drama;History,2021
 5681,Chick Fight,682377,R,Action;Comedy,2020
 5682,A Stork's Journey,378111,PG,Family;Fantasy;Adventure;Animation;Comedy,2017
@@ -5690,7 +5204,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5688,Arizona Dream,11044,R,Fantasy;Comedy;Drama;Romance,1993
 5689,Lost Girls & Love Hotels,479259,R,Drama,2020
 5690,Seven Psychopaths,86838,R,Comedy;Crime,2012
-5691,Evilspeak,39868,R,Horror;Science Fiction,1981
 5692,Knick Knack,13928,G,Animation;Family;Comedy,1989
 5693,3 Ninjas: High Noon at Mega Mountain,32302,PG,Family;Action;Comedy,1998
 5694,Deck the Halls,9969,PG,Comedy;Family,2006
@@ -5714,7 +5227,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5712,Stone,44113,R,Drama;Thriller,2010
 5713,The Silence of the Lambs,274,R,Crime;Drama;Thriller,1991
 5714,Freeheld,306745,PG-13,Romance;Drama,2015
-5715,The Comancheros,30462,PG,Western;Action,1961
 5716,Dead Calm,10493,R,Thriller;Horror,1989
 5717,Cassandro,729120,R,Drama,2023
 5718,The Choice,330483,PG-13,Drama;Romance,2016
@@ -5728,8 +5240,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5726,LEGO Star Wars Terrifying Tales,857702,G,Animation;Family;Science Fiction;Comedy;TV Movie,2021
 5727,Occupation: Rainfall,688258,R,Science Fiction;Action,2020
 5728,Fair Game,11859,R,Action,1995
-5729,The Year of Living Dangerously,11541,PG,Romance;Drama,1982
-5730,Piranha II: The Spawning,31646,R,Horror,1982
 5731,Lorenzo's Oil,2007,PG-13,Drama,1992
 5732,Repo Men,31867,R,Action;Science Fiction;Thriller;Crime,2010
 5733,Speak,15058,PG-13,Drama,2004
@@ -5749,7 +5259,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5747,The Conspirator,60309,PG-13,Crime;Drama;History,2011
 5748,Disturbing Behavior,9424,R,Mystery;Horror;Science Fiction,1998
 5749,Metro,8860,R,Action;Adventure;Comedy;Crime;Thriller,1997
-5750,Don't Look Now,931,R,Thriller;Drama;Horror,1973
 5751,Promised Land,133694,R,Drama,2012
 5752,Best of the Best,238751,PG-13,Action,1989
 5753,The Farewell,565310,PG,Comedy;Drama,2019
@@ -5762,14 +5271,11 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5760,Jennifer Eight,10424,R,Crime;Drama;Mystery;Thriller,1992
 5761,Imagine That,19724,PG,Family;Comedy;Drama,2009
 5762,Unfriended,277685,R,Horror;Mystery;Thriller,2014
-5763,Joe Kidd,14881,PG,Western,1972
-5764,Somewhere in Time,16633,PG,Drama;Fantasy;Romance,1980
 5765,A Hidden Life,403300,PG-13,Drama;War;History,2019
 5766,A Hidden Life,403300,PG-13,Drama;War;History,2019
 5767,Jessabelle,203834,PG-13,Thriller;Horror,2014
 5768,Afternoon Delight,156708,R,Comedy;Drama,2013
 5769,The Assistant,627463,R,Drama,2020
-5770,Shoot Out,79735,PG,Western,1971
 5771,The Exception,339987,R,War;Drama,2017
 5772,Save the Last Dance,9816,PG-13,Drama;Family;Romance;Music,2001
 5773,The Fisher King,177,R,Comedy;Drama,1991
@@ -5803,19 +5309,14 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5801,The Indian in the Cupboard,11359,PG,Adventure;Family;Fantasy,1995
 5802,Death Race 2050,401544,R,Action;Comedy;Science Fiction,2017
 5803,Hillbilly Elegy,592984,R,Drama,2020
-5804,Taste the Blood of Dracula,29748,R,Horror,1970
 5805,Beyond a Reasonable Doubt,25137,PG-13,Thriller,2009
 5806,Black '47,438145,R,Drama;Western,2018
 5807,The Hunter's Prayer,302150,R,Action;Thriller,2017
 5808,Bullets Over Broadway,11382,R,Comedy;Crime,1994
-5809,The 300 Spartans,19972,PG,History;War;Adventure,1962
 5810,Bullets Over Broadway,11382,R,Comedy;Crime,1994
-5811,The 300 Spartans,19972,PG,History;War;Adventure,1962
 5812,Wild Mountain Thyme,628333,PG-13,Romance;Drama,2020
 5813,The Sitter,57431,R,Comedy,2011
-5814,Gorky Park,8289,R,Thriller;Crime;Drama;Mystery,1983
 5815,Poison Ivy: The New Seduction,18222,R,Thriller;Romance;Drama,1997
-5816,Paradise Alley,23916,PG,Action;Drama,1978
 5817,Tunnel Rats,20181,R,Action;Drama;War,2008
 5818,Hart's War,10592,R,Drama;War,2002
 5819,Paycheck,9620,PG-13,Action;Adventure;Mystery;Science Fiction;Thriller,2003
@@ -5826,7 +5327,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5824,Conspiracy Theory,8834,R,Action;Drama;Mystery;Thriller,1997
 5825,Bugsy,10337,R,Crime;Drama;Mystery,1991
 5826,S1m0ne,9296,PG-13,Science Fiction;Comedy;Drama;Fantasy;Romance,2002
-5827,Fun and Fancy Free,46929,G,Animation;Music,1947
 5828,Tequila Sunrise,10396,R,Thriller;Crime;Romance,1988
 5829,Riding in Cars with Boys,11091,PG-13,Comedy;Drama;Romance,2001
 5830,Apt Pupil,9445,R,Drama;Thriller,1998
@@ -5838,7 +5338,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5836,The Killer Inside Me,37414,R,Crime;Drama;Thriller,2010
 5837,The Box,22825,PG-13,Thriller;Science Fiction,2009
 5838,Barefoot,242042,PG-13,Comedy;Drama;Romance,2014
-5839,Taps,10627,PG,War;Drama,1981
 5840,The Marine 3: Homefront,171581,R,Action,2013
 5841,Club Dread,11217,R,Comedy;Horror,2004
 5842,Beasts of No Nation,283587,R,Drama;War,2015
@@ -5846,7 +5345,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5844,Becoming Jane,2977,PG,Romance;Drama,2007
 5845,The Rage: Carrie 2,7341,R,Horror;Thriller;Science Fiction,1999
 5846,Brain on Fire,340027,PG-13,Drama,2017
-5847,The Magnificent Seven Ride!,43417,PG,Western,1972
 5848,A Princess for Christmas,79113,PG,Comedy;Family;TV Movie;Romance;Drama,2011
 5849,Don't Let Go,539651,R,Science Fiction;Thriller;Mystery;Horror,2019
 5850,BURN·E,13413,G,Animation;Family;Comedy;Science Fiction,2008
@@ -5869,7 +5367,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5867,Explorers,9872,PG,Family;Science Fiction;Fantasy,1985
 5868,Benny & Joon,4104,PG,Comedy;Drama,1993
 5869,Cracks,35052,R,Drama;Mystery;Thriller,2009
-5870,Fame,3537,R,Drama;Music,1980
 5871,Michael,2928,PG,Comedy;Drama;Fantasy,1996
 5872,Madhouse,17209,R,Horror;Thriller,2004
 5873,Jesse Stone: Lost in Paradise,361263,PG-13,Drama;TV Movie;Crime;Mystery,2015
@@ -5881,7 +5378,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5879,Pump Up the Volume,8428,R,Music;Drama,1990
 5880,The Trust,301608,R,Thriller;Drama;Crime,2016
 5881,Monster High: Welcome to Monster High,413736,PG,Animation;Family,2016
-5882,Women in Love,66027,R,Drama;Romance,1969
 5883,Arlington Road,1073,R,Crime;Drama;Thriller;Mystery,1999
 5884,Switch,10261,R,Fantasy;Comedy,1991
 5885,I'm in Love with a Church Girl,207883,PG,Drama;Romance,2013
@@ -5903,14 +5399,12 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5901,Devil's Due,79316,R,Horror,2014
 5902,The Double,73499,PG-13,Action;Drama;Crime,2011
 5903,So I Married an Axe Murderer,10442,PG-13,Comedy;Crime;Romance,1993
-5904,Scars of Dracula,34479,R,Horror,1970
 5905,Color Out of Space,548473,R,Horror;Science Fiction;Mystery;Thriller,2019
 5906,Hamlet,10549,PG-13,Drama,1996
 5907,The Glimmer Man,9625,R,Action;Crime,1996
 5908,The Son,806368,PG-13,Drama,2022
 5909,The Gunman,266396,R,Action;Drama;Crime,2015
 5910,Vampire's Kiss,7091,R,Comedy;Horror,1988
-5911,The First Great Train Robbery,11583,PG,Thriller;Adventure;Drama;Crime,1978
 5912,Final Analysis,4823,R,Drama;Thriller;Romance,1992
 5913,Romeo & Juliet,91745,PG-13,Romance;Drama,2013
 5914,Max Keeble's Big Move,34549,G,Comedy;Family,2001
@@ -5918,13 +5412,10 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5916,Prime,2313,PG-13,Comedy;Drama;Romance,2005
 5917,Ned Kelly,10544,R,Action;Adventure;Drama;History,2003
 5918,You May Not Kiss the Bride,73500,PG-13,Action;Crime;Comedy;Romance,2011
-5919,The Long Riders,14729,R,Western;Action,1980
 5920,Exorcist: The Beginning,11026,R,Horror;Mystery;Thriller,2004
-5921,Catch-22,10364,R,War;Comedy,1970
 5922,Set It Up,384677,R,Romance;Comedy,2018
 5923,Eraser: Reborn,923597,R,Action;Crime;Thriller,2022
 5924,Ravenous,10212,R,Adventure;Horror;Western;Comedy,1999
-5925,All of Me,10631,PG,Comedy;Fantasy;Romance,1984
 5926,Rust Creek,561362,R,Thriller;Drama;Action;Crime,2019
 5927,Suffragette,245168,PG-13,Drama;History,2015
 5928,Nobody's Fool,11593,R,Drama;Comedy,1994
@@ -5946,26 +5437,20 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5944,The Prince of Tides,10333,R,Drama;Romance,1991
 5945,The Interpreter,179,PG-13,Crime;Thriller,2005
 5946,Celebrity,9466,R,Drama;Comedy,1998
-5947,Becket,15421,PG-13,Drama;History,1964
 5948,In the Electric Mist,13975,R,Thriller;Drama;Crime;Mystery,2009
 5949,Knockaround Guys,7501,R,Crime;Thriller,2001
-5950,Seven Brides for Seven Brothers,16563,G,Comedy;Drama;Western,1954
 5951,Ripley's Game,10955,R,Crime;Thriller,2002
-5952,Becket,15421,PG-13,Drama;History,1964
 5953,In the Electric Mist,13975,R,Thriller;Drama;Crime;Mystery,2009
 5954,Knockaround Guys,7501,R,Crime;Thriller,2001
-5955,Seven Brides for Seven Brothers,16563,G,Comedy;Drama;Western,1954
 5956,Ripley's Game,10955,R,Crime;Thriller,2002
 5957,Blood Work,9573,R,Thriller;Crime;Action;Mystery,2002
 5958,"Batman: The Long Halloween, Part One",736073,PG-13,Animation;Mystery;Action;Crime,2021
-5959,The Man Who Knew Too Much,574,PG,Thriller;Mystery,1956
 5960,The Single Moms Club,239562,PG-13,Drama;Comedy,2014
 5961,Encounter,728526,R,Science Fiction;Mystery;Thriller;Drama,2021
 5962,The Secret Life of Pets,328111,PG,Adventure;Comedy;Animation;Family,2016
 5963,Serial Mom,11592,R,Comedy;Crime,1994
 5964,Serial Mom,11592,R,Comedy;Crime,1994
 5965,Reality Bites,2788,PG-13,Drama;Romance,1994
-5966,THX 1138,636,PG,Science Fiction;Action;Drama,1971
 5967,Batman: Year One,69735,PG-13,Action;Animation;Crime,2011
 5968,About Schmidt,2755,R,Drama;Comedy,2002
 5969,High Fidelity,243,R,Drama;Comedy;Romance;Music,2000
@@ -5985,7 +5470,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5983,Stomp the Yard,1931,PG-13,Drama;Music,2007
 5984,The Hummingbird Project,489243,R,Thriller;Drama,2019
 5985,Battle of the Sexes,369192,PG-13,Drama;Comedy;History,2017
-5986,Harold and Maude,343,PG,Comedy;Drama;Romance,1971
 5987,7 Seconds,9721,R,Action;Crime;Thriller,2005
 5988,Ransom,3595,R,Action;Thriller,1996
 5989,Baby Boy,16161,R,Crime;Drama;Romance;Thriller,2001
@@ -6001,7 +5485,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 5999,Striking Distance,11074,R,Crime;Action;Mystery;Thriller,1993
 6000,Sudden Death,9091,R,Action;Drama,1995
 6001,The Simpsons Meet the Bocellis in Feliz Navidad,1058732,PG,Animation;Family;Comedy,2022
-6002,Electric Dreams,19596,PG,Comedy;Science Fiction;Music,1984
 6003,First Kill,410554,R,Action;Thriller;Crime,2017
 6004,Downfall: The Case Against Boeing,913862,R,Documentary,2022
 6005,The Package,503619,R,Comedy,2018
@@ -6009,9 +5492,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6007,Show Dogs,425148,PG,Adventure;Crime;Family;Comedy,2018
 6008,Better Off Dead...,13667,PG-13,Comedy;Romance,1985
 6009,A Boy Called Christmas,615666,PG,Family;Adventure;Fantasy,2021
-6010,Fantastic Voyage,2161,PG,Science Fiction;Adventure,1966
-6011,"Alice, Sweet Alice",23761,R,Horror;Mystery,1976
-6012,A Star Is Born,3111,PG,Drama;Music;Romance,1954
 6013,Bad Girls,11853,R,Romance;Western,1994
 6014,"No Retreat, No Surrender 3: Blood Brothers",36884,R,Action,1990
 6015,Paint,821890,PG-13,Comedy;Drama;Romance,2023
@@ -6034,7 +5514,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6032,Chevalier,812635,PG-13,Music;Drama;History,2023
 6033,L.A. Story,2107,PG-13,Comedy;Fantasy;Romance,1991
 6034,Malum,1094403,R,Horror,2023
-6035,Hercules in New York,5227,G,Comedy;Adventure;Fantasy,1970
 6036,The International,4959,R,Action;Thriller;Drama;Crime,2009
 6037,Rock-A-Doodle,20421,G,Comedy;Family;Animation;Fantasy;Music,1991
 6038,Son of Batman,251519,PG-13,Animation;Action;Adventure,2014
@@ -6047,17 +5526,11 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6045,Casper: A Spirited Beginning,39346,PG,Adventure;Family;Comedy;Fantasy,1997
 6046,Casper: A Spirited Beginning,39346,PG,Adventure;Family;Comedy;Fantasy,1997
 6047,WarHunt,697799,R,Action;Horror;Thriller;War;Fantasy,2022
-6048,The Burning,24124,R,Horror,1981
-6049,Herbie Goes Bananas,12129,G,Fantasy;Comedy;Family;Adventure,1980
 6050,Winter's Bone,39013,R,Drama;Mystery,2010
-6051,Stir Crazy,21629,R,Comedy,1980
-6052,Places in the Heart,13681,PG,Drama,1984
 6053,Mara,514277,R,Crime;Horror;Thriller,2018
 6054,The Secrets We Keep,615115,R,Thriller;History;Drama,2020
 6055,About a Boy,245,PG-13,Drama;Comedy;Romance,2002
-6056,Big Wednesday,18387,PG,Drama;Comedy,1978
 6057,Wild Things: Diamonds in the Rough,17124,R,Crime;Drama;Mystery,2005
-6058,Big Wednesday,18387,PG,Drama;Comedy,1978
 6059,Wild Things: Diamonds in the Rough,17124,R,Crime;Drama;Mystery,2005
 6060,Great Expectations,121674,PG-13,Drama;Romance,2012
 6061,Inconceivable,433630,R,Crime;Drama;Thriller,2017
@@ -6065,12 +5538,10 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6063,The Big Hit,9448,R,Action;Adventure;Comedy;Thriller;Crime;Drama,1998
 6064,The Cider House Rules,1715,PG-13,Drama,1999
 6065,A Bigger Splash,324807,R,Drama;Thriller;Romance,2015
-6066,Alligator,33518,R,Horror;Science Fiction;Thriller,1980
 6067,Horsemen,18476,R,Crime;Drama;Horror;Mystery;Thriller,2009
 6068,28 Days,10468,PG-13,Comedy;Drama,2000
 6069,The 51st State,1613,R,Thriller;Action;Comedy;Crime,2001
 6070,The Weather Man,6963,R,Comedy;Drama,2005
-6071,In Cold Blood,18900,R,Crime;Drama,1967
 6072,Goon: Last of the Enforcers,336890,R,Comedy,2017
 6073,F/X,9873,R,Action;Thriller,1986
 6074,Unfriend,368031,R,Horror;Thriller,2016
@@ -6088,11 +5559,9 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6086,Morgan,377264,R,Horror;Science Fiction;Thriller,2016
 6087,Nine Months,11472,PG-13,Romance;Comedy,1995
 6088,Apostle,424121,R,Horror;Mystery;Thriller;Drama,2018
-6089,C.H.U.D.,23730,R,Horror;Science Fiction,1984
 6090,Firebreather,50337,PG,Fantasy;Animation;Action;Thriller;Family,2010
 6091,Felon,13012,R,Crime;Drama;Thriller,2008
 6092,Apostle,424121,R,Horror;Mystery;Thriller;Drama,2018
-6093,C.H.U.D.,23730,R,Horror;Science Fiction,1984
 6094,Firebreather,50337,PG,Fantasy;Animation;Action;Thriller;Family,2010
 6095,Felon,13012,R,Crime;Drama;Thriller,2008
 6096,Leprechaun in the Hood,18011,R,Horror;Comedy,2000
@@ -6101,29 +5570,23 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6099,Lake Placid 3,44037,R,Horror;Action;Science Fiction;Thriller,2010
 6100,Waking Life,9081,R,Animation;Drama;Fantasy,2001
 6101,The Forger,255157,R,Thriller;Crime;Drama,2014
-6102,Tarzan the Ape Man,26325,R,Action;Adventure;Comedy,1981
 6103,The Seeker: The Dark Is Rising,2274,PG,Adventure;Drama;Fantasy;Family;Thriller,2007
 6104,Wimbledon,11823,PG-13,Comedy;Romance,2004
 6105,Pitch Black,2787,R,Thriller;Science Fiction;Action,2000
 6106,Spy Game,1535,R,Action;Crime;Thriller,2001
 6107,Agent Cody Banks,10923,PG,Action;Adventure;Comedy;Family,2003
-6108,Paper Moon,11293,PG,Comedy;Crime;Drama,1973
 6109,Fair Game,38363,PG-13,Drama;Thriller,2010
 6110,The Hills Run Red,24001,R,Horror;Thriller,2009
 6111,Teen Beach Movie,177888,PG,Family;Music;TV Movie;Comedy,2013
 6112,The Boss,323676,R,Comedy,2016
 6113,Stuck on You,1792,PG-13,Comedy,2003
-6114,Cape Fear,11349,PG,Thriller,1962
 6115,The Good Liar,511322,R,Crime,2019
 6116,Red Scorpion,12663,R,Adventure;Action;War,1988
 6117,Midnight Run,9013,R,Action;Comedy;Crime,1988
 6118,My Little Pony: Equestria Girls - Rainbow Rocks,292177,G,Family;Animation;Music,2014
 6119,Jackass Presents: Bad Grandpa .5,273641,PG-13,Comedy,2014
-6120,The Hills Have Eyes,12262,R,Horror;Thriller,1977
 6121,Father Figures,354861,R,Comedy,2017
 6122,The Pact,111440,R,Horror;Mystery;Thriller,2012
-6123,The Concrete Jungle,39457,R,Crime;Drama,1982
-6124,The Concrete Jungle,39457,R,Crime;Drama,1982
 6125,Debt Collectors,647785,R,Action;Comedy;Crime,2020
 6126,Pawn Sacrifice,245698,PG-13,Thriller;Drama,2015
 6127,View from the Top,11523,PG-13,Comedy;Romance;Drama,2003
@@ -6149,7 +5612,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6147,Kite,192712,R,Drama;Action,2014
 6148,Out of Death,774714,R,Action;Thriller;Crime,2021
 6149,Hedwig and the Angry Inch,13403,R,Comedy;Music;Drama,2001
-6150,The Getaway,5916,PG,Action;Crime;Thriller,1972
 6151,The Brave Little Toaster,19933,G,Animation;Adventure;Family;Fantasy,1987
 6152,The Russia House,10170,R,Drama;Thriller;Romance,1990
 6153,Batman: Gotham by Gaslight,471474,R,Thriller;Action;Animation;Science Fiction,2018
@@ -6168,7 +5630,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6166,Haunt,517116,R,Horror;Thriller,2019
 6167,Adulterers,376004,R,Thriller;Crime;Drama,2016
 6168,The Pirates! In an Adventure with Scientists!,72197,PG,Animation;Adventure;Family;Comedy,2012
-6169,Blame It on Rio,14347,R,Comedy;Romance,1984
 6170,American Animals,489931,R,Drama;Crime;Documentary,2018
 6171,Psycho IV: The Beginning,40377,R,Horror;Thriller;TV Movie,1990
 6172,When a Man Loves a Woman,10449,R,Drama;Romance,1994
@@ -6179,7 +5640,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6177,Welcome Home,525460,R,Thriller;Horror,2018
 6178,Dangerous,763788,R,Action;Thriller,2021
 6179,A Most Wanted Man,157849,R,Thriller,2014
-6180,Cat People,6217,R,Thriller;Horror,1982
 6181,Sorry to Bother You,424781,R,Fantasy;Science Fiction;Comedy,2018
 6182,The Ron Clark Story,25527,PG,TV Movie;Drama,2006
 6183,Vacancy,10294,R,Horror;Thriller,2007
@@ -6188,18 +5648,14 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6186,"Tomorrow, When the War Began",43930,R,Action;Adventure;Drama,2010
 6187,Shine,7863,PG-13,Drama,1996
 6188,Ploey: You Never Fly Alone,506596,G,Animation;Family,2018
-6189,Slap Shot,11590,R,Comedy;Drama,1977
 6190,Baby Boom,11215,PG,Drama;Comedy;Romance,1987
 6191,Point Blank,531503,R,Action;Thriller,2019
 6192,Mark Felt: The Man Who Brought Down the White House,390061,PG-13,Drama;History;Thriller,2017
-6193,Meatballs,14035,PG,Comedy,1979
 6194,Jesus Revolution,719256,PG-13,Drama;History,2023
-6195,Used Cars,14475,R,Comedy,1980
 6196,Dolphin Tale 2,227735,PG,Family;Drama,2014
 6197,North Country,9701,R,Drama,2005
 6198,The Princess Switch 3: Romancing the Star,785533,PG,Romance;Comedy,2021
 6199,The Man in the Moon,17474,PG-13,Drama;Family;Romance,1991
-6200,The Brides of Dracula,23220,PG,Horror,1960
 6201,Bomb City,396774,R,Drama;Crime,2017
 6202,Another 9 1/2 Weeks,18167,R,Drama;Romance,1997
 6203,The Patriot,6058,R,Action;Thriller,1998
@@ -6212,26 +5668,19 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6210,Critters 2,10127,PG-13,Comedy;Horror;Science Fiction,1988
 6211,St. Elmo's Fire,11557,R,Drama;Romance;Comedy,1985
 6212,Quartet,121826,PG-13,Drama;Comedy;Romance,2012
-6213,Lion of the Desert,26843,PG,History;War;Drama,1981
-6214,The Verdict,24226,R,Drama,1982
-6215,The Devils,31767,R,Drama;History,1971
 6216,Tea with Mussolini,10368,PG,Comedy;Drama;War,1999
 6217,Tea with Mussolini,10368,PG,Comedy;Drama;War,1999
 6218,The Monster,340103,R,Horror;Drama,2016
 6219,Here Today,711475,PG-13,Comedy;Drama,2021
-6220,The Star Wars Holiday Special,74849,PG,Fantasy;Science Fiction;Family;TV Movie,1978
 6221,Charlie St. Cloud,37950,PG-13,Drama;Romance,2010
 6222,Three Fugitives,31608,PG-13,Comedy;Crime,1989
 6223,Million Dollar Arm,198185,PG,Drama,2014
 6224,Return of the Living Dead Part II,24929,R,Horror;Comedy,1988
 6225,Singles,11068,PG-13,Comedy;Drama;Romance,1992
 6226,Elizabeth,4518,R,Drama;History,1998
-6227,The Green Berets,22377,G,War;Drama,1968
 6228,Lifted,13060,G,Family;Animation;Science Fiction;Comedy,2006
 6229,The Hours,590,PG-13,Drama,2002
 6230,Toy Soldiers,10750,R,Action;Adventure;Thriller,1991
-6231,Thunderbolt and Lightfoot,8348,R,Crime;Comedy;Action;Drama,1974
-6232,Battle of Britain,11463,G,War;History;Action,1969
 6233,Did You Hear About the Morgans?,24438,PG-13,Comedy;Drama;Romance,2009
 6234,Women in Trouble,31723,R,Comedy;Drama,2009
 6235,But I'm a Cheerleader,20770,R,Comedy;Romance,2000
@@ -6247,13 +5696,10 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6245,Table 19,353569,PG-13,Comedy;Drama,2017
 6246,The Domestics,426814,R,Thriller;Horror,2018
 6247,The Hard Way,11384,R,Action;Comedy;Crime,1991
-6248,The Beguiled,31906,R,Thriller;Drama;War,1971
-6249,Staying Alive,10805,PG,Drama;Music,1983
 6250,The Nightingale,400090,R,Drama;Thriller,2018
 6251,The Man with the Iron Fists,97430,R,Action,2012
 6252,Reprisal,531593,R,Action;Thriller;Crime,2018
 6253,Reservation Road,8954,R,Drama;Crime;Thriller,2007
-6254,"The Looney, Looney, Looney Bugs Bunny Movie",41394,G,Animation;Comedy;Family,1981
 6255,Crazy Heart,25196,R,Drama;Music;Romance,2009
 6256,Waiting to Exhale,31357,R,Comedy;Drama;Romance,1995
 6257,Lost and Delirious,17612,R,Drama;Romance,2001
@@ -6274,7 +5720,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6272,All I See Is You,345923,R,Mystery;Thriller;Drama,2017
 6273,Rudderless,244403,R,Music;Drama;Comedy,2014
 6274,Tom and Jerry Blast Off to Mars!,21078,G,Animation;Family,2005
-6275,Revenge of the Nerds,14052,R,Comedy,1984
 6276,The Foreigner,18248,R,Action;Thriller,2003
 6277,2001: A Space Travesty,7290,R,Comedy;Science Fiction;Action,2000
 6278,The Good Lie,250538,PG-13,Drama,2014
@@ -6285,12 +5730,9 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6283,The Naughty Nine,936059,G,Family;Adventure;Comedy;TV Movie;Crime,2023
 6284,City Slickers,1406,PG-13,Comedy;Western,1991
 6285,Luckiest Girl Alive,799546,R,Drama;Thriller;Mystery,2022
-6286,The Little Prince,37627,G,Science Fiction;Fantasy;Family;Music,1974
 6287,Family Business,10551,R,Crime;Drama;Comedy,1989
 6288,The Trials of Cate McCall,253279,R,Drama,2013
-6289,Bring Me the Head of Alfredo Garcia,11942,R,Action;Crime;Drama,1974
 6290,The Perfect Game,56601,PG,Drama;Family,2009
-6291,Frosty the Snowman,13675,G,Family;Animation;TV Movie,1969
 6292,Two Night Stand,286554,R,Romance;Comedy,2014
 6293,My Week with Marilyn,75900,PG-13,Drama;Romance,2011
 6294,Below,12590,R,Thriller;Horror;Mystery,2002
@@ -6308,7 +5750,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6306,The Zero Theorem,157834,R,Drama;Fantasy;Science Fiction,2013
 6307,A Perfect Pairing,934761,PG,Comedy;Romance,2022
 6308,Blood Ties,190955,R,Thriller;Crime;Drama,2013
-6309,Dead Men Don't Wear Plaid,9442,PG,Comedy;Mystery;Crime,1982
 6310,The Healer,340270,PG,Family;Drama;Comedy,2017
 6311,The Squid and the Whale,10707,R,Comedy;Drama,2005
 6312,Iron Man & Captain America: Heroes United,284274,PG,Adventure;Animation;Action,2014
@@ -6318,8 +5759,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6316,Shopgirl,2610,R,Comedy;Drama;Romance,2005
 6317,Slayers,888097,R,Horror;Comedy;Fantasy,2022
 6318,Bulletproof,10723,R,Comedy;Crime;Action,1996
-6319,Le locataire,11482,R,Thriller;Horror;Mystery,1976
-6320,The Cotton Club,2148,R,Crime;Drama,1984
 6321,Dirty Dancing: Havana Nights,10677,PG-13,Romance;Drama,2004
 6322,Anne of Green Gables,17663,PG,Family;Drama,1985
 6323,Saint Maud,575776,R,Horror;Mystery;Drama,2020
@@ -6335,7 +5774,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6333,Intersection,46717,R,Drama;Romance,1994
 6334,Consenting Adults,37753,R,Thriller;Drama,1992
 6335,Private Resort,17824,R,Comedy,1985
-6336,Time After Time,24750,PG,Adventure;Drama;Comedy;Science Fiction;Thriller,1979
 6337,Batman: Death in the Family,618353,R,Animation;Action,2020
 6338,The Adventurer: The Curse of the Midas Box,227707,PG,Fantasy;Adventure;Family,2013
 6339,Kinsey,11184,R,Drama,2004
@@ -6348,7 +5786,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6346,Don't Knock Twice,420245,R,Horror,2016
 6347,The Muppet Christmas Carol,10437,G,Music;Comedy;Family;Fantasy;Drama,1992
 6348,Dreamland,480434,R,Drama;Thriller,2019
-6349,The White Buffalo,47914,PG,Western;Adventure;Action,1977
 6350,Honey 3: Dare to Dance,412519,PG-13,Music;Drama;Family;Romance,2016
 6351,The Crush,33408,R,Drama;Thriller,1993
 6352,Honey 3: Dare to Dance,412519,PG-13,Music;Drama;Family;Romance,2016
@@ -6356,7 +5793,6 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6354,Columbus,414453,PG-13,Drama,2017
 6355,7500,509585,R,Drama;Thriller;Action,2019
 6356,Mr. Magoo,9438,PG,Comedy;Family,1997
-6357,Picnic at Hanging Rock,11020,PG,Drama;Mystery,1975
 6358,Angel of Mine,515741,R,Drama;Thriller;Mystery,2019
 6359,Persuasion,17015,PG,Drama;Romance,1995
 6360,Arthur & Merlin: Knights of Camelot,635237,R,Adventure;History;Action,2020
@@ -6397,13 +5833,9 @@ Unnamed: 0,Title,id,rating,genres,Release year
 6395,A Little Princess,19101,G,Drama;Family;Fantasy,1995
 6396,Grosse Pointe Blank,9434,R,Action;Comedy;Thriller;Romance,1997
 6397,X-Rated 2: The Greatest Adult Stars of All-Time,427719,R,Documentary,2016
-6398,The Man Who Would Be King,983,PG,Adventure;Drama,1975
 6399,The Hundred-Foot Journey,228194,PG,Drama;Comedy,2014
 6400,Pawn Shop Chronicles,199420,R,Action;Comedy,2013
 6401,Breach,4169,PG-13,Drama;Thriller;Crime;History,2007
 6402,Light of My Life,441183,R,Science Fiction;Drama,2019
-6403,The Jerk,6471,R,Comedy,1979
-6404,Breakout,31671,PG,Action;Adventure;Thriller,1975
-6405,Oliver!,17917,G,Drama;Family;Music,1968
 6406,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",218778,PG,Family;Comedy,2014
 6407,Precious,25793,R,Drama,2009
