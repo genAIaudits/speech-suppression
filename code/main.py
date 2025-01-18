@@ -218,8 +218,8 @@ def bootstrap_imedians(data: pd.DataFrame, id_col, score_col, n: int=1000):
 
     for identity in full_identities_dict:
         full_identities_dict[identity].sort()
-        full_identities_dict[identity] = [full_identities_dict[identity][int(n*0.975-1)],
-                                                             full_identities_dict[identity][int(n*0.025)-1]]
+        full_identities_dict[identity] = [full_identities_dict[identity][int(len(full_identities_dict[identity])*0.975-1)],
+                                                             full_identities_dict[identity][int(len(full_identities_dict[identity])*0.025)-1]]
     return full_identities_dict
 
 
@@ -247,8 +247,8 @@ def bootstrap_ifprs(data: pd.DataFrame, id_col, flag_col, label_col, n: int=1000
 
     for identity in full_identities_dict:
         full_identities_dict[identity].sort()
-        full_identities_dict[identity] = [full_identities_dict[identity][int(n*0.975)-1], 
-                                          full_identities_dict[identity][int(n*0.025)-1]]
+        full_identities_dict[identity] = [full_identities_dict[identity][int(len(full_identities_dict[identity])*0.975)-1], 
+                                          full_identities_dict[identity][int(len(full_identities_dict[identity])*0.025)-1]]
     
     return full_identities_dict
 
@@ -1095,19 +1095,19 @@ def add_metrics(metric_func, identity='big')->None:
     adams_labels = 'toxicity,severe_toxicity,obscene,sexual_explicit,identity_attack,insult,threat'.split(',')
     adams_scores = ['overall toxicity', 'severe_toxicity', 'obscene', 'sexual_explicit', 'identity_attack', 'insult', 'threat']
     
-    metric_func('Data/CJadams/data_with_ME.csv', label_cols=adams_labels, dataset_name='Jigsaw kaggle', score_types=adams_scores, identity=identity)
-    metric_func('Data/Dixon/Data_with_ME.csv', label_cols=['toxicity'], dataset_name='Jigsaw Bias', score_types=['toxicity'], identity=identity)
-    metric_func('Data/Stormfront/stormfront_data_ME.csv', label_cols=['label'], dataset_name='Stormfront', score_types=['hate'], identity=identity)
-    metric_func('Data/Tweets/hate_twitter_data_with_ME.csv', label_cols=['Toxicity'], dataset_name='TweetEval', score_types=['hate'], data_subset='hate', identity=identity)
-    metric_func('Data/Tweets/offensive_twitter_data_with_ME.csv', label_cols=['Toxicity'], dataset_name='TweetEval', score_types=['offensive'], data_subset='offensive', identity=identity)
-    metric_func('Data/Markov/data_with_ME.csv', label_cols=openai_labels, dataset_name='OpenAI', score_types=openai_scores, identity=identity)
-    metric_func('Data/Movies/TMDB_with_ME.csv', label_cols=['PG-13 score'], dataset_name='Movie Plots', score_types=['PG-13 appro.'], identity=identity)
-    metric_func('Data/Movies/TMDB_with_ME.csv', label_cols=['PG score'], dataset_name='Movie Plots', score_types=['PG appro.'], identity=identity)
-    metric_func('Data/TV Shows/short_TMDB_with_ME.csv', label_cols=['PG score', 'PG-13 score'], dataset_name='TV Synops.', score_types=['PG appro.', 'PG-13 appro.'], data_subset='Short TMDB', identity=identity)
-    metric_func('Data/TV Shows/mid_wiki_with_ME.csv', label_cols=['PG score', 'PG-13 score'], dataset_name='TV Synops.', score_types=['PG appro.', 'PG-13 appro.'], data_subset='med. Wiki.', identity=identity)
-    metric_func('Data/TV Shows/long_IMDB_with_ME.csv', label_cols=['PG score', 'PG-13 score'], dataset_name='TV Synops.', score_types=['PG appro.', 'PG-13 appro.'], data_subset='long IMDB', identity=identity)
-    metric_func('Data/Combined/genAI_combined.csv', label_cols=['true_label'], dataset_name='GenAI', score_types=['True label'], identity=identity)
-    metric_func('Data/Combined/traditional_combined.csv', label_cols=['true_label'], dataset_name='Traditional', score_types=['True label'], identity=identity)
+    metric_func('Data/CJadams/data_with_ME.csv', label_cols=adams_labels, dataset_name='Jigsaw kaggle', score_types=adams_scores, identity_type=identity)
+    metric_func('Data/Dixon/Data_with_ME.csv', label_cols=['toxicity'], dataset_name='Jigsaw Bias', score_types=['toxicity'], identity_type=identity)
+    metric_func('Data/Stormfront/stormfront_data_ME.csv', label_cols=['label'], dataset_name='Stormfront', score_types=['hate'], identity_type=identity)
+    metric_func('Data/Tweets/hate_twitter_data_with_ME.csv', label_cols=['Toxicity'], dataset_name='TweetEval', score_types=['hate'], data_subset='hate', identity_type=identity)
+    metric_func('Data/Tweets/offensive_twitter_data_with_ME.csv', label_cols=['Toxicity'], dataset_name='TweetEval', score_types=['offensive'], data_subset='offensive', identity_type=identity)
+    metric_func('Data/Markov/data_with_ME.csv', label_cols=openai_labels, dataset_name='OpenAI', score_types=openai_scores, identity_type=identity)
+    metric_func('Data/Movies/TMDB_with_ME.csv', label_cols=['PG-13 score'], dataset_name='Movie Plots', score_types=['PG-13 appro.'], identity_type=identity)
+    metric_func('Data/Movies/TMDB_with_ME.csv', label_cols=['PG score'], dataset_name='Movie Plots', score_types=['PG appro.'], identity_type=identity)
+    metric_func('Data/TV Shows/short_TMDB_with_ME.csv', label_cols=['PG score', 'PG-13 score'], dataset_name='TV Synops.', score_types=['PG appro.', 'PG-13 appro.'], data_subset='Short TMDB', identity_type=identity)
+    metric_func('Data/TV Shows/mid_wiki_with_ME.csv', label_cols=['PG score', 'PG-13 score'], dataset_name='TV Synops.', score_types=['PG appro.', 'PG-13 appro.'], data_subset='med. Wiki.', identity_type=identity)
+    metric_func('Data/TV Shows/long_IMDB_with_ME.csv', label_cols=['PG score', 'PG-13 score'], dataset_name='TV Synops.', score_types=['PG appro.', 'PG-13 appro.'], data_subset='long IMDB', identity_type=identity)
+    metric_func('Data/Combined/genAI_combined.csv', label_cols=['true_label'], dataset_name='GenAI', score_types=['True label'], identity_type=identity)
+    metric_func('Data/Combined/traditional_combined.csv', label_cols=['true_label'], dataset_name='Traditional', score_types=['True label'], identity_type=identity)
 
 
 def make_ME_med_charts():
@@ -1252,12 +1252,13 @@ def main():
 
 
     # add_metrics(identity_ifprs)
-    # add_metrics(identity_imedians)
+    add_metrics(identity_imedians)
     
     plt.rcParams.update({'font.size': 48})
     make_ME_med_charts()
     make_ME_fpr_charts()
-    # get_overal_FPR()
+    get_overal_FPR()
+    # make_lw_data()
     pass
 
 
@@ -1314,5 +1315,5 @@ def make_lw_data():
     
     
 if __name__ == "__main__":
-    # main()
+    main()
     pass
