@@ -1,15 +1,17 @@
 # Data and code for the paper "Identity-related Speech Suppression in Generative AI Content Moderation"
 
 ## Reference information
-Grace Proebsting, Oghenefejiro Isaacs Anigboro, Charlie M. Crawford, Danaé Metaxa, and Sorelle A. Friedler. [Identity-related Speech Suppression in Generative AI Content Moderation](https://arxiv.org/abs/2409.13725) ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), 2025.
+Grace Proebsting, Oghenefejiro Isaacs Anigboro, Charlie M. Crawford, Danaé Metaxa, and Sorelle A. Friedler. [Identity-related Speech Suppression in Generative AI Content Moderation](https://arxiv.org/abs/2409.13725). ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), 2025.
 
 ### Bibtex
+```
 @inproceedings{proebsting2025identity,
-  title={Identity-related Speech Suppression in Generative {AI} Content Moderation},
-  author={Proebsting, Grace and Anigboro, Oghenefejiro Isaacs and Crawford, Charlie M and  Metaxa, Dana{\'e} and Friedler, Sorelle A},
-  booktitle={Proceedings of the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization ({EAAMO})},
-  year={2025}
+    title={Identity-related Speech Suppression in Generative {AI} Content Moderation},
+    author={Proebsting, Grace and Anigboro, Oghenefejiro Isaacs and Crawford, Charlie M and  Metaxa, Dana{\'e} and Friedler, Sorelle A},
+    booktitle={Proceedings of the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization ({EAAMO})},
+    year={2025}
 }
+```
 
 ## SCHEMA
 
